@@ -2,7 +2,7 @@
 
 # Awesome Desktop GUI Websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-I've always been a fan of websites, web apps, portfolios which resemble desktop computer graphical user interfaces so here is an **awesome curated list**!
+I've always been a fan of websites, web apps and portfolios which resemble desktop computer graphical user interfaces so here is an **awesome curated list**!
 
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
 
@@ -28,7 +28,7 @@ I've always been a fan of websites, web apps, portfolios which resemble desktop 
 
 ## Author
 
-* [Simone `syx`](https://twitter.com/syxanash)
+* [Simone `syx` Marzulli](https://twitter.com/syxanash)
 
 ## License
 
