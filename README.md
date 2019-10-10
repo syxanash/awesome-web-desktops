@@ -27,6 +27,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [Windows XP Simulator](https://geekprank.com/xp-simulator.php)
 * [Eric Bernacchi](http://eeerik.com)
 * [OS.js Demonstration](https://demo.os-js.org/)
+* [Mariano Pascual](http://www.marianopascual.me)
 
 ## Author
 
