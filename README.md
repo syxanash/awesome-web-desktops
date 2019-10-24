@@ -30,6 +30,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [Mariano Pascual](http://www.marianopascual.me)
 * [FVWM](http://www.fvwm.org)
 * [AfterStep WM](http://www.afterstep.org)
+* [98.js](https://98.js.org)
 
 ## Author
 
