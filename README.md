@@ -33,10 +33,11 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [98.js](https://98.js.org)
 * [Broken Reality](https://brokenrealitygame.tumblr.com)
 * [WindowMaker](https://www.windowmaker.org)
+* [Whimsy Space](https://whimsy.space)
 
 ## Author
 
-* [Simone `syx` Marzulli](https://twitter.com/syxanash)
+* Simone `syx` Marzulli
 
 ## License
 
