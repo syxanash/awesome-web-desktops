@@ -24,7 +24,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [frankenSim](https://frankensim.animade.tv)
 * [Jack Kim](https://www.jackk.im)
 * [BritneyOS'99](https://www.itsbritneybot.com)
-* [Windows XP Simulator](https://geekprank.com/xp-simulator.php)
+* [Geek Prank](https://geekprank.com)
 * [Eric Bernacchi](http://eeerik.com)
 * [OS.js Demonstration](https://demo.os-js.org)
 * [Mariano Pascual](http://www.marianopascual.me)
