@@ -35,6 +35,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windowmaker.org) WindowMaker](https://www.windowmaker.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://whimsy.space) Whimsy Space](https://whimsy.space)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ultimatedenzelcurry.com) Denzel Curry x Kenny Beats](https://ultimatedenzelcurry.com)
 
 ## Author
 
