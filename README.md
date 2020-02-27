@@ -40,6 +40,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://charlie.bz) Charlie Somerville](https://charlie.bz)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://timmorgan.org) Tim R. Morgan](https://timmorgan.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dev.lotw.xyz/desk.os) Linux on the Web](https://dev.lotw.xyz/desk.os)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.eatsleepwork.com) Linux on the Web](https://www.eatsleepwork.com)
 
 ## Author
 
