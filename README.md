@@ -47,6 +47,7 @@ I've always been a fan of websites, web apps and portfolios which resemble deskt
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.matthewpmunger.com) Matthew P Munger](https://www.matthewpmunger.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://waller.is) waller.is](https://waller.is)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win98icons.alexmeub.com) Windows 98 Icon Viewer](https://win98icons.alexmeub.com)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jurassicsystems.com) Jurassic Systems](https://jurassicsystems.com)
 
 ## Author
 
