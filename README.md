@@ -5,6 +5,7 @@
 If you are a fan of websites, web apps and portfolios which resemble desktop graphical user interfaces here is an **awesome curated list**!
 
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
+- To know more about web desktops you should read up the Wikipedia [article here](https://en.wikipedia.org/wiki/Web_desktop).
 
 
 ## Websites
