@@ -52,7 +52,15 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.burgersoft.co) Burgersoft® Corporation](https://www.burgersoft.co)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jspaint.app) JS Paint](https://jspaint.app)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) KALIL HADDAD | filmmaker](https://kalilhaddad.com)
-* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://n10.as) N10.AS RADIO ](http://www.n10.as/)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://n10.as) N10.AS RADIO](http://www.n10.as)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rahul.io) Rahul.io](https://rahul.io)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://emupedia.net/beta/emuos/) EmuOS](https://emupedia.net/beta/emuos/)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://aaronos.dev/AaronOS/aosBeta.php) AaronOS](https://aaronos.dev/AaronOS/aosBeta.php)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://altaica.altervista.org) CloudDesk](http://altaica.altervista.org)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://webdesktop.net) Web Desktop](https://webdesktop.net)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://packard-belle.netlify.com) Windows 98 -- Packard Belle](https://packard-belle.netlify.com)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://disjfa.github.io/vue-win-3.1/) vue win3.1 ](https://disjfa.github.io/vue-win-3.1/)
+
 
 ## Author
 
