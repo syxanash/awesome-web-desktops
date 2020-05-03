@@ -58,7 +58,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://emupedia.net/beta/emuos/) EmuOS](https://emupedia.net/beta/emuos/)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://aaronos.dev/AaronOS/aosBeta.php) AaronOS](https://aaronos.dev/AaronOS/aosBeta.php)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://altaica.altervista.org) CloudDesk](http://altaica.altervista.org)
-* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://webdesktop.net) Web Desktop](https://webdesktop.net)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://packard-belle.netlify.com) Windows 98 -- Packard Belle](https://packard-belle.netlify.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://disjfa.github.io/vue-win-3.1/) vue win3.1](https://disjfa.github.io/vue-win-3.1/)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://agoraroad.com) Welcome to Agora Road](http://agoraroad.com)
