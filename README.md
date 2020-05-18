@@ -18,7 +18,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wwwtxt.org/about) WWWTXT](https://wwwtxt.org/about)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windows93.net) Windows 93](https://www.windows93.net)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.expensive.toys) Artur Bień](https://www.expensive.toys)
-* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.enhance.computer) Enhance Computer](https://www.enhance.computer)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.therestartpage.com) The Restart Page](http://www.therestartpage.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://webamp.org) Webamp](https://webamp.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://pippinbarr.github.io/itisasifyouweredoingwork) It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork)
@@ -67,6 +66,9 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://niceware.neocities.org) baz's PC](https://niceware.neocities.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.trueschool.se) TrueSchool Ascii](https://www.trueschool.se)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://victorribeiro.com) Victor Ribeiro](https://victorribeiro.com)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://nirri.us) Nirrius Creative Studio](https://nirri.us)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://hillarychurchill.com) Hillary Churchill - Copywriter](http://hillarychurchill.com)
+
 
 ## Author
 
