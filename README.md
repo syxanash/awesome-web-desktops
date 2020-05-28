@@ -68,6 +68,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://victorribeiro.com) Victor Ribeiro](https://victorribeiro.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://nirri.us) Nirrius Creative Studio](https://nirri.us)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://hillarychurchill.com) Hillary Churchill - Copywriter](http://hillarychurchill.com)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://billsworld.neocities.org) Bill's World Wide Boutique](https://billsworld.neocities.org)
 
 
 ## Author
