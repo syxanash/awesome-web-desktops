@@ -1,6 +1,6 @@
 ![bg](header.png)
 
-# Awesome Web Desktops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Web Desktops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![88x31](88x31.gif)
 
 If you are a fan of websites, web apps and portfolios which resemble desktop graphical user interfaces here is an **awesome curated list**!
 
