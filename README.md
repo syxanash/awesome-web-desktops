@@ -72,7 +72,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://signal3.neocities.org) NyjaOS](https://signal3.neocities.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://janusvr.neocities.org) JanusVR](https://janusvr.neocities.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theindieweb.com) The Indie Web](https://theindieweb.com)
-
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hannahblair.co.uk) hannah blair | developer & designer](https://hannahblair.co.uk)
 
 ## Author
 
