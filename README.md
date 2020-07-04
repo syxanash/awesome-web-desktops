@@ -75,6 +75,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hannahblair.co.uk) hannah blair | developer & designer](https://hannahblair.co.uk)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ka.ge) 98 KAGE](https://ka.ge)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://iamerd.xyz) erdOS](https://iamerd.xyz)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win1.krnl386.com) Windows 1.0](https://win1.krnl386.com)
 
 ## Author
 
