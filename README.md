@@ -80,7 +80,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://elkael.com) Maxime Elkael - portfolio](https://elkael.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://os.virusav.com) VirusvAV](https://os.virusav.com)
 
-
 ## Author
 
 * Simone `syx` Marzulli
