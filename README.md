@@ -84,7 +84,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://repeater.space) Repeater](https://repeater.space)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wuerfeldev.de) WuerfelDev](https://wuerfeldev.de)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://opensource.glassanimals.com) Glass Animals OPEN SOURCE](https://opensource.glassanimals.com)
-* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://makewordart.com/) Make WordArt](https://makewordart.com/)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://makewordart.com) Make WordArt](https://makewordart.com)
 
 ## Author
 
