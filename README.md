@@ -61,7 +61,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://disjfa.github.io/vue-win-3.1/) vue win3.1](https://disjfa.github.io/vue-win-3.1/)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://agoraroad.com) Welcome to Agora Road](http://agoraroad.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winmine-exe.now.sh) Minesweeper](https://winmine-exe.now.sh)
-* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gamithra.com) gamithra.com](https://gamithra.com)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gamithra.com) Gamithra OS](https://gamithra.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://maple.pet) maple's website!](https://maple.pet)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://niceware.neocities.org) baz's PC](https://niceware.neocities.org)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.trueschool.se) TrueSchool Ascii](https://www.trueschool.se)
