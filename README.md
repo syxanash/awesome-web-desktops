@@ -86,6 +86,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://makewordart.com) Make WordArt](https://makewordart.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ytcracker.com) ytOS](https://ytcracker.com)
 * [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows-xp.netlify.app) Windows XP](https://windows-xp.netlify.app)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://56k-modem.online) 56k-modem](https://56k-modem.online)
+* [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://racertrash.com) RACER TRASH](https://racertrash.com)
 
 ## Author
 
