@@ -30,7 +30,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://eeerik.com) Eric Bernacchi](http://eeerik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://demo.os-js.org) OS.js Demonstration](https://demo.os-js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/os-js/OS.js) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.marianopascual.me) Mariano Pascual](http://www.marianopascual.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.fvwm.org) FVWM](http://www.fvwm.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.afterstep.org) AfterStep WM](http://www.afterstep.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://98.js.org) 98.js](https://98.js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1j01/98) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://brokenrealitygame.tumblr.com) Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
