@@ -90,6 +90,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://racertrash.com) RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://cutoutfest.com) CutOut Fest](https://cutoutfest.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://marcmascarell.github.io/Vuindows) Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
+[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com) Gustavo Chico](https://gustavochico.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Author
 
