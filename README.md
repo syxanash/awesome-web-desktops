@@ -38,7 +38,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ultimatedenzelcurry.com) Denzel Curry x Kenny Beats](https://ultimatedenzelcurry.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://charlie.bz) Charlie Somerville](https://charlie.bz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://timmorgan.org) Tim R. Morgan](https://timmorgan.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dev.lotw.xyz/desk.os) Linux on the Web](https://dev.lotw.xyz/desk.os) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.eatsleepwork.com) Eat Sleep Work](https://www.eatsleepwork.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
