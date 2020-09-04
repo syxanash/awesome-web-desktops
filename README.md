@@ -12,6 +12,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 
 | Site name | Source code |
 | --- | --- |
+[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://koas.dev/m2pc) My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://worldwideweb.cern.ch/browser) WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://poolside.fm) Poolside FM](https://poolside.fm) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://plaza.one) Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
