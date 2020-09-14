@@ -38,7 +38,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ultimatedenzelcurry.com) Denzel Curry x Kenny Beats](https://ultimatedenzelcurry.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://timmorgan.org) Tim R. Morgan](https://timmorgan.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dev.lotw.xyz/desk.os) Linux on the Web](https://dev.lotw.xyz/desk.os) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.eatsleepwork.com) Eat Sleep Work](https://www.eatsleepwork.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://andgallery.art) And Gallery](https://andgallery.art) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -50,7 +49,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jurassicsystems.com) Jurassic Systems](https://jurassicsystems.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tojrobinson/jurassicsystems.com) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.macpaint.org) The Macpaint Gallery](http://www.macpaint.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.burgersoft.co) Burgersoft® Corporation](https://www.burgersoft.co) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) KALIL HADDAD \| filmmaker](https://kalilhaddad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://n10.as) N10.AS RADIO](http://www.n10.as) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rahul.io) Rahul.io](https://rahul.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/lolstring/window98-html-css-js) |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://emupedia.net/beta/emuos/) EmuOS](https://emupedia.net/beta/emuos/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Emupedia/emupedia.github.io) |
