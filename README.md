@@ -40,7 +40,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dev.lotw.xyz/desk.os) Linux on the Web](https://dev.lotw.xyz/desk.os) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.eatsleepwork.com) Eat Sleep Work](https://www.eatsleepwork.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://andgallery.art) And Gallery](https://andgallery.art) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.chiptune.com) www.chiptune.com](http://www.chiptune.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.virtualdesktop.org) Virtual Desktop](http://www.virtualdesktop.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![thumbnail](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.matthewpmunger.com) Matthew P Munger](https://www.matthewpmunger.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
