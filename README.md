@@ -103,6 +103,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://x.dustinbrett.com) x](https://x.dustinbrett.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/DustinBrett/x) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://msos.midspike.com) MSOS Concept](https://msos.midspike.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://novov.neocities.org/liked/software.html) Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sick7.com) SICK7 Official Online Boutique](https://sick7.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 
 ## Author
