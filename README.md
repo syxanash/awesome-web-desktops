@@ -66,7 +66,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://hillarychurchill.com) Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://billsworld.neocities.org) Bill's World Wide Boutique](https://billsworld.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://signal3.neocities.org) NyjaOS](https://signal3.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://janusvr.neocities.org) JanusVR](https://janusvr.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://derplayer.neocities.org/repo/win/) Windows 95 Replica](https://derplayer.neocities.org/repo/win/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theindieweb.com) The Indie Web](https://theindieweb.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tholman/tholman-blog) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hannahblair.co.uk) hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ka.ge) 98 KAGE](https://ka.ge) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pkage/98) |
