@@ -108,6 +108,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 
 ## Removed
 
+<img src="https://i.imgur.com/5wfhwR9.png" alt="bin" />
+
 Here are the websites that were previously on the list but changed design.
 The Web Deskops designs should still be available on [archive.org](https://archive.org).
 
