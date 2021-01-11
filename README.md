@@ -105,7 +105,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://novov.neocities.org/liked/software.html) Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sick7.com) SICK7 Official Online Boutique](https://sick7.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Author
 
