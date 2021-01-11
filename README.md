@@ -108,7 +108,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 
 ## Removed
 
-Here's a list of sites that were previously on the list but changed design.
+Here are the websites that were previously on the list but changed design.
 The Web Deskops designs should still be available on [archive.org](https://archive.org).
 
 | Site name |
