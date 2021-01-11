@@ -111,16 +111,17 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 <img src="https://i.imgur.com/5wfhwR9.png" alt="bin" />
 
 Here are the websites that were previously on the list but changed design.
-The Web Deskops designs should still be available on [archive.org](https://archive.org).
+
+The Web Deskops designs should still be available on [archive.org](https://archive.org)
 
 | Site name |
 |---|
-| https://www.burgersoft.co |
-| https://www.rammstein.de/de |
-| http://www.palm.computer |
-| https://timmorgan.org |
-| https://webdesktop.net |
-| https://www.andgallery.art |
+| [burgersoft.co](https://web.archive.org/web/*/https://www.burgersoft.co) |
+| [rammstein.de](https://web.archive.org/web/*/https://www.rammstein.de/de) |
+| [palm.computer](https://web.archive.org/web/*/http://www.palm.computer) |
+| [timmorgan.org](https://web.archive.org/web/*/https://timmorgan.org) |
+| [webdesktop.net](https://web.archive.org/web/*/https://webdesktop.net) |
+| [andgallery.art](https://web.archive.org/web/*/https://www.andgallery.art) |
 
 ## Author
 
