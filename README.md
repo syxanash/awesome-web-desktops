@@ -104,6 +104,21 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sick7.com) SICK7 Official Online Boutique](https://sick7.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) Kalil Haddad](https://kalilhaddad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+
+## Removed
+
+Here's a list of sites that were previously on the list but changed design.
+The Web Deskops designs should still be available on [archive.org](https://archive.org).
+
+| Site name |
+|---|
+| https://www.burgersoft.co |
+| https://www.rammstein.de/de |
+| http://www.palm.computer |
+| https://timmorgan.org |
+| https://webdesktop.net |
+| https://www.andgallery.art |
 
 ## Author
 
