@@ -47,7 +47,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win98icons.alexmeub.com) Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jurassicsystems.com) Jurassic Systems](https://jurassicsystems.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tojrobinson/jurassicsystems.com) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.macpaint.org) The Macpaint Gallery](http://www.macpaint.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.burgersoft.co) Burgersoft® Corporation](https://www.burgersoft.co) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://n10.as) N10.AS RADIO](http://www.n10.as) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rahul.io) Rahul.io](https://rahul.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/lolstring/window98-html-css-js) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://emupedia.net/beta/emuos/) EmuOS](https://emupedia.net/beta/emuos/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Emupedia/emupedia.github.io) |
@@ -96,7 +95,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://toxiccode.com) ToxicCode.com](http://toxiccode.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hyena.network/geocity/) HyNET Geocity](https://hyena.network/geocity/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://unremarkablegarden.com) Unremarkable Garden](https://unremarkablegarden.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.rammstein.de) Herzeleid Rammstein](https://www.rammstein.de) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://flexedupshawty.com) FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://aconfuseddragon.neocities.org) aconfuseddragon's art and nostalgia corner](https://aconfuseddragon.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://violet.pm) RaccOS 9](https://violet.pm) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
