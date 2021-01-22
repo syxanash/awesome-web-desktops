@@ -105,6 +105,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) Kalil Haddad](https://kalilhaddad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
