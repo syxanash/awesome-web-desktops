@@ -107,7 +107,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) Kalil Haddad](https://kalilhaddad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://we-link.chronusartcenter.org) WE=LINK](http://we-link.chronusartcenter.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
 
 ## Removed
 
