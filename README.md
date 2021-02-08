@@ -109,8 +109,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.bigdeskenergy.com) Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://github95.now.sh) Github95](https://github95.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/edwardpayton/github95) |
-
-
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://deryasdesktop.com) An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/D-Antonelli/portfolio) |
 
 ## Removed
 
