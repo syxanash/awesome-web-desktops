@@ -104,11 +104,12 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sick7.com) SICK7 Official Online Boutique](https://sick7.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kalilhaddad.com) Kalil Haddad](https://kalilhaddad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://we-link.chronusartcenter.org) WE=LINK](http://we-link.chronusartcenter.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.bigdeskenergy.com) Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://github95.now.sh) Github95](https://github95.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/edwardpayton/github95) |
+
 
 
 ## Removed
@@ -127,6 +128,7 @@ A snapshot of the Web Deskop version should still be available on [archive.org](
 | [timmorgan.org](https://web.archive.org/web/*/https://timmorgan.org) |
 | [webdesktop.net](https://web.archive.org/web/*/https://webdesktop.net) |
 | [andgallery.art](https://web.archive.org/web/*/https://www.andgallery.art) |
+| [kalilhaddad.com](https://web.archive.org/web/*/https://kalilhaddad.com) |
 
 ## Author
 
