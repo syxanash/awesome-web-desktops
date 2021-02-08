@@ -85,7 +85,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://racertrash.com) RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://cutoutfest.com) CutOut Fest](https://cutoutfest.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://marcmascarell.github.io/Vuindows) Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com) Gustavo Chico](https://gustavochico.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com/desktop) Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://digital-r41n.neocities.org) digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kryptonaut.neocities.org) 𝕂𝕣𝕪𝕡𝕥 𝕆𝕊](https://kryptonaut.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hacker-simulator.com) Online Hacker Simulator](https://hacker-simulator.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -108,6 +108,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://we-link.chronusartcenter.org) WE=LINK](http://we-link.chronusartcenter.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.bigdeskenergy.com) Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+
 
 ## Removed
 
