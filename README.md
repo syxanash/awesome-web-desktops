@@ -69,7 +69,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theindieweb.com) The Indie Web](https://theindieweb.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tholman/tholman-blog) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hannahblair.co.uk) hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ka.ge) 98 KAGE](https://ka.ge) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pkage/98) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://iamerd.xyz) erdOS](https://iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://erd-os.iamerd.xyz) erdOS](https://erd-os.iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win1.krnl386.com) Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://glenda.0x46.net) glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://elkael.com) Maxime Elkael - portfolio](https://elkael.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/melkael/melkael.github.io) |
