@@ -113,7 +113,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://manthee1.github.io/linuxWeb/dist/) linuxWeb](https://manthee1.github.io/linuxWeb/dist/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://yja.me) Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
-
 ## Removed
 
 <img src="https://i.imgur.com/5wfhwR9.png" alt="bin" />
