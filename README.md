@@ -112,6 +112,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://deryasdesktop.com) An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/D-Antonelli/portfolio) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://manthee1.github.io/linuxWeb/dist/) linuxWeb](https://manthee1.github.io/linuxWeb/dist/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://yja.me) Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desktop.sonspring.com) jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
 
 ## Removed
 
