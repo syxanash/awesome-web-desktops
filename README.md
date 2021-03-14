@@ -16,7 +16,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://poolside.fm) Poolside FM](https://poolside.fm) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://plaza.one) Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ash.ms) Ash Kyd](https://ash.ms) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AshKyd/ui95) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows96.net) Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wwwtxt.org/about) WWWTXT](https://wwwtxt.org/about) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windows93.net) Windows 93](https://www.windows93.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -114,6 +113,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://manthee1.github.io/linuxWeb/dist/) linuxWeb](https://manthee1.github.io/linuxWeb/dist/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://yja.me) Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desktop.sonspring.com) jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows96.net) Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
