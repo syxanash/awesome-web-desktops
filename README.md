@@ -38,7 +38,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ultimatedenzelcurry.com) Denzel Curry x Kenny Beats](https://ultimatedenzelcurry.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dev.lotw.xyz/desk.os) Linux on the Web](https://dev.lotw.xyz/desk.os) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.eatsleepwork.com) Eat Sleep Work](https://www.eatsleepwork.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.chiptune.com) www.chiptune.com](http://www.chiptune.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.virtualdesktop.org) Virtual Desktop](http://www.virtualdesktop.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -132,6 +131,8 @@ A snapshot of the Web Deskop version should still be available on [archive.org](
 | [webdesktop.net](https://web.archive.org/web/*/https://webdesktop.net) |
 | [andgallery.art](https://web.archive.org/web/*/https://www.andgallery.art) |
 | [kalilhaddad.com](https://web.archive.org/web/*/https://kalilhaddad.com) |
+| [dev.lotw.xyz/desk.os](https://web.archive.org/web/*/https://dev.lotw.xyz/desk.os) |
+
 
 ## Author
 
