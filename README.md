@@ -113,6 +113,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://yja.me) Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desktop.sonspring.com) jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows96.net) Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://thecodingforge.com.au) The Coding Forge](https://thecodingforge.com.au) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Yalgie/website) |
 
 ## Removed
 
