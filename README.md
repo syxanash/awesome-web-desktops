@@ -25,7 +25,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://pippinbarr.github.io/itisasifyouweredoingwork) It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://frankensim.animade.tv) frankenSim](http://frankensim.animade.tv) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.jackk.im) Jack Kim](https://www.jackk.im) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.itsbritneybot.com) BritneyOS'99](https://www.itsbritneybot.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://geekprank.com) Geek Prank](https://geekprank.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://eeerik.com) Eric Bernacchi](http://eeerik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://demo.os-js.org) OS.js Demonstration](https://demo.os-js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/os-js/OS.js) |
@@ -133,7 +132,7 @@ A snapshot of the Web Deskop version should still be available on [archive.org](
 | [andgallery.art](https://web.archive.org/web/*/https://www.andgallery.art) |
 | [kalilhaddad.com](https://web.archive.org/web/*/https://kalilhaddad.com) |
 | [dev.lotw.xyz/desk.os](https://web.archive.org/web/*/https://dev.lotw.xyz/desk.os) |
-
+| [itsbritneybot.com](https://web.archive.org/web/*/https://www.itsbritneybot.com) |
 
 ## Author
 
