@@ -126,7 +126,7 @@ A snapshot of the Web Deskop version should still be available on [archive.org](
 |---|
 | [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 | [Herzeleid (XXV Anniversary Edition – Remastered)](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
-| [palm.computer](https://web.archive.org/web/*/http://www.palm.computer) |
+| [Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
 | [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 | [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 | [and gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
