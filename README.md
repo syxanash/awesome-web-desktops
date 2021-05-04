@@ -116,6 +116,10 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://vivek9patel.github.io) Vivek Patel - Computer Science Student](https://vivek9patel.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/vivek9patel/vivek9patel.github.io) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winampify.io) Winampify](https://winampify.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/remigallego/winampify) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desk.glitchy.website) Try Andy's Desk](https://desk.glitchy.website) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://tilde.town/~selfsame/) tildeOS](https://tilde.town/~selfsame/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jackadam.cc) Jack Adam](https://jackadam.cc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+
+
 
 ## Removed
 
