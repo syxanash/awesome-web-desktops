@@ -127,7 +127,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 
 Here are the websites that were previously on the list but changed design :(
 
-A snapshot of the Web Deskop version should still be available on [archive.org](https://archive.org)
+A snapshot of the Web Desktop version should still be available on [archive.org](https://archive.org)
 
 | Site name |
 |---|
