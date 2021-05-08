@@ -118,8 +118,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desk.glitchy.website) Try Andy's Desk](https://desk.glitchy.website) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://tilde.town/~selfsame/) tildeOS](https://tilde.town/~selfsame/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jackadam.cc) Jack Adam](https://jackadam.cc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-
-
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://portfolio.zxh.io) Xiaohan Zou's Portfolio](https://portfolio.zxh.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Renovamen/playground-macos) |
 
 ## Removed
 
