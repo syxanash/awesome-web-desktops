@@ -99,7 +99,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://x.dustinbrett.com) x](https://x.dustinbrett.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/DustinBrett/x) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://msos.midspike.com) MSOS Concept](https://msos.midspike.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://novov.neocities.org/liked/software.html) Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sick7.com) SICK7 Official Online Boutique](https://sick7.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -142,6 +141,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | kalilhaddad.com |
 | dev.lotw.xyz/desk.os |
 | [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
+| [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 
 ## Author
 
