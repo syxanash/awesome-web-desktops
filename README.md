@@ -127,6 +127,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://itzrex.neocities.org) RexOS](https://itzrex.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://joeyonng.github.io) Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.blueedge.me) Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win7simu.visnalize.com) Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
