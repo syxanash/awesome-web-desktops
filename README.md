@@ -128,6 +128,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://joeyonng.github.io) Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.blueedge.me) Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win7simu.visnalize.com) Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win7simu.visnalize.com) Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
@@ -139,6 +140,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 
 | Site name |
 |---|
+| [9/11 Realtime](https://web.archive.org/web/20210911004838/http://911realtime.org/) |
 | [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 | [Herzeleid (XXV Anniversary Edition – Remastered)](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
 | [Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
