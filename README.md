@@ -128,6 +128,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop gra
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.blueedge.me) Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win7simu.visnalize.com) Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ethanf44.xyz/rimet/) Rimet Desktop](https://ethanf44.xyz/rimet/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://al1-ce.neocities.org) AtheOS](https://al1-ce.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
