@@ -80,7 +80,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows-xp.netlify.app) Windows XP](https://windows-xp.netlify.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://56k-modem.online) 56k-modem](https://56k-modem.online) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://racertrash.com) RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://cutoutfest.com) CutOut Fest](https://cutoutfest.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://marcmascarell.github.io/Vuindows) Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com/desktop) Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://digital-r41n.neocities.org) digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -157,6 +156,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | dev.lotw.xyz/desk.os |
 | [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
+| [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 
 ## Author
 
