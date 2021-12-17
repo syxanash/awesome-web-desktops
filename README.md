@@ -133,6 +133,9 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.anothertee.xyz) ANOTHER TEE](https://www.anothertee.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rauno.me) Rauno Freiberg](https://rauno.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.donchia.tech) Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dhs17y2adonchia/win95) |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://lumiset.se) LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://clickbecause.net) clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://clickbecause.net) clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
