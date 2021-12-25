@@ -51,7 +51,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://altaica.altervista.org) CloudDesk](http://altaica.altervista.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://packard-belle.netlify.com) Windows 98 -- Packard Belle](https://packard-belle.netlify.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/padraigfl/packard-belle-desktop) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://disjfa.github.io/vue-win-3.1/) vue win3.1](https://disjfa.github.io/vue-win-3.1/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/disjfa/vue-win-3.1) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://agoraroad.com) Welcome to Agora Road](http://agoraroad.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winmine-exe.now.sh) Minesweeper](https://winmine-exe.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1000hz/winmine-exe) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gamithra.com) Gamithra OS](https://gamithra.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://maple.pet) maple's website!](https://maple.pet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -159,6 +158,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
+| [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 
 ## Author
 
