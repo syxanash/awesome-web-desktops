@@ -82,7 +82,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://marcmascarell.github.io/Vuindows) Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com/desktop) Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://digital-r41n.neocities.org) digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kryptonaut.neocities.org) 𝕂𝕣𝕪𝕡𝕥 𝕆𝕊](https://kryptonaut.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kry.pt/#OSVERSIONS) KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hacker-simulator.com) Online Hacker Simulator](https://hacker-simulator.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://tetrageddon.com) Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://forums.awgeshit.com) AWGE - Forum](https://forums.awgeshit.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
