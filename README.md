@@ -137,6 +137,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://911realtime.org) 9/11 Realtime](https://911realtime.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://coreos.io) Core-OS](https://coreos.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/timhow38/Resume-WebApplication) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://generative.3d2k.com) Frank Force - Generative Art](https://generative.3d2k.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/KilledByAPixel/OS13k) |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://noam-rubin.com) Noam Rubin](https://noam-rubin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
 
 ## Removed
 
