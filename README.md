@@ -140,7 +140,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://insafkhamzin.com) Insaf Khamzin](https://insafkhamzin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/InsafKhamzin/portfolio) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://cobradile.neocities.org) Cobra!'s Website](https://cobradile.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jonzav.me) Jonathan Zavialov](https://jonzav.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/JonZavialov/portfolio2) |
-
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sava.io) Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
