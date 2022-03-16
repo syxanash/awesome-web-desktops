@@ -12,6 +12,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 | Site name | Source code |
 | --- | --- |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://worldwideweb.cern.ch/browser) WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://plaza.one) Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://poolsuite.net) Poolsuite](https://poolsuite.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ash.ms) Ash Kyd](https://ash.ms) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AshKyd/ui95) |
@@ -154,7 +155,6 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 
 | Site name |
 |---|
-| [WorldWideWeb](https://web.archive.org/web/20220108223035/https://worldwideweb.cern.ch/browser/) |
 | [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
 | [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 | [Herzeleid (XXV Anniversary Edition – Remastered)](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
