@@ -171,7 +171,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 
 ## Author
 
-* Simone `syx` Marzulli
+Simone `syx` Marzulli && [interweb friends](https://github.com/syxanash/awesome-web-desktops/graphs/contributors)
 
 ## License
 
