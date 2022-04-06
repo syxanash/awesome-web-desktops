@@ -143,7 +143,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jonzav.me) Jonathan Zavialov](https://jonzav.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/JonZavialov/portfolio2) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sava.io) Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kanye2049.com) KANYE 2049](https://kanye2049.com/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.vercel.app) Windows 11 in Preact](https://win11.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/piyushsuthar/windows-11-web) |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rebornxp.js.org) RebornXP](https://rebornxp.js.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
