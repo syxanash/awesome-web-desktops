@@ -35,7 +35,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windowmaker.org) WindowMaker](https://www.windowmaker.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://whimsy.space) Whimsy Space](https://whimsy.space) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/STRd6/zine) |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ultimatedenzelcurry.com) Denzel Curry x Kenny Beats](https://ultimatedenzelcurry.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.chiptune.com) www.chiptune.com](http://www.chiptune.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.virtualdesktop.org) Virtual Desktop](http://www.virtualdesktop.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -156,6 +155,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 
 | Site name |
 |---|
+| [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 | [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
 | [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 | [Herzeleid (XXV Anniversary Edition – Remastered)](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
