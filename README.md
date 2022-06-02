@@ -12,6 +12,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 | Site name | Source code |
 | --- | --- |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://puter.com) Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://worldwideweb.cern.ch/browser) WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://plaza.one) Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://poolsuite.net) Poolsuite](https://poolsuite.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
