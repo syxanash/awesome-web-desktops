@@ -146,6 +146,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rebornxp.js.org) RebornXP](https://rebornxp.js.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theoldnet.com/desktop/) WWWerd](https://theoldnet.com/desktop/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://puter.com) Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://puter.com) Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
