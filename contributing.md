@@ -14,13 +14,13 @@ The **first column** contains the favicon and the link to the website, the **sec
 A **full row** would look like this:
 
 ```
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://WEBSITE_URL) WEBSITE_NAME](https://WEBSITE_URL) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://REPOISTORY_URL) |
+[WEBSITE_NAME](https://WEBSITE_URL) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://REPOISTORY_URL) |
 ```
 
 whereas if the source code is **not** available:
 
 ```
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://WEBSITE_URL) WEBSITE_NAME](https://WEBSITE_URL) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 ```
 
 Thank you for contributing!
