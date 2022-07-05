@@ -12,142 +12,142 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 | Site name | Source code |
 | --- | --- |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://worldwideweb.cern.ch/browser) WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://plaza.one) Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://poolsuite.net) Poolsuite](https://poolsuite.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ash.ms) Ash Kyd](https://ash.ms) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AshKyd/ui95) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wwwtxt.org/about) WWWTXT](https://wwwtxt.org/about) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windows93.net) Windows 93](https://www.windows93.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.expensive.toys) Artur Bień](https://www.expensive.toys) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/arturbien/React95) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.therestartpage.com) The Restart Page](http://www.therestartpage.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://webamp.org) Webamp](https://webamp.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/captbaritone/webamp) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://pippinbarr.github.io/itisasifyouweredoingwork) It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://frankensim.animade.tv) frankenSim](http://frankensim.animade.tv) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.jackk.im) Jack Kim](https://www.jackk.im) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://geekprank.com) Geek Prank](https://geekprank.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://eeerik.com) Eric Bernacchi](http://eeerik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://demo.os-js.org) OS.js Demonstration](https://demo.os-js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/os-js/OS.js) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.marianopascual.me) Mariano Pascual](http://www.marianopascual.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.afterstep.org) AfterStep WM](http://www.afterstep.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://98.js.org) 98.js](https://98.js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1j01/98) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://brokenrealitygame.tumblr.com) Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.windowmaker.org) WindowMaker](https://www.windowmaker.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://whimsy.space) Whimsy Space](https://whimsy.space) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/STRd6/zine) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winxp.now.sh) WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://zach.dev) zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.chiptune.com) www.chiptune.com](http://www.chiptune.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.virtualdesktop.org) Virtual Desktop](http://www.virtualdesktop.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://mattos-1.webflow.io) mattOS](https://mattos-1.webflow.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://waller.is) waller.is](https://waller.is) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win98icons.alexmeub.com) Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jurassicsystems.com) Jurassic Systems](https://jurassicsystems.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tojrobinson/jurassicsystems.com) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://www.macpaint.org) The Macpaint Gallery](http://www.macpaint.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://n10.as) N10.AS RADIO](http://www.n10.as) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rahul.io) Rahul.io](https://rahul.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/lolstring/window98-html-css-js) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://emupedia.net/beta/emuos/) EmuOS](https://emupedia.net/beta/emuos/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Emupedia/emupedia.github.io) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://aaronos.dev/AaronOS/aosBeta.php) AaronOS](https://aaronos.dev/AaronOS/aosBeta.php) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/MineAndCraft12/AaronOS) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://altaica.altervista.org) CloudDesk](http://altaica.altervista.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://packard-belle.netlify.com) Windows 98 -- Packard Belle](https://packard-belle.netlify.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/padraigfl/packard-belle-desktop) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://disjfa.github.io/vue-win-3.1/) vue win3.1](https://disjfa.github.io/vue-win-3.1/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/disjfa/vue-win-3.1) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winmine-exe.now.sh) Minesweeper](https://winmine-exe.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1000hz/winmine-exe) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gamithra.com) Gamithra OS](https://gamithra.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://maple.pet) maple's website!](https://maple.pet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://niceware.neocities.org) baz's PC](https://niceware.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.trueschool.se) TrueSchool Ascii](https://www.trueschool.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://victorribeiro.com) Victor Ribeiro](https://victorribeiro.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/victorqribeiro/fos) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://nirri.us) Nirrius Creative Studio](https://nirri.us) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://hillarychurchill.com) Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://billsworld.neocities.org) Bill's World Wide Boutique](https://billsworld.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://signal3.neocities.org) NyjaOS](https://signal3.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://derplayer.neocities.org/repo/win/) Windows 95 Replica](https://derplayer.neocities.org/repo/win/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theindieweb.com) The Indie Web](https://theindieweb.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tholman/tholman-blog) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hannahblair.co.uk) hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ka.ge) 98 KAGE](https://ka.ge) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pkage/98) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://erd-os.iamerd.xyz) erdOS](https://erd-os.iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win1.krnl386.com) Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://glenda.0x46.net) glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://elkael.com) Maxime Elkael - portfolio](https://elkael.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/melkael/melkael.github.io) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://os.virusav.com) VirusvAV](https://os.virusav.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://blog.aimen.me) some kind of blog](https://blog.aimen.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://repeater.space) Repeater](https://repeater.space) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://wuerfeldev.de) WuerfelDev](https://wuerfeldev.de) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://opensource.glassanimals.com) Glass Animals OPEN SOURCE](https://opensource.glassanimals.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://makewordart.com) Make WordArt](https://makewordart.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://ytcracker.com) ytOS](https://ytcracker.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows-xp.netlify.app) Windows XP](https://windows-xp.netlify.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://56k-modem.online) 56k-modem](https://56k-modem.online) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://racertrash.com) RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://marcmascarell.github.io/Vuindows) Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://gustavochico.com/desktop) Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://digital-r41n.neocities.org) digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kry.pt/#OSVERSIONS) KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hacker-simulator.com) Online Hacker Simulator](https://hacker-simulator.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://tetrageddon.com) Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://forums.awgeshit.com) AWGE - Forum](https://forums.awgeshit.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://koas.dev/m2pc) My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://toxiccode.com) ToxicCode.com](http://toxiccode.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hyena.network/geocity/) HyNET Geocity](https://hyena.network/geocity/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://unremarkablegarden.com) Unremarkable Garden](https://unremarkablegarden.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://flexedupshawty.com) FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://aconfuseddragon.neocities.org) aconfuseddragon's art and nostalgia corner](https://aconfuseddragon.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://violet.pm) RaccOS 9](https://violet.pm) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dustinbrett.com) daedalOS](https://dustinbrett.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/DustinBrett/daedalOS) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://msos.midspike.com) MSOS Concept](https://msos.midspike.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://novov.neocities.org/liked/software.html) Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://team3d.io) Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dayjob.work) Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://public---domain.com) PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://we-link.chronusartcenter.org) WE=LINK](http://we-link.chronusartcenter.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://nickbriz.com/thoughtsonglitchart) Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.bigdeskenergy.com) Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://github95.now.sh) Github95](https://github95.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/edwardpayton/github95) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://deryasdesktop.com) An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/D-Antonelli/portfolio) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://617d5c82f9d62b0007efa555--serene-bhabha-879d38.netlify.app) linuxWeb](https://617d5c82f9d62b0007efa555--serene-bhabha-879d38.netlify.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://yja.me) Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desktop.sonspring.com) jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://windows96.net) Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://thecodingforge.com.au) The Coding Forge](https://thecodingforge.com.au) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Yalgie/website) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://vivek9patel.github.io) Vivek Patel - Computer Science Student](https://vivek9patel.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/vivek9patel/vivek9patel.github.io) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://winampify.io) Winampify](https://winampify.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/remigallego/winampify) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://desk.glitchy.website) Try Andy's Desk](https://desk.glitchy.website) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://tilde.town/~selfsame/) tildeOS](https://tilde.town/~selfsame/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jackadam.cc) Jack Adam](https://jackadam.cc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://portfolio.zxh.io) Xiaohan Zou's Portfolio](https://portfolio.zxh.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Renovamen/playground-macos) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://macos.vercel.app) macOS in Preact](https://macos.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/puruvj/macos-web) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://goodmanwen.github.io) Deepin Linux](https://goodmanwen.github.io/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://khang-nd.github.io/windows7) Win7](https://khang-nd.github.io/win7) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/khang-nd/windows7) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://heathervv.com) Heather Vandervecht](https://heathervv.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/heathervv/portfolio-chatbot) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://dinhquangtrung.net/windows7/) Tony Dinh](https://dinhquangtrung.net/windows7/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/trungdq88/dinhquangtrung.net) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=http://fizzygum.org) Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/davidedc/Fizzygum) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://itzrex.neocities.org) RexOS](https://itzrex.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://joeyonng.github.io) Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.blueedge.me) Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win7simu.visnalize.com) Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://fasdesktop.neocities.org/rimet) Rimet Desktop](https://fasdesktop.neocities.org/rimet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://al1-ce.dev) AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.levenez.com/NeXTSTEP/) NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://hunterhodnett.dev) Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.anothertee.xyz) ANOTHER TEE](https://www.anothertee.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rauno.me) Rauno Freiberg](https://rauno.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://www.donchia.tech) Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dhs17y2adonchia/win95) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://lumiset.se) LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://clickbecause.net) clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://911realtime.org) 9/11 Realtime](https://911realtime.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/robbiebyrd/rt911) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://coreos.io) Core-OS](https://coreos.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/timhow38/Resume-WebApplication) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://generative.3d2k.com) Frank Force - Generative Art](https://generative.3d2k.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/KilledByAPixel/OS13k) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://noam-rubin.com) Noam Rubin](https://noam-rubin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://insafkhamzin.com) Insaf Khamzin](https://insafkhamzin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/InsafKhamzin/portfolio) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://cobradile.neocities.org) Cobra!'s Website](https://cobradile.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://jonzav.me) Jonathan Zavialov](https://jonzav.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/JonZavialov/portfolio2) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://sava.io) Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://kanye2049.com) KANYE 2049](https://kanye2049.com/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://win11.vercel.app) Windows 11 in Preact](https://win11.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/piyushsuthar/windows-11-web) |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://rebornxp.js.org) RebornXP](https://rebornxp.js.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://theoldnet.com/desktop/) WWWerd](https://theoldnet.com/desktop/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://puter.com) Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://things.inc) Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[![favicon](https://s2.googleusercontent.com/s2/favicons?domain_url=https://1997.pooftie.me) 1997box](https://1997.pooftie.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/middlepot/1997) |
+[WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Poolsuite](https://poolsuite.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Ash Kyd](https://ash.ms) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AshKyd/ui95) |
+[Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WWWTXT](https://wwwtxt.org/about) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 93](https://www.windows93.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Artur Bień](https://www.expensive.toys) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/arturbien/React95) |
+[The Restart Page](http://www.therestartpage.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Webamp](https://webamp.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/captbaritone/webamp) |
+[It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
+[frankenSim](http://frankensim.animade.tv) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Jack Kim](https://www.jackk.im) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Geek Prank](https://geekprank.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Eric Bernacchi](http://eeerik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[OS.js Demonstration](https://demo.os-js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/os-js/OS.js) |
+[Mariano Pascual](http://www.marianopascual.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[AfterStep WM](http://www.afterstep.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[98.js](https://98.js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1j01/98) |
+[Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WindowMaker](https://www.windowmaker.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Whimsy Space](https://whimsy.space) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/STRd6/zine) |
+[WinXP](https://winxp.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ShizukuIchi/winXP/) |
+[zach.dev // Software & Adventure](https://zach.dev) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[www.chiptune.com](http://www.chiptune.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Virtual Desktop](http://www.virtualdesktop.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[mattOS](https://mattos-1.webflow.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[waller.is](https://waller.is) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Jurassic Systems](https://jurassicsystems.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tojrobinson/jurassicsystems.com) |
+[The Macpaint Gallery](http://www.macpaint.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[N10.AS RADIO](http://www.n10.as) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Rahul.io](https://rahul.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/lolstring/window98-html-css-js) |
+[EmuOS](https://emupedia.net/beta/emuos/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Emupedia/emupedia.github.io) |
+[AaronOS](https://aaronos.dev/AaronOS/aosBeta.php) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/MineAndCraft12/AaronOS) |
+[CloudDesk](http://altaica.altervista.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 98 -- Packard Belle](https://packard-belle.netlify.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/padraigfl/packard-belle-desktop) |
+[vue win3.1](https://disjfa.github.io/vue-win-3.1/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/disjfa/vue-win-3.1) |
+[Minesweeper](https://winmine-exe.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/1000hz/winmine-exe) |
+[Gamithra OS](https://gamithra.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[maple's website!](https://maple.pet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[baz's PC](https://niceware.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[TrueSchool Ascii](https://www.trueschool.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Victor Ribeiro](https://victorribeiro.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/victorqribeiro/fos) |
+[Nirrius Creative Studio](https://nirri.us) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Bill's World Wide Boutique](https://billsworld.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[NyjaOS](https://signal3.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 95 Replica](https://derplayer.neocities.org/repo/win/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[The Indie Web](https://theindieweb.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/tholman/tholman-blog) |
+[hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[98 KAGE](https://ka.ge) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pkage/98) |
+[erdOS](https://erd-os.iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Maxime Elkael - portfolio](https://elkael.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/melkael/melkael.github.io) |
+[VirusvAV](https://os.virusav.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[some kind of blog](https://blog.aimen.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Repeater](https://repeater.space) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WuerfelDev](https://wuerfeldev.de) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Glass Animals OPEN SOURCE](https://opensource.glassanimals.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Make WordArt](https://makewordart.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[ytOS](https://ytcracker.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows XP](https://windows-xp.netlify.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[56k-modem](https://56k-modem.online) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
+[Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Online Hacker Simulator](https://hacker-simulator.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[AWGE - Forum](https://forums.awgeshit.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
+[ToxicCode.com](http://toxiccode.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[HyNET Geocity](https://hyena.network/geocity/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Unremarkable Garden](https://unremarkablegarden.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[aconfuseddragon's art and nostalgia corner](https://aconfuseddragon.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[RaccOS 9](https://violet.pm) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[daedalOS](https://dustinbrett.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/DustinBrett/daedalOS) |
+[MSOS Concept](https://msos.midspike.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Team3D](https://team3d.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WE=LINK](http://we-link.chronusartcenter.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
+[Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Github95](https://github95.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/edwardpayton/github95) |
+[An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/D-Antonelli/portfolio) |
+[linuxWeb](https://617d5c82f9d62b0007efa555--serene-bhabha-879d38.netlify.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
+[Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
+[Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[The Coding Forge](https://thecodingforge.com.au) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Yalgie/website) |
+[Vivek Patel - Computer Science Student](https://vivek9patel.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/vivek9patel/vivek9patel.github.io) |
+[Winampify](https://winampify.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/remigallego/winampify) |
+[Try Andy's Desk](https://desk.glitchy.website) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[tildeOS](https://tilde.town/~selfsame/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Jack Adam](https://jackadam.cc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Xiaohan Zou's Portfolio](https://portfolio.zxh.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Renovamen/playground-macos) |
+[macOS in Preact](https://macos.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/puruvj/macos-web) |
+[Deepin Linux](https://goodmanwen.github.io/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
+[Win7](https://khang-nd.github.io/win7) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/khang-nd/windows7) |
+[Heather Vandervecht](https://heathervv.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/heathervv/portfolio-chatbot) |
+[Tony Dinh](https://dinhquangtrung.net/windows7/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/trungdq88/dinhquangtrung.net) |
+[Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/davidedc/Fizzygum) |
+[RexOS](https://itzrex.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
+[Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
+[Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Rimet Desktop](https://fasdesktop.neocities.org/rimet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
+[NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |
+[ANOTHER TEE](https://www.anothertee.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Rauno Freiberg](https://rauno.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dhs17y2adonchia/win95) |
+[LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[9/11 Realtime](https://911realtime.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/robbiebyrd/rt911) |
+[Core-OS](https://coreos.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/timhow38/Resume-WebApplication) |
+[Frank Force - Generative Art](https://generative.3d2k.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/KilledByAPixel/OS13k) |
+[Noam Rubin](https://noam-rubin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
+[Insaf Khamzin](https://insafkhamzin.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/InsafKhamzin/portfolio) |
+[Cobra!'s Website](https://cobradile.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Jonathan Zavialov](https://jonzav.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/JonZavialov/portfolio2) |
+[Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[KANYE 2049](https://kanye2049.com/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 11 in Preact](https://win11.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/piyushsuthar/windows-11-web) |
+[RebornXP](https://rebornxp.js.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[WWWerd](https://theoldnet.com/desktop/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[1997box](https://1997.pooftie.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/middlepot/1997) |
 
 ## Removed
 
