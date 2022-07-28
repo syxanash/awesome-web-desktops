@@ -67,7 +67,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [erdOS](https://erd-os.iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Maxime Elkael - portfolio](https://elkael.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/melkael/melkael.github.io) |
 [VirusvAV](https://os.virusav.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [some kind of blog](https://blog.aimen.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Repeater](https://repeater.space) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -159,6 +158,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 
 | Site name |
 |---|
+| [Maxime Elkael - portfolio](https://web.archive.org/web/20220113152250/https://elkael.com/) |
 | [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 | [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
 | [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
