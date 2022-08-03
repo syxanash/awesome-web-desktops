@@ -147,6 +147,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [1997box](https://1997.pooftie.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/middlepot/1997) |
+[FoundationOS](https://os.foundation.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
