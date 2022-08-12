@@ -142,7 +142,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [KANYE 2049](https://kanye2049.com/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/piyushsuthar/windows-11-web) |
-[RebornXP](https://rebornxp.js.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[RebornXP](https://rebornxp.js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/RebornXP/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Puter](https://puter.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
