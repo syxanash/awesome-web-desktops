@@ -12,6 +12,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 | Site name | Source code |
 | --- | --- |
+[Orb](https://desktop.leisink.net/) login with demo:demo | [![open](https://i.imgur.com/NBf3juI.png) Available](https://gitlab.com/hsleisink/orb) |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Nightwave Plaza](https://plaza.one) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Poolsuite](https://poolsuite.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
