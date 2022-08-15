@@ -148,7 +148,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Things](https://things.inc) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [1997box](https://1997.pooftie.me) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Orb](https://desktop.leisink.net) (login _demo:demo_) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://gitlab.com/hsleisink/orb) |
+[Orb](https://desktop.leisink.net) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://gitlab.com/hsleisink/orb) |
 
 ## Removed
 
