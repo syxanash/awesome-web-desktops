@@ -5,6 +5,7 @@
 * Make an individual pull request for each suggestion.
 * New categories, or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
+* Please add your link to the **bottom** of the list as I'd like to keep a chronological order for the additions.
 
 ## Adding a new website to the list
 
