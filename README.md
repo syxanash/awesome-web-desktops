@@ -6,7 +6,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
 - To know more about web desktops you should read up the Wikipedia [article here](https://en.wikipedia.org/wiki/Web_desktop).
-- Hacker News discussion available [here](https://news.ycombinator.com/item?id=23734093)
+- ![HN](https://news.ycombinator.com/y18.gif) Hacker News discussion available [here](https://news.ycombinator.com/item?id=23734093)
 
 ## Websites
 
