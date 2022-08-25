@@ -121,7 +121,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/davidedc/Fizzygum) |
 [RexOS](https://itzrex.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
-[Windows 11 in React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/windows11) | 
+[Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/win11React) | 
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Rimet Desktop](https://fasdesktop.neocities.org/rimet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
