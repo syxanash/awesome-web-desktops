@@ -150,6 +150,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [FoundationOS](https://os.foundation.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Orb](https://desktop.leisink.net) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://gitlab.com/hsleisink/orb) |
 [RobbieByrd.com](https://robbiebyrd.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/robbiebyrd/platinum) |
+[HeadOffice](http://www.headofffice.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Browso](https://www.browso.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
