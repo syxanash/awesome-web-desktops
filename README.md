@@ -177,7 +177,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 | [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
-| [Rimet Desktop](https://web.archive.org/web/20220805065807/https://geocities.ws/rimet/)
+| [Rimet Desktop](https://web.archive.org/web/20220805065807/https://geocities.ws/rimet/), [link 2](https://fasdesktop.neocities.org/rimet) |
 
 ## Author
 
