@@ -123,7 +123,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/win11React) | 
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Rimet Desktop](https://fasdesktop.neocities.org/rimet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |
@@ -178,6 +177,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 | [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
+| [Rimet Desktop](https://web.archive.org/web/20220805065807/https://geocities.ws/rimet/)
 
 ## Author
 
