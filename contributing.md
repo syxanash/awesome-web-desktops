@@ -10,7 +10,7 @@
 ## Adding a new website to the list
 
 In order to add a new site to the list you can simply add a new row to the main table in `README.md`.
-The **first column** contains the favicon and the link to the website, the **second column** instead will specify if the site/project source code is available. There are no restrictions on the license on which the source code is released as long as it's been published somewhere.
+The **first column** contains name and link to the website, the **second column** instead will specify if the site/project source code is available. There are no restrictions on the license on which the source code is released as long as it's been published somewhere.
 
 A **full row** would look like this:
 
