@@ -151,6 +151,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [RobbieByrd.com](https://robbiebyrd.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/robbiebyrd/platinum) |
 [HeadOffice](http://www.headofffice.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Browso](https://www.browso.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Harrison's Home](https://harrisonm.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
