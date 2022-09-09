@@ -152,6 +152,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [HeadOffice](http://www.headofffice.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Browso](https://www.browso.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Harrison's Home](https://harrisonm.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Nora's Hideout](https://aestheticalz.github.io/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/AestheticalZ/aestheticalz.github.io) |
 
 ## Removed
 
