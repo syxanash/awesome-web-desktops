@@ -153,6 +153,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [HeadOffice](http://www.headofffice.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Browso](https://www.browso.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Harrison's Home](https://harrisonm.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Janne Koivisto](https://janneilkka.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
 
 ## Removed
 
