@@ -157,6 +157,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
 [H4ACK1NG G00GL3](https://h4ck1ng.google) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hudson Mohawke](https://www.hudsonmohawke.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Sam Likes Code](https://samlikescode.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Goggwell/newfolio/) |
 
 ## Removed
 
