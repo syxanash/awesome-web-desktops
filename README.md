@@ -158,6 +158,10 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [H4ACK1NG G00GL3](https://h4ck1ng.google) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hudson Mohawke](https://www.hudsonmohawke.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Sam Likes Code](https://samlikescode.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Goggwell/newfolio/) |
+[The Amiga Workbench Simulation](https://taws.ch) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[The Amiga Museum](https://theamigamuseum.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[TAWS@aSCIIaRENA](https://workbench.asciiarena.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Amiga37 Germany](https://amigaevent.de) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
