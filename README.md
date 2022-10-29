@@ -163,6 +163,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Money Simulator](https://simulator.money/play) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Pangolin Desktop](https://web.dahliaos.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](http://jeremymakes.com/SantaOS/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a  |
+[WebXP](https://konsti.club/webxp/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Removed
 
