@@ -77,6 +77,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Windows XP](https://windows-xp.netlify.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [56k-modem](https://56k-modem.online) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [RACER TRASH](https://racertrash.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
 [Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -191,7 +192,6 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 | [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
-| [Vuindows](https://github.com/marcmascarell/Vuindows) |
 
 ## Author
 
