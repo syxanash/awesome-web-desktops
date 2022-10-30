@@ -54,7 +54,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Gamithra OS](https://gamithra.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [maple's website!](https://maple.pet) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [baz's PC](https://niceware.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[TrueSchool Ascii](https://www.trueschool.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Victor Ribeiro](https://victorribeiro.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/victorqribeiro/fos) |
 [Nirrius Creative Studio](https://nirri.us) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -192,6 +191,7 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 | [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
+| [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
 
 ## Author
 
