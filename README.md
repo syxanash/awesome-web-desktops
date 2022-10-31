@@ -159,7 +159,8 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Sam Likes Code](https://samlikescode.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Goggwell/newfolio/) |
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [TAWS@aSCIIaRENA](https://workbench.asciiarena.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Amiga37 Germany](https://amigaevent.de) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Amiga34 Germany](http://www.amiga34.de/WB.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Money Simulator](https://simulator.money/play) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Pangolin Desktop](https://web.dahliaos.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](http://jeremymakes.com/SantaOS/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a  |
