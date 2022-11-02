@@ -167,7 +167,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [WebXP](https://konsti.club/webxp/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [HoleNet Cobalt](https://holenet.info) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
-## Removed
+## Archived
 
 <img src="https://i.imgur.com/5wfhwR9.png" alt="bin" />
 
