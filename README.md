@@ -4,7 +4,7 @@
 
 If you are a fan of websites, web apps and portfolios which resemble desktop operating systems here is an **awesome curated list**!
 
-- These links are actively monitored but if you notice a dead link or would like to contribute with you own Web Desktop you're more than welcome to do so, see [contribution guide](contributing.md).
+- These links are **actively monitored** but if you notice a dead link or would like to contribute with you own Web Desktop you're more than welcome to do so, see [contribution guide](contributing.md).
 - To know more about web desktops you should read up the Wikipedia [article here](https://en.wikipedia.org/wiki/Web_desktop).
 - ![HN](https://news.ycombinator.com/y18.gif) Hacker News discussion available [here](https://news.ycombinator.com/item?id=23734093)
 
@@ -169,10 +169,7 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 
 ## Archived
 
-<img src="https://i.imgur.com/5wfhwR9.png" alt="bin" />
-
-Here are the websites that were previously on the list but changed design :(
-
+Here are the websites that were previously on the list but changed design :(<br />
 A snapshot of the Web Desktop version should still be available on [archive.org](https://archive.org)
 
 | Site name |
