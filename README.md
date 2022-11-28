@@ -81,7 +81,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[AWGE - Forum](https://forums.awgeshit.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -125,7 +124,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |
-[ANOTHER TEE](https://www.anothertee.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Rauno Freiberg](https://rauno.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -189,6 +187,8 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 | [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 | [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
+| [ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) | 
+| [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
 
 ## Author
 
