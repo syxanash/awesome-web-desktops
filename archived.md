@@ -14,8 +14,8 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 | [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 | [and gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
-| kalilhaddad.com |
-| dev.lotw.xyz/desk.os |
+| https://kalilhaddad.com |
+| https://dev.lotw.xyz/desk.os |
 | [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 | [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 | [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
