@@ -23,7 +23,6 @@ If you are a fan of websites, web apps and portfolios which resemble desktop ope
 [Webamp](https://webamp.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
 [frankenSim](http://frankensim.animade.tv) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Jack Kim](https://www.jackk.im) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Geek Prank](https://geekprank.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Eric Bernacchi](http://eeerik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [OS.js Demonstration](https://demo.os-js.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/os-js/OS.js) |
