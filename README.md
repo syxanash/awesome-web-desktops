@@ -2,10 +2,9 @@
 
 # Awesome Web Desktops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-If you are a fan of websites, web apps and portfolios which resemble desktop operating systems here is an **awesome curated list**!
+This is a hand curated directory of websites, web apps and portfolios that mimic the appearance and functionality of desktop operating systems, these are also called [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
-- These links are **actively monitored** but if you notice a dead link or would like to contribute with you own Web Desktop you're more than welcome to do so, see [contribution guide](contributing.md).
-- To know more about web desktops you should read up the Wikipedia [article here](https://en.wikipedia.org/wiki/Web_desktop).
+The links are **actively monitored** but if you notice a dead link or would like to contribute with you own creation you're more than welcome to do so, see [contribution guide](contributing.md).
 
 ## Websites
 
