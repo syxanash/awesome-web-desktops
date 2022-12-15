@@ -162,6 +162,7 @@ The links are **actively monitored** but if you notice a dead link or would like
 [WebXP](https://konsti.club/webxp/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [HoleNet Cobalt](https://holenet.info) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hugo Doueli \| Portfolio 2022](https://hugodoueil.fr) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Ormidales/portfolio/) |
+[Chrisbin’s MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/chrisbinsunny/chrishub) |
 
 ## Archived
 
