@@ -165,6 +165,7 @@ The links are **actively monitored** but if you notice a dead link or would like
 [Chrisbin’s MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/chrisbinsunny/chrishub) |
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Mastodon Flock](https://mastodon-flock.vercel.app/desktop) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/WesSouza/mastodon-flock) |
 
 
 ## Archived
