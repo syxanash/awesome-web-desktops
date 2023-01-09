@@ -165,7 +165,7 @@ The links are **actively monitored** but if you notice a dead link or would like
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Mastodon Flock](https://mastodon-flock.vercel.app/desktop) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/WesSouza/mastodon-flock) |
-
+[Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 
 ## Archived
 
