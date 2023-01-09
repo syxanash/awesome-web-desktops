@@ -122,7 +122,6 @@ The links are **actively monitored** but if you notice a dead link or would like
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |
-[Rauno Freiberg](https://rauno.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
