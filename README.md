@@ -76,7 +76,6 @@ The links are **actively monitored** but if you notice a dead link or would like
 [Vuindows](https://marcmascarell.github.io/Vuindows) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/marcmascarell/Vuindows) |
 [Gustavo Chico](https://gustavochico.com/desktop) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[KryptOS](https://kry.pt/#OSVERSIONS) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
