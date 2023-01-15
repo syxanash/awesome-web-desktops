@@ -26,3 +26,5 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | jackk.im |
 | [Rauno Freiberg](https://rauno.me) |
 | [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
+| [linuxWeb](https://github.com/Manthee1/linuxWeb) |
+
