@@ -96,7 +96,6 @@ The links are **actively monitored** but if you notice a dead link or would like
 [Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Github95](https://github95.now.sh) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/edwardpayton/github95) |
 [An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/D-Antonelli/portfolio) |
-[linuxWeb](https://617d5c82f9d62b0007efa555--serene-bhabha-879d38.netlify.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Manthee1/linuxWeb) |
 [Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
 [Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
