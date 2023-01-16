@@ -1,6 +1,6 @@
-<a href='https://simone.computer/#/webdesktops'><img src="logo.png" alt="logo" height="90" /></a>
-
-# Awesome Web Desktops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![88x31](88x31.gif)
+<a href='https://simone.computer/#/webdesktops'><img src="logo.png" alt="logo" height="90" /></a><br />
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Web Desktops
 
 This is a hand curated directory of websites, web apps and portfolios that mimic the appearance and functionality of desktop operating systems, these are also called [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
@@ -176,3 +176,4 @@ Simone `syx` Marzulli & [contributors](https://github.com/syxanash/awesome-web-d
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+![88x31](88x31.gif)
