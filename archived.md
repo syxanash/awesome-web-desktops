@@ -1,6 +1,6 @@
 # Archived Web Desktops
 
-Here are the websites that were previously on the list but changed design :(<br />
+Here are the websites that were previously on the list but changed design.<br />
 A snapshot of the Web Desktop version should still be available on [archive.org](https://archive.org)
 
 | Site name |
