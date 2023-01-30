@@ -4,7 +4,7 @@
 
 This is a hand curated directory of websites, web apps and portfolios that mimic the appearance and functionality of desktop operating systems, these are also called [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
-The links are **actively monitored** but if you notice a dead link or would like to contribute with you own creation you're more than welcome to do so, see [contribution guide](contributing.md).
+![warning](https://win98icons.alexmeub.com/icons/png/msg_warning-2.png) The links are **actively monitored** but if you notice a dead link or would like to contribute with you own creation you're more than welcome to do so, see [contribution guide](contributing.md).
 
 ## Websites
 
