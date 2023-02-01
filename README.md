@@ -17,7 +17,6 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Windows 93](https://www.windows93.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Artur Bień](https://www.expensive.toys) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/arturbien/React95) |
 [The Restart Page](http://www.therestartpage.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Webamp](https://webamp.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
