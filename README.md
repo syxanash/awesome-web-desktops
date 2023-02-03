@@ -78,6 +78,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [My Second PC](https://koas.dev/m2pc) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/koas/my-second-pc) |
+[ToxicCode.com](http://toxiccode.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |

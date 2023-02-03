@@ -27,5 +27,4 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [Rauno Freiberg](https://rauno.me) |
 | [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 | [linuxWeb](https://github.com/Manthee1/linuxWeb) |
-| [ToxicCode.com](https://web.archive.org/web/20220707052207/http://toxiccode.com/) |
 | [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
