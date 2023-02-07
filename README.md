@@ -113,7 +113,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/davidedc/Fizzygum) |
 [RexOS](https://itzrex.neocities.org) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
-[Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/win11React) | 
+[Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Rimet Desktop](https://geocities.ws/rimet/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
@@ -163,6 +163,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Mastodon Flock](https://mastodon-flock.vercel.app/desktop) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/WesSouza/mastodon-flock) |
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
+[Win11 Svelte](https://win11-svelte.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/yashash-pugalia/win11-svelte) |
 
 ## Archived
 
