@@ -165,7 +165,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 [Win11 Svelte](https://win11-svelte.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/yashash-pugalia/win11-svelte) |
 [Sergio Diaz Schiaffino](https://www.sergiodiazschiaffino.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[holidayOS | tonik](https://holidayos.tonik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[holidayOS \| tonik](https://holidayos.tonik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [chloédigital](https://chloedigital.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Archived
