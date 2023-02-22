@@ -167,6 +167,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [Sergio Diaz Schiaffino](https://www.sergiodiazschiaffino.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [holidayOS \| tonik](https://holidayos.tonik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [chloédigital](https://chloedigital.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Archived
 
