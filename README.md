@@ -61,7 +61,6 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [98 KAGE](https://ka.ge) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/pkage/98) |
 [erdOS](https://erd-os.iamerd.xyz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [VirusvAV](https://os.virusav.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [some kind of blog](https://blog.aimen.me) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Repeater](https://repeater.space) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
