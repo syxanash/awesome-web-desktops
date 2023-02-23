@@ -167,8 +167,7 @@ This is a hand curated directory of websites, web apps and portfolios that mimic
 [holidayOS \| tonik](https://holidayos.tonik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [chloédigital](https://chloedigital.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Mohamed Wafy \| Portfolio](https://mowafy001.github.io/portfolio) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/MoWafy001/portfolio) |
-[Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/malisipi/ubuntu-tour) |
+[Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/malisipi/ubuntu-tour) |[KeYGeN!!!](https://keyge.nz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 
 ## Archived
 
