@@ -28,4 +28,3 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 | [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 | [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
-| [glenda.party](https://web.archive.org/web/20220902130020/https://glenda.0x46.net/) |
