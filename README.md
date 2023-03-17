@@ -172,6 +172,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/malisipi/ubuntu-tour) |
 [KeYGeN!!!](https://keyge.nz) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [sue roh](https://sueroh.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
+[Windows 11 Web](https://rajaniraiyn.github.io/windows11/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Rajaniraiyn/windows11) |
+[SilveOS.com](https://www.silveos.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/SilveOS) |
 
 ## Archived
 
