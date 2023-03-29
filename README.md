@@ -115,7 +115,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[Rimet Desktop](https://geocities.ws/rimet/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/al1-ce/AtheOS) |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/hunterchristian/personal-site-v2) |

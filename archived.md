@@ -29,3 +29,4 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 | [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
 | [Unremarkable Garden](https://web.archive.org/web/20220629223156/https://unremarkablegarden.com/) |
+| [Rimet Desktop](https://web.archive.org/web/20220805051733/http://geocities.ws/rimet/) |
