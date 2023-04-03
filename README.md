@@ -139,7 +139,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [FoundationOS](https://os.foundation.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Orb](https://desktop.leisink.net) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://gitlab.com/hsleisink/orb) |
 [RobbieByrd.com](https://robbiebyrd.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/robbiebyrd/platinum) |
-[HeadOffice](http://www.headofffice.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Browso](https://www.browso.app) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Harrison's Home](https://harrisonm.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Janne Koivisto](https://janneilkka.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
@@ -164,7 +163,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 [Win11 Svelte](https://win11-svelte.vercel.app) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/yashash-pugalia/win11-svelte) |
 [Sergio Diaz Schiaffino](https://www.sergiodiazschiaffino.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
-[holidayOS \| tonik](https://holidayos.tonik.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [chloédigital](https://chloedigital.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/malisipi/ubuntu-tour) |

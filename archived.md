@@ -30,3 +30,5 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
 | [Unremarkable Garden](https://web.archive.org/web/20220629223156/https://unremarkablegarden.com/) |
 | [Rimet Desktop](https://web.archive.org/web/20220805051733/http://geocities.ws/rimet/) |
+| [holidayOS \| tonik](https://web.archive.org/web/20230118201809/https://holidayos.tonik.com/) |
+| [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
