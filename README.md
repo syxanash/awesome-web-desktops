@@ -170,6 +170,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [sue roh](https://sueroh.com) | ![locked](https://i.imgur.com/cONIqLv.png) n/a |
 [Windows 11 Web](https://rajaniraiyn.github.io/windows11/) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/Rajaniraiyn/windows11) |
 [SilveOS.com](https://www.silveos.com) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/SilveOS) |
+[Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](https://i.imgur.com/NBf3juI.png) Available](https://github.com/sosophia10/Time-Capsule) |
 
 ## Archived
 
