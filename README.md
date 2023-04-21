@@ -52,7 +52,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [maple's website!](https://maple.pet) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [baz's PC](https://niceware.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Victor Ribeiro](https://victorribeiro.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/victorqribeiro/fos) |
-[Nirrius Creative Studio](https://nirri.us) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Bill's World Wide Boutique](https://billsworld.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [NyjaOS](https://signal3.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
