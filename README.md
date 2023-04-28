@@ -170,6 +170,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 11 Web](https://rajaniraiyn.github.io/windows11/) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/Rajaniraiyn/windows11) |
 [SilveOS.com](https://www.silveos.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/SilveOS) |
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/sosophia10/Time-Capsule) |
+[Quentin OS/2](https://www.quentin.xyz) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 
 ## Archived
 
