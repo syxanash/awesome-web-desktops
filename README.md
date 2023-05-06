@@ -95,7 +95,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/nbriz/thoughtsonglitchart) |
 [Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Github95](https://github95.now.sh) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/edwardpayton/github95) |
-[An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/D-Antonelli/portfolio) |
+[An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a | |
 [Yahya J. Aifit](https://yja.me) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [jQuery Desktop](https://desktop.sonspring.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/nathansmith/jQuery-Desktop) |
 [Windows 96](https://windows96.net) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
@@ -116,7 +116,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Joeyonng's Backyard](https://joeyonng.github.io) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [Win11React](https://win11.blueedge.me/) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[AtheOS](https://al1-ce.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/al1-ce/AtheOS) |
+[AtheOS](https://al1-ce.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a | |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/hunterchristian/personal-site-v2) |
 [Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/dhs17y2adonchia/win95) |
