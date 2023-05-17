@@ -19,8 +19,8 @@ function App() {
     const timer = setInterval(() => {
       setPercent(previousPercent => {
         if (previousPercent === 100) {
-          // window.location.replace('https://simone.computer/#/webdesktops');
-          clearInterval(timer);
+          window.location.replace('https://simone.computer/#/webdesktops');
+          // clearInterval(timer);
         }
         const diff = Math.random() * 25;
         return Math.min(previousPercent + diff, 100);
