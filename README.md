@@ -173,6 +173,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/sosophia10/Time-Capsule) |
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Hypertalking](https://www.hypertalking.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[DOODAD](https://doodad.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 
 ## Archived
 
