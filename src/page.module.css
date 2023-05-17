@@ -1,0 +1,36 @@
+.windowTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.window {
+  width: 70%;
+  max-width: 40em;
+  margin: 0 auto;
+  position: relative;
+  min-height: 100%;
+  height: auto;
+
+  padding: 20px;
+}
+
+@media screen and (max-width: 865px) {
+  .window {
+      width: 100%;
+
+      padding: 0;
+  }
+}
+
+.headerError {
+  padding-left: 20px;
+  padding-top: 1px;
+  color: black;
+  font-weight: bolder;
+  background-color: white;
+
+  border-bottom: 2px solid grey;
+
+  margin: -16px;
+}
