@@ -1,1 +1,1 @@
-[desktops.zip](desktops.zip) the only safe .zip domain on the web!
+[desktops.zip](https://desktops.zip) the only safe .zip domain on the web!
