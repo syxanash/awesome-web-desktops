@@ -10,7 +10,9 @@ import {
 } from 'react95';
 
 import powershell from './powershell';
-import styles from './page.module.css'
+import styles from './page.module.css';
+
+import logo from './logo.png';
 
 function App() {
   const [percent, setPercent] = useState(0);
@@ -20,7 +22,6 @@ function App() {
       setPercent(previousPercent => {
         if (previousPercent === 100) {
           window.location.replace('https://simone.computer/#/webdesktops');
-          // clearInterval(timer);
         }
         const diff = Math.random() * 25;
         return Math.min(previousPercent + diff, 100);
@@ -39,11 +40,12 @@ function App() {
             <div>
               <div className={styles.headerError}>
                 <h2>
-                  Pippo OS Archiver
+                  <img src={logo} alt='logo' />
+                  <span style={{position: 'absolute', top: '43px', left: '100px'}}>Pippo OS Archiver</span>
                 </h2>
               </div>
               <div style={{ paddingBottom: '50px', paddingTop: '20px' }}>
-                <div><h3>Extracting desktops to:</h3></div>
+                <div><h3>Unpacking to:</h3></div>
                 <TextInput
                   style={{ maxWidth: '300px' }}
                   value={'//simone.computer/#/webdesktops'}
