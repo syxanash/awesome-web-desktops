@@ -39,10 +39,10 @@ function App() {
           <WindowContent>
             <div>
               <div className={styles.headerError}>
-                <h2>
+                <div style={{ paddingTop: '15px', paddingBottom: '15px' }}>
                   <img src={logo} alt='logo' />
-                  <span style={{position: 'absolute', top: '43px', left: '100px'}}>Pippo OS Archiver</span>
-                </h2>
+                  <span style={{ fontSize: '27px', position: 'absolute', top: '37px', left: '100px'}}>Pippo OS Archiver</span>
+                </div>
               </div>
               <div style={{ paddingBottom: '50px', paddingTop: '20px' }}>
                 <div><h3>Unpacking to:</h3></div>
