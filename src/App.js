@@ -8,8 +8,8 @@ import {
   ProgressBar,
   TextInput
 } from 'react95';
+import powerShell from 'react95/dist/themes/powerShell';
 
-import powershell from './powershell';
 import styles from './page.module.css';
 
 import logo from './logo.png';
@@ -34,7 +34,7 @@ function App() {
 
   return <>
     <div className={styles.window}>
-      <ThemeProvider theme={powershell}>
+      <ThemeProvider theme={powerShell}>
         <Window shadow={false} style={ { width: '100%' } }>
           <WindowContent>
             <div>
