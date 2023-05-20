@@ -47,11 +47,12 @@ function App() {
               <div style={{ paddingBottom: '50px', paddingTop: '20px' }}>
                 <div><h3>Unpacking to:</h3></div>
                 <TextInput
+                  aria-label="directory"
                   style={{ maxWidth: '300px' }}
                   value={'//simone.computer/#/webdesktops'}
                 />
               </div>
-              <ProgressBar variant='tile' value={Math.floor(percent)} />
+              <ProgressBar aria-label="progress" variant='tile' value={Math.floor(percent)} />
             </div>
           </WindowContent>
         </Window>
