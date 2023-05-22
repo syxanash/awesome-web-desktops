@@ -1,3 +1,9 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
 /**
  * @license React
  * react-dom.production.min.js
