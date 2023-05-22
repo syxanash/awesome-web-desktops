@@ -1,7 +1,5 @@
 import { useState, useEffect } from 'react';
-
 import { ThemeProvider } from 'styled-components';
-
 import {
   Window,
   WindowContent,
@@ -9,6 +7,8 @@ import {
   TextInput
 } from 'react95';
 import powerShell from 'react95/dist/themes/powerShell';
+
+import LoaderCursor from './LoaderCursor';
 
 import styles from './page.module.css';
 
@@ -58,6 +58,7 @@ function App() {
         </Window>
       </ThemeProvider>
     </div>
+    <LoaderCursor />
   </>
 }
 

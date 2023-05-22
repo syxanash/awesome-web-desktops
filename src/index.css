@@ -16,3 +16,7 @@ body {
   background-size: cover;
   margin: 0px;
 }
+
+* {
+  cursor: url(cursor.gif), auto;
+}
