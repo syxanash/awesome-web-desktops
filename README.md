@@ -147,6 +147,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hudson Mohawke](https://www.hudsonmohawke.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Sam Likes Code](https://samlikescode.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/Goggwell/newfolio/) |
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[TAWS@aSCIIaRENA](https://workbench.asciiarena.se) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Amiga34 Germany](http://www.amiga34.de/WB.html) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Money Simulator](https://simulator.money/play) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
