@@ -173,6 +173,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Hypertalking](https://www.hypertalking.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [DOODAD](https://doodad.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[Joy Yiu](https://www.joyyiu.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 
 ## Archived
 
