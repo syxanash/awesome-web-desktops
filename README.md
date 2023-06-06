@@ -86,7 +86,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RaccOS 9](https://violet.pm) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [daedalOS](https://dustinbrett.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/DustinBrett/daedalOS) |
 [MSOS Concept](https://msos.midspike.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[Novov - Software I use](https://novov.neocities.org/liked/software.html) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Team3D](https://team3d.io) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Day Job](https://dayjob.work) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [PUBLIC DOMAIN](https://public---domain.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
