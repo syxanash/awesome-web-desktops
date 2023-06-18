@@ -63,7 +63,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 1.0](https://win1.krnl386.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [glenda.party](https://glenda.0x46.net) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [VirusvAV](https://os.virusav.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[some kind of blog](https://blog.aimen.me) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Repeater](https://repeater.space) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Glass Animals OPEN SOURCE](https://opensource.glassanimals.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |

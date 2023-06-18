@@ -33,3 +33,5 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 | [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 | [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
 | [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
+| [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
+
