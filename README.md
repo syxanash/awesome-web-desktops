@@ -173,7 +173,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hypertalking](https://www.hypertalking.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [DOODAD](https://doodad.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Joy Yiu](https://www.joyyiu.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[Nao Corporation](https://nao.gg) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[Nao Corporation](https://nao.gg) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/iTzNao/iTzNao.github.io) |
 
 ## Archived
 
