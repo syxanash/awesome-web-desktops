@@ -173,6 +173,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hypertalking](https://www.hypertalking.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [DOODAD](https://doodad.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Joy Yiu](https://www.joyyiu.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[DROPS](https://www.maxvphillips.com/drops/) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/maxvp/drops) |
 
 ## Archived
 
