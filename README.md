@@ -115,7 +115,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [AtheOS](https://al1-ce.dev) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a | |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[Hunter Hodnett XP](https://hunterhodnett.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/hunterchristian/personal-site-v2) |
 [Don chia](https://www.donchia.tech) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [clickbecause.net](https://clickbecause.net) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
