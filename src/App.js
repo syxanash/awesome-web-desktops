@@ -6,7 +6,7 @@ import {
   ProgressBar,
   TextInput
 } from 'react95';
-import powerShell from 'react95/dist/themes/powerShell';
+import windowTheme from 'react95/dist/themes/raspberry';
 
 import LoaderCursor from './LoaderCursor';
 
@@ -34,7 +34,7 @@ function App() {
 
   return <>
     <div className={styles.window}>
-      <ThemeProvider theme={powerShell}>
+      <ThemeProvider theme={windowTheme}>
         <Window shadow={false} style={ { width: '100%' } }>
           <WindowContent>
             <div>
