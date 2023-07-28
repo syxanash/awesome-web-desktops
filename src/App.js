@@ -45,7 +45,7 @@ function App() {
                 </div>
               </div>
               <div style={{ paddingBottom: '50px', paddingTop: '20px' }}>
-                <div><h3>Unpacking to:</h3></div>
+                <div><h3>Unpacking <span style={{ fontStyle: 'italic' }}>desktops.zip</span> to:</h3></div>
                 <TextInput
                   aria-label="directory"
                   style={{ maxWidth: '300px' }}
