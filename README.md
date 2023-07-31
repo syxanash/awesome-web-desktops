@@ -177,7 +177,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [lover.os](https://lostlove.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Buddy Pond](https://buddypond.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/marak/buddypond) |
 [thatDaria](https://thatdaria.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[Chad Hill Dev](https://chadhill.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/chad2320/chadhill-dev) |
+[Chads Desktop](https://chadhill.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/chad2320/chadhill-dev) |
 
 ## Archived
 
