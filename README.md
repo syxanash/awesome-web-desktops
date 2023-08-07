@@ -103,7 +103,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Jack Adam](https://jackadam.cc) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Xiaohan Zou's Portfolio](https://portfolio.zxh.io) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/Renovamen/playground-macos) |
-[macOS in Preact](https://macos.vercel.app) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/puruvj/macos-web) |
+[macOS in Svelte](https://macos-web.app) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/puruvj/macos-web) |
 [Deepin Linux](https://goodmanwen.github.io/) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
 [Win7](https://khang-nd.github.io/win7) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/khang-nd/windows7) |
 [Heather Vandervecht](https://heathervv.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/heathervv/portfolio-chatbot) |
