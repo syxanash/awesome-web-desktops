@@ -39,8 +39,8 @@ function App() {
 
   const renderButtons = useCallback(() => {
     return <div className={styles.buttonWrapper}>
-      <Button style={{ width: '100px', marginRight: '10px', cursor: `url(${blackCursor}), auto` }} size='md' onClick={() => window.location.replace('https://simone.computer')}>Cancel</Button>
-      <Button style={{ width: '100px', cursor: `url(${blackCursor}), auto` }} primary size='md' onClick={unzip}>Ok</Button>
+      <Button style={{ width: '120px', marginRight: '10px', cursor: `url(${blackCursor}), auto` }} size='md' onClick={() => window.location.replace('https://simone.computer')}>Cancel</Button>
+      <Button style={{ width: '120px', cursor: `url(${blackCursor}), auto` }} primary size='md' onClick={unzip}>Ok</Button>
     </div>
   }, [unzip]);
 
@@ -56,7 +56,7 @@ function App() {
               </div>
             </div>
             <div style={{ paddingTop: '20px' }}>
-              <div><h3>Unpacking <span style={{ fontStyle: 'italic' }}>desktops.zip</span> to:</h3></div>
+              <div><h3>Unpack <span style={{ fontStyle: 'italic' }}>desktops.zip</span> to:</h3></div>
               <TextInput
                 aria-label="directory"
                 style={{ maxWidth: '330px' }}
