@@ -27,11 +27,12 @@ function App() {
       setPercent(previousPercent => {
         if (previousPercent === 100) {
           window.location.replace('https://simone.computer/#/webdesktops');
+          return previousPercent;
         }
-        const diff = Math.random() * 40;
-        return Math.min(previousPercent + diff, 100);
+
+        return previousPercent + 1;
       });
-    }, 500);
+    }, 20 );
     return () => {
       clearInterval(timer);
     };
