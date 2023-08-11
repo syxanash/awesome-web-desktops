@@ -126,7 +126,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Cobra!'s Website](https://cobradile.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Jonathan Zavialov](https://jonzav.me) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/JonZavialov/portfolio2) |
 [Alina Sava](https://sava.io) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[KANYE 2049](https://kanye2049.com/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://rebornxp.js.org) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
@@ -179,6 +179,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [thatDaria](https://thatdaria.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Chads Desktop](https://chadhill.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[GreyOS](https://greyos.gr) (login: `demo@greyos.gr` / `password`) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/g0d/GreyOS) |
 
 ## Archived
 
