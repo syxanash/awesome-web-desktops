@@ -181,6 +181,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Chads Desktop](https://chadhill.dev) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [GreyOS](https://greyos.gr) (login: `demo@greyos.gr` / `password`) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/g0d/GreyOS) |
+[Henry Heffernan](https://henryheffernan.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/henryjeff/portfolio-website) |
 
 ## Archived
 
