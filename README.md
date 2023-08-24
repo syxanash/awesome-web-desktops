@@ -153,7 +153,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [SantaOS](http://jeremymakes.com/SantaOS/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a  |
 [WebXP](https://konsti.club/webSys/) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [HoleNet Cobalt](https://holenet.info) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
-[Hugo Doueli \| Portfolio 2022](https://hugodoueil.fr) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/Ormidales/portfolio/) |
 [Chrisbin’s MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/chrisbinsunny/chrishub) |
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
