@@ -184,6 +184,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Alec Babala](https://www.alecbabala.com) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [win32.run](https://win32.run) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 [Pretty Diff](https://prettydiff.com) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://github.com/prettydiff/share-file-systems) |
+[Slashdiv OS](https://slashdiv.neocities.org) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
 
 ## Archived
 
