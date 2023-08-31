@@ -15,13 +15,13 @@ The **first column** contains name and link to the website, the **second column*
 A **full row** would look like this:
 
 ```
-[WEBSITE_NAME](https://WEBSITE_URL) | [![open](https://i.imgur.com/6QdaXHJ.png) Available](https://REPOISTORY_URL) |
+[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) Available](https://REPOISTORY_URL) |
 ```
 
 whereas if the source code is **not** available:
 
 ```
-[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](https://i.imgur.com/wqRsApJ.png) n/a |
+[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) n/a |
 ```
 
 Thank you for contributing!
