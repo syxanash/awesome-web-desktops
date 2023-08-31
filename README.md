@@ -9,6 +9,11 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ![new](https://i.imgur.com/BS6dn9V.gif) ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [latest blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
 
+## Contents
+
+- [Websites](#websites)
+- [Archived](#archived)
+
 ## Websites
 
 | Site name | Source code |
