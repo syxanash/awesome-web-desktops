@@ -4,10 +4,10 @@
 
 The web's biggest curated directory of apps, portfolios and experiments that mimic the appearance and functionality of desktop operating systems, these are commonly known as [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
-![new](https://i.imgur.com/BS6dn9V.gif) ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [latest blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
-
 ![info](https://win98icons.alexmeub.com/icons/png/msg_information-2.png) The links are [actively monitored](https://github.com/syxanash/wd-watcher) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see [contribution guide](contributing.md).<br>
 ![warning](https://win98icons.alexmeub.com/icons/png/msg_warning-2.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.<br>
+
+![new](https://i.imgur.com/BS6dn9V.gif) ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [latest blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
 
 ## Websites
 
