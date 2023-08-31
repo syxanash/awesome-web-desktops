@@ -1,6 +1,6 @@
-<a href='https://simone.computer/#/webdesktops'><img src="logo.png" alt="logo" height="90" /></a><br />
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-# Awesome Web Desktops
+# Awesome Web Desktops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="logo.png" align="right" width="100">](https://simone.computer/#/webdesktops)
 
 The web's biggest curated directory of apps, portfolios and experiments that mimic the appearance and functionality of desktop operating systems, these are commonly known as [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
