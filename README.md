@@ -194,7 +194,3 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 ## Archived
 
 See [Archived Web Desktops](archived.md)
-
-## Author
-
-Simone `syx` Marzulli & [contributors](https://github.com/syxanash/awesome-web-desktops/graphs/contributors)
