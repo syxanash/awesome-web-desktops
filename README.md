@@ -190,6 +190,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [win32.run](https://win32.run) | [![open](assets/open.png) available](https://github.com/ducbao414/win32.run) |
 [Pretty Diff](https://prettydiff.com) | [![open](assets/open.png) available](https://github.com/prettydiff/share-file-systems) |
 [Slashdiv OS](https://slashdiv.neocities.org) | ![locked](assets/locked.png) closed |
+[Pretty Diff](https://prettydiff.com) | [![open](assets/open.png) available](https://github.com/prettydiff/share-file-systems) |
+[MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
 
 ## Archived
 
