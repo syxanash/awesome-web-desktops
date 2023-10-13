@@ -37,3 +37,5 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 | [Hunter Hodnett XP](https://web.archive.org/web/20221225105658/https://hunterhodnett.dev/#) or [source](https://github.com/hunterchristian/personal-site-v2) |
 | [TAWS@aSCIIaRENA](https://web.archive.org/web/20230202204255/https://workbench.asciiarena.se/) |
 | [Hugo Doueli \| Portfolio 2022](https://web.archive.org/web/20230103185522/https://hugodoueil.fr/) or [source](https://github.com/Ormidales/portfolio/) |
+| [SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
+| [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
