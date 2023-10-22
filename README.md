@@ -189,6 +189,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Pretty Diff](https://prettydiff.com) | [![open](assets/open.png) available](https://github.com/prettydiff/share-file-systems) |
 [Slashdiv OS](https://slashdiv.neocities.org) | ![locked](assets/locked.png) closed |
 [MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
+[NENRIKIDO](https://nenrikido.neocities.org) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
