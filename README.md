@@ -24,7 +24,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ash Kyd](https://ash.ms) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
 [Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](assets/locked.png) closed |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](assets/locked.png) closed |
-[Windows 93](https://www.windows93.net) | [![open](assets/open.png) partially available](https://github.com/windows93dotnet/sys42) |
+[Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
 [The Restart Page](http://www.therestartpage.com) | ![locked](assets/locked.png) closed |
 [Webamp](https://webamp.org) | [![open](assets/open.png) available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](assets/open.png) available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
