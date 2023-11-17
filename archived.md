@@ -39,4 +39,3 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Hugo Doueli \| Portfolio 2022](https://web.archive.org/web/20230103185522/https://hugodoueil.fr/) or [source](https://github.com/Ormidales/portfolio/) |
 [SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
-[Unremarkable Garden](https://web.archive.org/web/20220705075033/https://unremarkablegarden.com/) |
