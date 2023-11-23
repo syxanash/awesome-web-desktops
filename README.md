@@ -28,7 +28,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Restart Page](http://www.therestartpage.com) | ![locked](assets/locked.png) closed |
 [Webamp](https://webamp.org) | [![open](assets/open.png) available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](assets/open.png) available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
-[frankenSim](http://frankensim.animade.tv) | ![locked](assets/locked.png) closed |
 [Geek Prank](https://geekprank.com) | ![locked](assets/locked.png) closed |
 [Eric Bernacchi](http://eeerik.com) | ![locked](assets/locked.png) closed |
 [OS.js Demonstration](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
