@@ -190,6 +190,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
 [NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido/) |
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) closed |
+[Nao](https://nao.gg) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
