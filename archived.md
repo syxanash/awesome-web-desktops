@@ -39,3 +39,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
+[Joeyonng's Backyard](https://github.com/Joeyonng/joeyonng-backyard) |
+[KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
+[Cobra!'s Website](https://web.archive.org/web/20230308121829/https://cobradile.neocities.org/) |

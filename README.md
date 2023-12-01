@@ -115,7 +115,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Heather Vandervecht](https://heathervv.com) | [![open](assets/open.png) available](https://github.com/heathervv/portfolio-chatbot) |
 [Tony Dinh](https://dinhquangtrung.net/windows7/) | [![open](assets/open.png) available](https://github.com/trungdq88/dinhquangtrung.net) |
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](assets/open.png) available](https://github.com/davidedc/Fizzygum) |
-[Joeyonng's Backyard](https://joeyonng.github.io) | [![open](assets/open.png) available](https://github.com/Joeyonng/joeyonng-backyard) | 
 [Win11React](https://win11.blueedge.me/) | [![open](assets/open.png) available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
 [AtheOS](https://al1-ce.dev) | ![locked](assets/locked.png) closed | |
@@ -128,7 +127,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://noam-rubin.com) | [![open](assets/open.png) available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
-[Cobra!'s Website](https://cobradile.neocities.org) | ![locked](assets/locked.png) closed |
 [Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
 [Alina Sava](https://sava.io) | ![locked](assets/locked.png) closed |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
@@ -166,7 +164,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [chloédigital](https://chloedigital.com) | ![locked](assets/locked.png) closed |
 [The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](assets/locked.png) closed |
 [Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](assets/open.png) available](https://github.com/malisipi/ubuntu-tour) |
-[KeYGeN](https://keyge.nz) | ![locked](assets/locked.png) closed |
 [sue roh](https://sueroh.com) | ![locked](assets/locked.png) closed |
 [Windows 11 Web](https://rajaniraiyn.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/Rajaniraiyn/windows11) |
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](assets/open.png) available](https://github.com/sosophia10/Time-Capsule) |
