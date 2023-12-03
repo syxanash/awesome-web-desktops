@@ -127,6 +127,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://noam-rubin.com) | [![open](assets/open.png) available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
+[Cobra!'s Website](https://cobradile.neocities.org) | ![locked](assets/locked.png) closed |
 [Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
 [Alina Sava](https://sava.io) | ![locked](assets/locked.png) closed |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
