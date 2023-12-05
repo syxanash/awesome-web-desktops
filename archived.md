@@ -28,7 +28,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
-[Rimet Desktop](https://web.archive.org/web/20220805051733/http://geocities.ws/rimet/) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |

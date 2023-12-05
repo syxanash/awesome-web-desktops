@@ -189,6 +189,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido/) |
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) closed |
 [Nao](https://nao.gg) | ![locked](assets/locked.png) closed |
+[Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
