@@ -190,6 +190,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) closed |
 [Nao](https://nao.gg) | ![locked](assets/locked.png) closed |
 [Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
+[FullStacked](https://fullstacked.org/demo) | [![open](assets/open.png) available](https://github.com/fullstackedorg/workspace) |
 
 ## Archived
 
