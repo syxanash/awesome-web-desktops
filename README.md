@@ -191,6 +191,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Nao](https://nao.gg) | ![locked](assets/locked.png) closed |
 [Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
 [FullStacked](https://fullstacked.org/demo) | [![open](assets/open.png) available](https://github.com/fullstackedorg/workspace) |
+[exaequOS](https://www.exaequos.com) | [![open](assets/open.png) available](https://github.com/baudaux/exa-kernel) |
 
 ## Archived
 
