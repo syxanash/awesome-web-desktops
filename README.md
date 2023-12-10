@@ -192,6 +192,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
 [FullStacked](https://fullstacked.org/demo) | [![open](assets/open.png) available](https://github.com/fullstackedorg/workspace) |
 [exaequOS](https://www.exaequos.com) | [![open](assets/open.png) available](https://github.com/baudaux/exa-kernel) |
+[vue-95](https://johnuberbacher.com/vue95) | [![open](assets/open.png) available](https://github.com/johnuberbacher/vue-95) |
 
 ## Archived
 
