@@ -14,8 +14,8 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 [and gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
-| kalilhaddad.com |
-| dev.lotw.xyz/desk.os |
+kalilhaddad.com |
+dev.lotw.xyz/desk.os |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
@@ -23,7 +23,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
 [ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) | 
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
-| jackk.im |
+jackk.im |
 [Rauno Freiberg](https://rauno.me) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
@@ -40,3 +40,4 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Joeyonng's Backyard](https://github.com/Joeyonng/joeyonng-backyard) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
+nao.gg |
