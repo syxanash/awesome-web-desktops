@@ -129,7 +129,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Cobra!'s Website](https://cobradile.neocities.org) | ![locked](assets/locked.png) closed |
 [Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
-[Alina Sava](https://sava.io) | ![locked](assets/locked.png) closed |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://rebornxp.js.org) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
