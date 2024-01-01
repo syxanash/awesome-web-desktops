@@ -40,4 +40,4 @@ jackk.im |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Joeyonng's Backyard](https://github.com/Joeyonng/joeyonng-backyard) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
-[Alina Sava](https://sava.io) |
+[Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
