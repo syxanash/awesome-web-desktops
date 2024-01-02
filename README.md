@@ -132,7 +132,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://rebornxp.js.org) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
-[WWWerd](https://theoldnet.com/desktop/) | ![locked](assets/locked.png) closed |
+[WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
 [Puter](https://puter.com) | ![locked](assets/locked.png) closed |
 [Things](https://things.inc) | ![locked](assets/locked.png) closed |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
