@@ -187,13 +187,13 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
 [NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido/) |
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) closed |
-[Nao](https://nao.gg) | ![locked](assets/locked.png) closed |
 [Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
 [FullStacked](https://fullstacked.org/demo) | [![open](assets/open.png) available](https://github.com/fullstackedorg/workspace) |
 [exaequOS](https://www.exaequos.com) | [![open](assets/open.png) available](https://github.com/baudaux/exa-kernel) |
 [vue-95](https://johnuberbacher.com/vue95) | [![open](assets/open.png) available](https://github.com/johnuberbacher/vue-95) |
 [mingde](https://mingde.prussia.dev) | [![open](assets/open.png) available](https://github.com/stjet/mingde) |
 [BénOS](https://benlacroix.com) | ![locked](assets/locked.png) closed |
+[Pluto](https://pluto.zeon.dev) | [![open](assets/open.png) available](https://github.com/zeondev/pluto) |
 
 ## Archived
 
