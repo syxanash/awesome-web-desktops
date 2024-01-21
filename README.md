@@ -193,7 +193,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [vue-95](https://johnuberbacher.com/vue95) | [![open](assets/open.png) available](https://github.com/johnuberbacher/vue-95) |
 [mingde](https://mingde.prussia.dev) | [![open](assets/open.png) available](https://github.com/stjet/mingde) |
 [BénOS](https://benlacroix.com) | ![locked](assets/locked.png) closed |
-[Pluto](https://pluto.zeon.dev) | [![open](assets/open.png) available](https://github.com/zeondev/pluto) |
+[Pluto](https://pluto-app.zeon.dev) | [![open](assets/open.png) available](https://github.com/zeondev/pluto) |
 
 ## Archived
 
