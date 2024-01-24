@@ -195,6 +195,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [BénOS](https://benlacroix.com) | ![locked](assets/locked.png) closed |
 [Pluto](https://pluto-app.zeon.dev) | [![open](assets/open.png) available](https://github.com/zeondev/pluto) |
 [webKDE](https://baroxyton.github.io/webKDE/) | [![open](assets/open.png) available](https://github.com/baroxyton/webKDE) |
+[Laurus Edelbacher]([https://www.laurusedelbacher.com/new_page.html)) | ![locked](assets/locked.png) closed |
 
 
 ## Archived
