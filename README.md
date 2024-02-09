@@ -117,7 +117,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](assets/open.png) available](https://github.com/davidedc/Fizzygum) |
 [Win11React](https://win11.blueedge.me/) | [![open](assets/open.png) available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
-[AtheOS](https://al1-ce.dev) | ![locked](assets/locked.png) closed | |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) closed |
 [Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](assets/locked.png) closed |
@@ -138,7 +137,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) closed |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
-[Platinum](https://robbiebyrd.github.io/platinum/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/platinum) |
 [Browso](https://www.browso.app) | ![locked](assets/locked.png) closed |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) closed |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) closed |
@@ -151,7 +149,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) closed |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) closed |
 [Pangolin Desktop](https://web.dahliaos.io) | [![open](assets/open.png) available](https://github.com/dahliaOS/pangolin_desktop) |
-[SantaOS](http://jeremymakes.com/SantaOS/) | ![locked](assets/locked.png) closed |
 [WebXP](https://konsti.club/webSys/) | ![locked](assets/locked.png) closed |
 [HoleNet Cobalt](https://holenet.info) | ![locked](assets/locked.png) closed |
 [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](assets/open.png) available](https://github.com/chrisbinsunny/chrishub) |
