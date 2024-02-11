@@ -43,5 +43,4 @@ jackk.im |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
 nao.gg |
 [AtheOS](https://web.archive.org/web/20240117030634/https://al1-ce.dev/) |
-[Platinum](https://web.archive.org/web/20240124161035/https://robbiebyrd.github.io/platinum/) or [source](https://github.com/robbiebyrd/platinum) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
