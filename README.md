@@ -71,7 +71,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [VirusvAV](https://os.virusav.com) | ![locked](assets/locked.png) closed |
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) closed |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) closed |
-[Glass Animals OPEN SOURCE](https://opensource.glassanimals.com) | ![locked](assets/locked.png) closed |
 [Make WordArt](https://makewordart.com) | ![locked](assets/locked.png) closed |
 [ytOS](https://ytcracker.com) | ![locked](assets/locked.png) closed |
 [Windows XP](https://windows-xp.netlify.app) | ![locked](assets/locked.png) closed |
@@ -138,7 +137,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) closed |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
 [Platinum](https://robbiebyrd.github.io/platinum/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/platinum) |
-[Browso](https://www.browso.app) | ![locked](assets/locked.png) closed |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) closed |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) closed |
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](assets/open.png) available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
@@ -195,6 +193,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [webKDE](https://baroxyton.github.io/webKDE/) | [![open](assets/open.png) available](https://github.com/baroxyton/webKDE) |
 [Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) closed |
 [.solutionsOS](https://gleb.solutions) | ![locked](assets/locked.png) closed |
+[Digital New Era](https://newwwera.com) | ![locked](assets/locked.png) closed |
+[C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
