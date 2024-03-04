@@ -97,7 +97,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](assets/open.png) available](https://github.com/nbriz/thoughtsonglitchart) |
 [Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](assets/locked.png) closed |
 [Github95](https://github95.now.sh) | [![open](assets/open.png) available](https://github.com/edwardpayton/github95) |
-[An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) closed | |
 [Yahya J. Aifit](https://yja.me) | ![locked](assets/locked.png) closed |
 [jQuery Desktop](https://desktop.sonspring.com) | [![open](assets/open.png) available](https://github.com/nathansmith/jQuery-Desktop) |
 [Windows 96](https://windows96.net) | ![locked](assets/locked.png) closed |
