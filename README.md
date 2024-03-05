@@ -18,6 +18,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 | Site name | Source code |
 | --- | --- |
+[Switchboard](https://switchboard.app) | ![locked](assets/locked.png) closed |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) closed |
 [Nightwave Plaza](https://plaza.one) | ![locked](assets/locked.png) closed |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) closed |
