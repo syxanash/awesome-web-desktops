@@ -41,7 +41,6 @@ jackk.im |
 [Joeyonng's Backyard](https://github.com/Joeyonng/joeyonng-backyard) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
-[AtheOS](https://web.archive.org/web/20240117030634/https://al1-ce.dev/) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240217141916/https://opensource.glassanimals.com/) |
