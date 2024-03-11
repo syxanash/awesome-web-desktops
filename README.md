@@ -115,6 +115,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](assets/open.png) available](https://github.com/davidedc/Fizzygum) |
 [Win11React](https://win11.blueedge.me/) | [![open](assets/open.png) available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
+[AtheOS](https://al1-ce.neocities.org/) | ![locked](assets/locked.png) closed |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) closed |
 [Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](assets/locked.png) closed |
