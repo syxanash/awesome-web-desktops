@@ -43,5 +43,4 @@ jackk.im |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
-[Glass Animals OPEN SOURCE](https://web.archive.org/web/20240217141916/https://opensource.glassanimals.com/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20231208222200/https://deryasdesktop.com/) |
