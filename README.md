@@ -202,6 +202,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [racOS](https://rac.fm) | ![locked](assets/locked.png) closed |
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) closed |
 [Based](https://www.based.gg) | ![locked](assets/locked.png) closed |
+[ModernActiveDesktop](https://www.ingan121.com/mad/) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
 
 ## Archived
 
