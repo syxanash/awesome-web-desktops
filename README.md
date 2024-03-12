@@ -115,7 +115,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](assets/open.png) available](https://github.com/davidedc/Fizzygum) |
 [Win11React](https://win11.blueedge.me/) | [![open](assets/open.png) available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
-[AtheOS](https://al1-ce.neocities.org/) | ![locked](assets/locked.png) closed |
+[AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) closed |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) closed |
 [Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](assets/locked.png) closed |
@@ -195,6 +195,12 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [.solutionsOS](https://gleb.solutions) | ![locked](assets/locked.png) closed |
 [Digital New Era](https://newwwera.com) | ![locked](assets/locked.png) closed |
 [C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) closed |
+[HeavenComputerOS](https://heaven.computer) | ![locked](assets/locked.png) closed |
+[Kaitlyn Chai](https://kaitlynchai.work) | ![locked](assets/locked.png) closed |
+[Bianca Mkaila](https://bianca.digital) | ![locked](assets/locked.png) closed |
+[racOS](https://rac.fm) | ![locked](assets/locked.png) closed |
+[HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) closed |
+[Based](https://www.based.gg) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
