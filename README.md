@@ -5,9 +5,16 @@
 The web's biggest curated directory of apps, portfolios and experiments that mimic the appearance and functionality of desktop operating systems, these are commonly known as [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
 ![info](assets/info.png) The links are [actively monitored](https://github.com/syxanash/wd-watcher) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see [contribution guide](contributing.md).<br>
-![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.<br>
 
 ![new](https://i.imgur.com/BS6dn9V.gif) ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [latest blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
+
+<details>
+  <summary>Disclaimer</summary>
+
+  ![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.
+  
+  ![careful there](https://win98icons.alexmeub.com/icons/png/msg_error-2.png) Some of these websites may include elements related to **cryptocurrencies**. I **do not endorse** any cryptocurrency products or services, and inclusion of such content does not reflect my personal views. I do not wish to be associated with the crypto world. These websites have been added solely for the aesthetic purpose of being web desktops. Users are encouraged to conduct their own research before engaging with any cryptocurrency-related content or services found within this list.
+</details>
 
 ## Contents
 
