@@ -13,7 +13,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
   ![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.
   
-  ![careful there](https://win98icons.alexmeub.com/icons/png/msg_error-2.png) Some of these websites may include elements related to **cryptocurrencies**. I **do not endorse** any cryptocurrency products or services, and inclusion of such content does not reflect my personal views. I do not wish to be associated with the crypto world. These websites have been added solely for the aesthetic purpose of being web desktops. Users are encouraged to conduct their own research before engaging with any cryptocurrency-related content or services found within this list.
+  ![careful there](assets/careful.png) Some of these websites may include elements related to **cryptocurrencies**. I **do not endorse** any cryptocurrency products or services, and inclusion of such content does not reflect my personal views. I do not wish to be associated with the crypto world. These websites have been added solely for the aesthetic purpose of being web desktops. Users are encouraged to conduct their own research before engaging with any cryptocurrency-related content or services found within this list.
 </details>
 
 ## Contents
