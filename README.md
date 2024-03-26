@@ -6,7 +6,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ![info](assets/info.png) The links are [actively monitored](https://github.com/syxanash/wd-watcher) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see [contribution guide](contributing.md).<br>
 
-![new](https://i.imgur.com/BS6dn9V.gif) ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [latest blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
+![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
 
 <details>
   <summary>Disclaimer</summary>
