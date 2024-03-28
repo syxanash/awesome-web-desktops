@@ -149,7 +149,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) closed |
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](assets/open.png) available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
 [H4CK1NG G00GL3](https://h4ck1ng.google) | ![locked](assets/locked.png) closed |
-[Hudson Mohawke](https://www.hudsonmohawke.com) | ![locked](assets/locked.png) closed |
 [Sam Likes Code](https://samlikescode.dev) | [![open](assets/open.png) available](https://github.com/Goggwell/newfolio/) |
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) closed |
 [Amiga34 Germany](http://www.amiga34.de/WB.html) | ![locked](assets/locked.png) closed |

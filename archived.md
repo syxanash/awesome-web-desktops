@@ -45,3 +45,4 @@ jackk.im |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20231208222200/https://deryasdesktop.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
+[Hudson Mohawke](https://web.archive.org/web/20240000000000*/https://www.hudsonmohawke.com) |
