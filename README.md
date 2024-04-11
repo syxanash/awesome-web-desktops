@@ -211,7 +211,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [l3S GR*S MOT$](https://www.lesgrosmots.com) | ![locked](assets/locked.png) closed |
 [constraint systems OS](https://csos.constraint.systems) | [![open](assets/open.png) available](https://github.com/constraint-systems/csOS) |
 [PeOS](https://picturelements.github.io/) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
-[Transoftware OS](https://tansoftware.com) | ![locked](assets/locked.png) closed |
+[Tansoftware OS](https://tansoftware.com) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
