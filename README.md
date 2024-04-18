@@ -212,6 +212,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [constraint systems OS](https://csos.constraint.systems) | [![open](assets/open.png) available](https://github.com/constraint-systems/csOS) |
 [PeOS](https://picturelements.github.io/) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
 [Tansoftware OS](https://tansoftware.com) | ![locked](assets/locked.png) closed |
+[Brunc.io](https://brunc.io) | [![open](assets/open.png) available](https://github.com/bamanczak/bruncio) |
 
 ## Archived
 
