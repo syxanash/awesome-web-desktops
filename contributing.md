@@ -16,7 +16,7 @@ The **first column** contains name and link to the website, the **second column*
 A **full row** would look like this:
 
 ```
-[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) available](https://REPOISTORY_URL) |
+[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) available](https://REPOSITORY_URL) |
 ```
 
 whereas if the source code is **not** available:
