@@ -131,7 +131,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
 [Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
-[Noam Rubin](https://noam-rubin.com) | [![open](assets/open.png) available](https://github.com/noamrubin22/noam-portfolio-react-ts) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Cobra!'s Website](https://cobradile.neocities.org) | ![locked](assets/locked.png) closed |
 [Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
