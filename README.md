@@ -58,7 +58,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [EmuOS](https://emupedia.net/beta/emuos/) | [![open](assets/open.png) available](https://github.com/Emupedia/emupedia.github.io) |
 [AaronOS](https://aaronos.dev/AaronOS/aosBeta.php) | [![open](assets/open.png) available](https://github.com/MineAndCraft12/AaronOS) |
 [CloudDesk](http://altaica.altervista.org) | ![locked](assets/locked.png) closed |
-[Windows 98 -- Packard Belle](https://packard-belle.netlify.com) | [![open](assets/open.png) available](https://github.com/padraigfl/packard-belle-desktop) |
+[Windows 98 -- Packard Belle](https://packard-belle.netlify.app) | [![open](assets/open.png) available](https://github.com/padraigfl/packard-belle-desktop) |
 [vue win3.1](https://disjfa.github.io/vue-win-3.1/) | [![open](assets/open.png) available](https://github.com/disjfa/vue-win-3.1) |
 [Minesweeper](https://winmine-exe.now.sh) | [![open](assets/open.png) available](https://github.com/1000hz/winmine-exe) |
 [Gamithra OS](https://gamithra.com) | ![locked](assets/locked.png) closed |
@@ -114,7 +114,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Try Andy's Desk](https://desk.glitchy.website) | ![locked](assets/locked.png) closed |
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](assets/locked.png) closed |
 [Jack Adam](https://jackadam.cc) | ![locked](assets/locked.png) closed |
-[Xiaohan Zou's Portfolio](https://portfolio.zxh.io) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
+[Xiaohan Zou's Portfolio](https://portfolio.zxh.me) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
 [macOS in Svelte](https://macos-web.app) | [![open](assets/open.png) available](https://github.com/puruvj/macos-web) |
 [Deepin Linux](https://goodmanwen.github.io/) | [![open](assets/open.png) available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
 [Win7](https://khang-nd.github.io/win7) | [![open](assets/open.png) available](https://github.com/khang-nd/windows7) |
