@@ -47,4 +47,3 @@ jackk.im |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Hudson Mohawke](https://web.archive.org/web/20240000000000*/https://www.hudsonmohawke.com) |
 [Noam Rubin](https://github.com/noamrubin22/noam-portfolio-react-ts) |
-[HyNET Geocity](https://web.archive.org/web/20230602033223/https://hyena.network/geocity/) |
