@@ -214,6 +214,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Brunc.io](https://brunc.io) | [![open](assets/open.png) available](https://github.com/bamanczak/bruncio) |
 [KRAZAM OS](https://www.krazam.tv) | ![locked](assets/locked.png) closed |
 [FrugalOS](https://www.thefrugalgamer.net/programming/FrugalOS/) | [![open](assets/open.png) available](https://github.com/FrugalGamer/FrugalOS) |
+[32by32](https://32by32.com) | ![locked](assets/locked.png) closed |
+[Melati Diran](https://melati.world) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
