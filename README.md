@@ -143,7 +143,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) closed |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
-[Platinum](https://robbiebyrd.github.io/platinum/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/platinum) |
+[Classicy (was Platinum)](https://classicy.ing) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) closed |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) closed |
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](assets/open.png) available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
