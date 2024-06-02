@@ -218,6 +218,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [32by32](https://32by32.com) | ![locked](assets/locked.png) closed |
 [Melati Diran](https://melati.world) | ![locked](assets/locked.png) closed |
 [Yosub Kim](https://www.yoyosub.com) | ![locked](assets/locked.png) closed |
+[louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
