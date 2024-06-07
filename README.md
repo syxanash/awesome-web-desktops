@@ -25,6 +25,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 | Site name | Source code |
 | --- | --- |
+[Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/cseriestechhero/kiosk/setup/services/redir/) |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) closed |
 [Nightwave Plaza](https://plaza.one) | ![locked](assets/locked.png) closed |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) closed |
