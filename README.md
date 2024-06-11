@@ -46,7 +46,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Whimsy Space](https://whimsy.space) | [![open](assets/open.png) available](https://github.com/STRd6/zine) |
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) closed |
-[www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) closed |
 [Virtual Desktop](http://www.virtualdesktop.org) | ![locked](assets/locked.png) closed |
 [mattOS](https://mattos-1.webflow.io) | ![locked](assets/locked.png) closed |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) closed |
@@ -133,7 +132,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://noamrubin22.github.io/noamrubin/) | [![open](assets/open.png) available](https://github.com/noamrubin22/noamrubin) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
-[Cobra!'s Website](https://cobradile.neocities.org) | ![locked](assets/locked.png) closed |
 [Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
