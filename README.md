@@ -217,7 +217,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Melati Diran](https://melati.world) | ![locked](assets/locked.png) closed |
 [Yosub Kim](https://www.yoyosub.com) | ![locked](assets/locked.png) closed |
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) closed |
-
+[Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
 ## Archived
 
 See [Archived Web Desktops](archived.md)
