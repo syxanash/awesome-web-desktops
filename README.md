@@ -223,6 +223,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Grovy Website](https://grovy.space) | ![locked](assets/locked.png) closed |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
+[Kasius Next](https://bobuxstation.github.io/Kasius-Next/) | [![open](assets/open.png) available](https://github.com/Bobuxstation/Kasius-Next) |
 
 ## Archived
 
