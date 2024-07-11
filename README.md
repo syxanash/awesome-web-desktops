@@ -133,7 +133,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://noamrubin22.github.io/noamrubin/) | [![open](assets/open.png) available](https://github.com/noamrubin22/noamrubin) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
-[Jonathan Zavialov](https://jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio2) |
+[Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://rebornxp.js.org) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
