@@ -220,7 +220,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) closed |
 [Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
 [Joey de Ruiter](https://joeyderuiter.me) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
-[Grovy Website](https://grovy.space) | ![locked](assets/locked.png) closed |
+[Grovy Website](https://grovy.space) (goes offline sometimes) | ![locked](assets/locked.png) closed |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
 [Kasius Next](https://bobuxstation.github.io/Kasius-Next/) | [![open](assets/open.png) available](https://github.com/Bobuxstation/Kasius-Next) |
