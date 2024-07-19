@@ -94,7 +94,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) closed |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](assets/locked.png) closed |
 [FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](assets/locked.png) closed |
-[aconfuseddragon's art and nostalgia corner](https://aconfuseddragon.neocities.org) | ![locked](assets/locked.png) closed |
+[H2O - OS](https://aconfuseddragon.neocities.org) | ![locked](assets/locked.png) closed |
 [RaccOS 9](https://violet.pm) | ![locked](assets/locked.png) closed |
 [daedalOS](https://dustinbrett.com) | [![open](assets/open.png) available](https://github.com/DustinBrett/daedalOS) |
 [MSOS Concept](https://msos.midspike.com) | ![locked](assets/locked.png) closed |
