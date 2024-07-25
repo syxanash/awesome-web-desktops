@@ -225,6 +225,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
 [Kasius Next](https://bobuxstation.github.io/Kasius-Next/) | [![open](assets/open.png) available](https://github.com/Bobuxstation/Kasius-Next) |
 [Nestor Siré](https://nestorsire.com) | ![locked](assets/locked.png) closed |
+[mountainOS](https://broimluna.github.io/mountainOS/) | [![open](assets/open.png) available](https://github.com/broimluna/mountainOS) |
+[skyOS](https://broimluna.github.io/skyos/) | [![open](assets/open.png) available](https://github.com/broimluna/skyos) |
+[mellyeliu](https://mellyeliu.online) | [![open](assets/open.png) available](https://github.com/mellyeliu/new-personal-website) |
 
 ## Archived
 
