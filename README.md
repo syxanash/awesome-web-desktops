@@ -189,7 +189,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
 [NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido/) |
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) closed |
-[Rimet Desktop](http://geocities.ws/rimet/) | ![locked](assets/locked.png) closed |
+[Rimet Desktop](http://geocities.ws/nooz/rimet/) | ![locked](assets/locked.png) closed |
 [exaequOS](https://www.exaequos.com/start.php) | [![open](assets/open.png) available](https://github.com/baudaux/exa-kernel) |
 [vue-95](https://johnuberbacher.com/vue95) | [![open](assets/open.png) available](https://github.com/johnuberbacher/vue-95) |
 [mingde](https://mingde.prussia.dev) | [![open](assets/open.png) available](https://github.com/stjet/mingde) |
