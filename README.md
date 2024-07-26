@@ -26,7 +26,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 | Site name | Source code |
 | --- | --- |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) closed |
-[Nightwave Plaza](https://plaza.one) | ![locked](assets/locked.png) closed |
+[Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) closed |
 [Ash Kyd](https://ash.ms) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
 [Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](assets/locked.png) closed |
