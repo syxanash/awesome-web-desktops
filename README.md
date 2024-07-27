@@ -228,6 +228,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [mountainOS](https://broimluna.github.io/mountainOS/) | [![open](assets/open.png) available](https://github.com/broimluna/mountainOS) |
 [skyOS](https://broimluna.github.io/skyos/) | [![open](assets/open.png) available](https://github.com/broimluna/skyos) |
 [mellyeliu](https://mellyeliu.online) | [![open](assets/open.png) available](https://github.com/mellyeliu/new-personal-website) |
+[GopalOS](https://cerebraldatabank.neocities.org/gopalos) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
