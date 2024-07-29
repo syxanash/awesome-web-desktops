@@ -63,7 +63,7 @@ function App() {
               <TextInput
                 aria-label="directory"
                 style={{ maxWidth: '330px' }}
-                value={'simone.computer/#/webdesktops'}
+                value={'simone.computer/webdesktops'}
               />
             </div>
             { unzipping ? <div style={{ paddingTop: '35px' }}><ProgressBar aria-label="progress" variant='tile' value={Math.floor(percent)} /></div> : null }
