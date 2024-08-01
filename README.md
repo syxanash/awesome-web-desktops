@@ -37,7 +37,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](assets/open.png) available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
 [Geek Prank](https://geekprank.com) | ![locked](assets/locked.png) closed |
 [Eric Bernacchi](http://eeerik.com) | ![locked](assets/locked.png) closed |
-[OS.js Demonstration](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
+[OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
 [Mariano Pascual](http://www.marianopascual.me) | ![locked](assets/locked.png) closed |
 [AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) closed |
 [98.js](https://98.js.org) | [![open](assets/open.png) available](https://github.com/1j01/98) |
