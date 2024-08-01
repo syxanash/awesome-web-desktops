@@ -228,6 +228,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [skyOS](https://broimluna.github.io/skyos/) | [![open](assets/open.png) available](https://github.com/broimluna/skyos) |
 [mellyeliu](https://mellyeliu.online) | [![open](assets/open.png) available](https://github.com/mellyeliu/new-personal-website) |
 [GopalOS](https://cerebraldatabank.neocities.org/gopalos) | ![locked](assets/locked.png) closed |
+[Windows 12 Web Edition](https://tjy-gitnub.github.io/win12/desktop.html) | [![open](assets/open.png) available](https://github.com/tjy-gitnub/win12/blob/main/readme/README_en_us.md) |
 
 ## Archived
 
