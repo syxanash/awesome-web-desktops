@@ -233,6 +233,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KOD Cloud](https://demo.kodcloud.com) | [![open](assets/open.png) available](https://github.com/kalcaddle/KodExplorer) |
 [The Little Green Desktop](https://www.atari.st) | ![locked](assets/locked.png) closed |
 [Strawbebby228 Desktop](https://strawbebby228.neocities.org) | ![locked](assets/locked.png) closed |
+[SRB](https://srb.neocities.org) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
