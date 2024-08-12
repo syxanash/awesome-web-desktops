@@ -136,7 +136,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
-[RebornXP](https://rebornxp.js.org) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
+[RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
 [Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) |
 [Things](https://things.inc) | ![locked](assets/locked.png) closed |
@@ -173,7 +173,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) closed |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) closed |
 [Joy Yiu](https://www.joyyiu.com) | ![locked](assets/locked.png) closed |
-[DROPS](https://www.maxvphillips.com/drops/) | [![open](assets/open.png) available](https://github.com/maxvp/drops) |
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) closed |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) closed |
 [Buddy Pond](https://buddypond.com) | [![open](assets/open.png) available](https://github.com/marak/buddypond) |
