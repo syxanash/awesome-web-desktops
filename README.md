@@ -125,7 +125,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
 [AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) closed |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) closed |
-[Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](assets/locked.png) closed |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) closed |
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
@@ -197,7 +196,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [webKDE](https://baroxyton.github.io/webKDE/) | [![open](assets/open.png) available](https://github.com/baroxyton/webKDE) |
 [Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) closed |
 [.solutionsOS](https://gleb.solutions) | ![locked](assets/locked.png) closed |
-[Digital New Era](https://newwwera.com) | ![locked](assets/locked.png) closed |
+[Digital New Era](https://newerawebsites.com) | ![locked](assets/locked.png) closed |
 [C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) closed |
 [HeavenComputerOS](https://heaven.computer) | ![locked](assets/locked.png) closed |
 [Kaitlyn Chai](https://kaitlynchai.work) | ![locked](assets/locked.png) closed |
