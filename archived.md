@@ -48,4 +48,3 @@ jackk.im |
 [Hudson Mohawke](https://web.archive.org/web/20240000000000*/https://www.hudsonmohawke.com) |
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
 [DROPS](https://github.com/maxvp/drops) |
-[Don chia](https://github.com/dhs17y2adonchia/win95) |

@@ -125,6 +125,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) closed |
 [AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) closed |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) closed |
+[Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
 [LUMISET](https://lumiset.se) | ![locked](assets/locked.png) closed |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) closed |
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
