@@ -131,7 +131,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
 [Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
-[Noam Rubin](https://noamrubin22.github.io/noamrubin/) | [![open](assets/open.png) available](https://github.com/noamrubin22/noamrubin) |
+[Noam Rubin](https://www.noam-rubin.com) | ![locked](assets/locked.png) closed |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
 [KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) closed |
