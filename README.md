@@ -233,6 +233,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Little Green Desktop](https://www.atari.st) | ![locked](assets/locked.png) closed |
 [Strawbebby228 Desktop](https://strawbebby228.neocities.org) | ![locked](assets/locked.png) closed |
 [SRB](https://srb.neocities.org) | ![locked](assets/locked.png) closed |
+[Systems 01](https://systems01.com) | ![locked](assets/locked.png) closed |
+[hat.fo](https://hat.fo) | [![open](assets/open.png) available](https://github.com/hatf0/hat.fo-next) |
 
 ## Archived
 
