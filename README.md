@@ -236,6 +236,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Systems 01](https://systems01.com) | ![locked](assets/locked.png) closed |
 [hat.fo](https://hat.fo) | [![open](assets/open.png) available](https://github.com/hatf0/hat.fo-next) |
 [Nic Chan](https://www.nicchan.me) | ![locked](assets/locked.png) closed |
+[KodeKeras](https://kodekeras.my.id) | ![locked](assets/locked.png) closed |
 
 ## Archived
 
