@@ -78,7 +78,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [VirusvAV](https://os.virusav.com) | ![locked](assets/locked.png) closed |
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) closed |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) closed |
-[Glass Animals OPEN SOURCE](https://opensource.glassanimals.com) | ![locked](assets/locked.png) closed |
 [Make WordArt](https://makewordart.com) | ![locked](assets/locked.png) closed |
 [ytOS](https://ytcracker.com) | ![locked](assets/locked.png) closed |
 [Windows XP](https://windows-xp.netlify.app) | ![locked](assets/locked.png) closed |
