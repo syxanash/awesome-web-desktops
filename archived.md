@@ -33,7 +33,6 @@ jackk.im |
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Hunter Hodnett XP](https://web.archive.org/web/20221225105658/https://hunterhodnett.dev/#) or [source](https://github.com/hunterchristian/personal-site-v2) |
-[TAWS@aSCIIaRENA](https://web.archive.org/web/20230202204255/https://workbench.asciiarena.se/) |
 [Hugo Doueli \| Portfolio 2022](https://web.archive.org/web/20230103185522/https://hugodoueil.fr/) or [source](https://github.com/Ormidales/portfolio/) |
 [SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
@@ -43,7 +42,6 @@ jackk.im |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
-[An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20231208222200/https://deryasdesktop.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Hudson Mohawke](https://web.archive.org/web/20240000000000*/https://www.hudsonmohawke.com) |
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
