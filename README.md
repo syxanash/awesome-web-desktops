@@ -238,6 +238,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 95 Portfolio](https://yuteoctober.github.io/wins95Portfolio/) | [![open](assets/open.png) available](https://github.com/Yuteoctober/wins95Portfolio/) |
 [An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) closed |
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) closed |
+[sean.fishOS](https://sean.fish) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 
 ## Archived
 
