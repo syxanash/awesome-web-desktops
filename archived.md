@@ -43,7 +43,6 @@ jackk.im |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
-[Hudson Mohawke](https://web.archive.org/web/20240000000000*/https://www.hudsonmohawke.com) |
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
 [DROPS](https://github.com/maxvp/drops) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/)

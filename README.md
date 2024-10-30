@@ -239,6 +239,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) closed |
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) closed |
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
+[Sarah's Portfolio](https://www.webchef.dev) | [![open](assets/open.png) available](https://github.com/WebChefDev/WebChefDev) |
 
 ## Archived
 
