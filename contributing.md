@@ -23,7 +23,7 @@ A **full row** would look like this:
 whereas if the source code is **not** available:
 
 ```
-[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) closed |
+[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private |
 ```
 
 Thank you for contributing!
