@@ -46,3 +46,4 @@ jackk.im |
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
 [DROPS](https://github.com/maxvp/drops) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/)
+[Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |

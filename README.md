@@ -47,7 +47,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) private |
 [www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) private |
-[Virtual Desktop](http://www.virtualdesktop.org) | ![locked](assets/locked.png) private |
 [mattOS](https://mattos-1.webflow.io) | ![locked](assets/locked.png) private |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
