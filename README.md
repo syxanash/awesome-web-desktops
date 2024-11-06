@@ -109,7 +109,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Coding Forge](https://thecodingforge.com.au) | [![open](assets/open.png) available](https://github.com/Yalgie/website) |
 [Vivek Patel - Computer Science Student](https://vivek9patel.github.io) | [![open](assets/open.png) available](https://github.com/vivek9patel/vivek9patel.github.io) |
 [Winampify](https://winampify.io) | [![open](assets/open.png) available](https://github.com/remigallego/winampify) |
-[Try Andy's Desk](https://desk.glitchy.website) | ![locked](assets/locked.png) private |
+[Try Andy's Desk](https://desk.glitchy.website) | [![open](assets/open.png) available](https://github.com/KaeruCT/desk.glitchy.website) |
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](assets/locked.png) private |
 [Jack Adam](https://jackadam.cc) | [![open](assets/open.png) available](https://github.com/jckdm/jckdm.github.io) |
 [Xiaohan Zou's Portfolio](https://portfolio.zxh.me) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
@@ -239,6 +239,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) private |
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 [Sarah's Portfolio](https://www.webchef.dev) | [![open](assets/open.png) available](https://github.com/WebChefDev/WebChefDev) |
+[Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
+
 
 ## Archived
 
