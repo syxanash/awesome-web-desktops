@@ -24,7 +24,6 @@ dev.lotw.xyz/desk.os |
 [ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) | 
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
 jackk.im |
-[Rauno Freiberg](https://rauno.me) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |

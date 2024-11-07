@@ -198,7 +198,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Digital New Era](https://newerawebsites.com) | ![locked](assets/locked.png) private |
 [C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) private |
 [HeavenComputerOS](https://heaven.computer) | ![locked](assets/locked.png) private |
-[Kaitlyn Chai](https://kaitlynchai.work) | ![locked](assets/locked.png) private |
 [Bianca Mkaila](https://bianca.digital) | ![locked](assets/locked.png) private |
 [racOS](https://rac.fm) | ![locked](assets/locked.png) private |
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) private |
@@ -240,7 +239,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 [Sarah's Portfolio](https://www.webchef.dev) | [![open](assets/open.png) available](https://github.com/WebChefDev/WebChefDev) |
 [Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
-
+[Vtron](https://vtron.site/win/) | [![open](assets/open.png) available](https://github.com/royalknight56/vtron) |
+[Koë's Desktop](https://koefka.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
