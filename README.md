@@ -211,7 +211,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KRAZAM OS](https://www.krazam.tv) | ![locked](assets/locked.png) private |
 [FrugalOS](https://www.thefrugalgamer.net/programming/FrugalOS/) | [![open](assets/open.png) available](https://github.com/FrugalGamer/FrugalOS) |
 [32by32](https://32by32.com) | ![locked](assets/locked.png) private |
-[Melati Diran](https://melati.world) | ![locked](assets/locked.png) private |
 [Yosub Kim](https://www.yoyosub.com) | ![locked](assets/locked.png) private |
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) private |
 [Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
@@ -241,6 +240,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
 [Vtron](https://vtron.site/win/) | [![open](assets/open.png) available](https://github.com/royalknight56/vtron) |
 [Koë's Desktop](https://koefka.com) | ![locked](assets/locked.png) private |
+[Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 
 ## Archived
 
