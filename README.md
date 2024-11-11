@@ -231,7 +231,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [SRB](https://srb.neocities.org) | ![locked](assets/locked.png) private |
 [Systems 01](https://systems01.com) | ![locked](assets/locked.png) private |
 [hat.fo](https://hat.fo) | [![open](assets/open.png) available](https://github.com/hatf0/hat.fo-next) |
-[Nic Chan](https://www.nicchan.me) | ![locked](assets/locked.png) closed |
 [Nic Chan](https://www.nicchan.me) | ![locked](assets/locked.png) private |
 [Windows 95 Portfolio](https://yuteoctober.github.io/wins95Portfolio/) | [![open](assets/open.png) available](https://github.com/Yuteoctober/wins95Portfolio/) |
 [An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) private |
