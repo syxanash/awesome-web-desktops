@@ -243,6 +243,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
 [Renkbench](http://www.renkbench.de) | [![open](assets/open.png) available](https://github.com/renkman/Renkbench) |
+[KodeKeras](https://kodekeras.my.id) | ![locked](assets/locked.png) private |
 
 ## Archived
 
