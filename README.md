@@ -215,7 +215,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) private |
 [Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
 [Joey de Ruiter](https://joeyderuiter.me) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
-[Grovy Website](https://grovy.space) (goes offline sometimes) | ![locked](assets/locked.png) private |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
 [Kasius Next](https://bobuxstation.github.io/Kasius-Next/) | [![open](assets/open.png) available](https://github.com/Bobuxstation/Kasius-Next) |
@@ -230,7 +229,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Strawbebby228 Desktop](https://strawbebby228.neocities.org) | ![locked](assets/locked.png) private |
 [SRB](https://srb.neocities.org) | ![locked](assets/locked.png) private |
 [Systems 01](https://systems01.com) | ![locked](assets/locked.png) private |
-[hat.fo](https://hat.fo) | [![open](assets/open.png) available](https://github.com/hatf0/hat.fo-next) |
 [Nic Chan](https://www.nicchan.me) | ![locked](assets/locked.png) private |
 [Windows 95 Portfolio](https://yuteoctober.github.io/wins95Portfolio/) | [![open](assets/open.png) available](https://github.com/Yuteoctober/wins95Portfolio/) |
 [An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) private |
