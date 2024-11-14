@@ -26,7 +26,7 @@ whereas if the source code is **not** available:
 [WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private |
 ```
 
-If you have any additional information relevant to booting your web desktop, such as login credentials or specific browser requirements, please add them to the third column 'User notes'.
+If you have any **additional information** relevant to booting your web desktop, such as login credentials or specific browser requirements, please add them to the third column 'User notes'. This column should not be used as a description of your project, but rather to have extra info on running the web app.
 
 ```
 [WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private | login: admin / password
