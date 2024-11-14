@@ -136,7 +136,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
-[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) |
+[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br> clear cookies and site data |
 [Things](https://things.inc) | ![locked](assets/locked.png) private |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) private |
