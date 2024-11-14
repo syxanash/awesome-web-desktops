@@ -23,8 +23,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ## Websites
 
-| Site name | Source code |
-| --- | --- |
+| Site name | Source code | User notes |
+| --- | --- | --- |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) private |
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
@@ -132,7 +132,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Noam Rubin](https://www.noam-rubin.com) | ![locked](assets/locked.png) private |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
-[KANYE 2049](https://kanye2049.com/) (password: `Graduation`) | ![locked](assets/locked.png) private |
+[KANYE 2049](https://kanye2049.com/) | ![locked](assets/locked.png) private | password: `Graduation` |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
@@ -141,7 +141,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) private |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
-[Classicy](https://robbiebyrd.github.io/classicy/) (was Platinum) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
+[Classicy](https://robbiebyrd.github.io/classicy/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) private |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) private |
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](assets/open.png) available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
@@ -177,7 +177,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [thatDaria](https://thatdaria.com) | ![locked](assets/locked.png) private |
 [Chads Desktop](https://chadhill.dev) | [![open](assets/open.png) available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
-[GreyOS](https://greyos.gr) (login: `demo@greyos.gr` / `password`) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) |
+[GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
 [Henry Heffernan](https://henryheffernan.com) | [![open](assets/open.png) available](https://github.com/henryjeff/portfolio-website) |
 [Alec Babala](https://www.alecbabala.com) | ![locked](assets/locked.png) private |
 [win32.run](https://win32.run) | [![open](assets/open.png) available](https://github.com/ducbao414/win32.run) |

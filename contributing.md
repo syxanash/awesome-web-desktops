@@ -26,4 +26,14 @@ whereas if the source code is **not** available:
 [WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private |
 ```
 
+If you have any additional information relevant to booting your web desktop, such as login credentials or specific browser requirements, please add them to the third column 'User notes'.
+
+```
+[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private | login: admin / password
+
+or
+
+[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private | only works in Chrome
+```
+
 Thank you for contributing!
