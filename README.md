@@ -136,7 +136,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
-[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just clear cookies and site data |
+[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br> clear cookies and site data |
 [Things](https://things.inc) | ![locked](assets/locked.png) private |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) private |
@@ -245,7 +245,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ripen OS](https://ripenos.github.io/Ripenos/) | [![open](assets/open.png) available](https://github.com/ripenos/ripenos.github.io) |
 [Windows11](https://winbows11.vercel.app) | [![open](assets/open.png) available](https://github.com/Siyu1017/winbows11) |
 [Webdows](https://webdows.belowaverage.org) | [![open](assets/open.png) available](https://github.com/belowaverage-org/webdows) |
-[NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot priority order in the BIOS to run this web desktop :) |
+[NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br> priority order in the BIOS<br> to run this web desktop :) |
 [MainOS](https://maingron.itch.io/mainos) | [![open](assets/open.png) available](https://github.com/Maingron/MainOS) |
 [Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) | Only runs with Google Chrome |
 [AnuraOS](https://anura.pro) | [![open](assets/open.png) available](https://github.com/MercuryWorkshop/anuraOS) |
