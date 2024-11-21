@@ -237,7 +237,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sarah's Portfolio](https://www.webchef.dev) | [![open](assets/open.png) available](https://github.com/WebChefDev/WebChefDev) |
 [Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
 [Vtron](https://vtron.site/win/) | [![open](assets/open.png) available](https://github.com/royalknight56/vtron) |
-[Koë's Desktop](https://koefka.com) | ![locked](assets/locked.png) private |
 [Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
 [Renkbench](http://www.renkbench.de) | [![open](assets/open.png) available](https://github.com/renkman/Renkbench) |
