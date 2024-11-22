@@ -246,7 +246,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Webdows](https://webdows.belowaverage.org) | [![open](assets/open.png) available](https://github.com/belowaverage-org/webdows) |
 [NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br> priority order in the BIOS<br> to run this web desktop :) |
 [MainOS](https://maingron.itch.io/mainos) | [![open](assets/open.png) available](https://github.com/Maingron/MainOS) |
-[Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) | Only runs with Google Chrome |
+[Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) |
 [AnuraOS](https://anura.pro) | [![open](assets/open.png) available](https://github.com/MercuryWorkshop/anuraOS) |
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
 
