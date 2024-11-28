@@ -49,3 +49,4 @@ jackk.im |
 [hat.fo](https://github.com/hatf0/hat.fo-next) |
 [Grovy Website](https://web.archive.org/web/20240525004020/https://grovy.space/) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
+[Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
