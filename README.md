@@ -248,6 +248,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) |
 [AnuraOS](https://anura.pro) | [![open](assets/open.png) available](https://github.com/MercuryWorkshop/anuraOS) |
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
+[Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
 
 ## Archived
 
