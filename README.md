@@ -8,8 +8,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
 
+
 <details>
-  <summary>Disclaimer</summary>
+  <summary><b>Disclaimer</b> ⚠️</summary>
 
   ![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.
   
