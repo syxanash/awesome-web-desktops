@@ -10,7 +10,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 
 <details>
-  <summary><b>Disclaimer</b> ⚠️</summary>
+  <summary><img src="https://win98icons.alexmeub.com/icons/png/certificate_2_excl-1.png" /> <b>Disclaimer</b></summary>
 
   ![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.
   
