@@ -254,7 +254,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
 [OS A24 - Y2K Movie](https://www.y2k.movie) | ![locked](assets/locked.png) private |
 [János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) |
-[public access memories](https://www.publicaccessmemories.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) |
+[public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
