@@ -48,3 +48,4 @@ jackk.im |
 [Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
+[János Kócs \| Portfolio](https://web.archive.org/web/20240703070427/https://janoskocs.com/) or [source](https://github.com/janoskocs/portfolio) |
