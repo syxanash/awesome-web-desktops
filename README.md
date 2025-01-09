@@ -256,6 +256,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) |
 [public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
+[Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any username and password |
+[Gersigno's Portfolio](https://gersigno.github.io) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io)
+[Windows 11 UI](https://chrishtu.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/chrishtu/windows11)
 
 ## Archived
 
