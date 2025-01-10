@@ -259,6 +259,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any username and password |
 [Gersigno's Portfolio](https://gersigno.github.io) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io)
 [Windows 11 UI](https://chrishtu.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/chrishtu/windows11)
+[AvdanOS](https://avdan-os.github.io/Demo/) | [![open](assets/open.png) available](https://github.com/Avdan-OS/Demo)
+[Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io)
+[kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os)
 
 ## Archived
 
