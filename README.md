@@ -262,6 +262,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [AvdanOS](https://avdan-os.github.io/Demo/) | [![open](assets/open.png) available](https://github.com/Avdan-OS/Demo)
 [Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io)
 [kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os)
+[RaptorOS](https://raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS)
 
 ## Archived
 
