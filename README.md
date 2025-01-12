@@ -100,7 +100,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Team3D](https://team3d.io) | ![locked](assets/locked.png) private |
 [Day Job](https://dayjob.work) | ![locked](assets/locked.png) private |
 [PUBLIC DOMAIN](https://public---domain.com) | ![locked](assets/locked.png) private |
-[WE=LINK](http://we-link.chronusartcenter.org) | ![locked](assets/locked.png) private |
 [Thoughts On Glitch[Art]v2.0](http://nickbriz.com/thoughtsonglitchart) | [![open](assets/open.png) available](https://github.com/nbriz/thoughtsonglitchart) |
 [Big Desk Energy](https://www.bigdeskenergy.com) | ![locked](assets/locked.png) private |
 [Github95](https://github95.now.sh) | [![open](assets/open.png) available](https://github.com/edwardpayton/github95) |
