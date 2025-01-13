@@ -242,7 +242,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
 [Renkbench](http://www.renkbench.de) | [![open](assets/open.png) available](https://github.com/renkman/Renkbench) |
 [KodeKeras](https://kodekeras.my.id) | ![locked](assets/locked.png) private |
-[Ripen OS](https://ripenos.github.io/Ripenos/) | [![open](assets/open.png) available](https://github.com/ripenos/ripenos.github.io) |
+[Ripen OS](https://ripenos.web.app/Ripenos/) | [![open](assets/open.png) available](https://github.com/ripenos/ripenos.github.io) |
 [Windows11](https://winbows11.vercel.app) | [![open](assets/open.png) available](https://github.com/Siyu1017/winbows11) |
 [Webdows](https://webdows.belowaverage.org) | [![open](assets/open.png) available](https://github.com/belowaverage-org/webdows) |
 [NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br> priority order in the BIOS<br> to run this web desktop :) |
