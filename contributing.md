@@ -33,7 +33,7 @@ If you have any **additional information** relevant to booting your web desktop,
 
 or
 
-[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private | only works in Chrome
+[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) available](https://REPOSITORY_URL) | only works in Chrome
 ```
 
 Thank you for contributing!
