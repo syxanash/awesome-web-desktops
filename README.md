@@ -25,7 +25,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 ## Websites
 
 | Site name | Source code | User notes |
-| --- | --- | --- |
+|---|---|---|
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) private |
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
@@ -262,6 +262,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io)
 [kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os)
 [RaptorOS](https://raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS)
+[mojsx](https://mojsx.vercel.app) | [![open](assets/open.png) available](https://github.com/mo-jsx/resume-95)
 
 ## Archived
 
