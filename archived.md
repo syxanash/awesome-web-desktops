@@ -49,3 +49,4 @@ jackk.im |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
 [WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
+[Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |

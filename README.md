@@ -159,7 +159,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Mastodon Flock](https://mastodon-flock.vercel.app/desktop) | [![open](assets/open.png) available](https://github.com/WesSouza/mastodon-flock) |
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](assets/open.png) available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 [Win11 Svelte](https://win11-svelte.vercel.app) | [![open](assets/open.png) available](https://github.com/yashash-pugalia/win11-svelte) |
-[Sergio Diaz Schiaffino](https://www.sergiodiazschiaffino.com) | ![locked](assets/locked.png) private |
 [chloédigital](https://chloedigital.com) | ![locked](assets/locked.png) private |
 [The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](assets/locked.png) private |
 [Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](assets/open.png) available](https://github.com/malisipi/ubuntu-tour) |
