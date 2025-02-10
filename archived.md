@@ -50,4 +50,3 @@ jackk.im |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
 [WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
-[DeskPortal](https://web.archive.org/web/20250101093259/https://demo.deskportal.com/) |

@@ -169,6 +169,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
 [Joy Yiu](https://www.joyyiu.com) | ![locked](assets/locked.png) private |
+[DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) private |
 [Buddy Pond](https://buddypond.com) | [![open](assets/open.png) available](https://github.com/marak/buddypond) |
 [thatDaria](https://thatdaria.com) | ![locked](assets/locked.png) private |
