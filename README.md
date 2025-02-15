@@ -266,6 +266,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos)
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
+[Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
+
 
 ## Archived
 
