@@ -191,7 +191,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [BénOS](https://benlacroix.com) | ![locked](assets/locked.png) private |
 [Pluto](https://pluto-app.zeon.dev) | [![open](assets/open.png) available](https://github.com/zeondev/pluto) |
 [webKDE](https://baroxyton.github.io/webKDE/) | [![open](assets/open.png) available](https://github.com/baroxyton/webKDE) |
-[Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) private |
 [.solutionsOS](https://gleb.solutions) | ![locked](assets/locked.png) private |
 [Digital New Era](https://newerawebsites.com) | ![locked](assets/locked.png) private |
 [C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) private |
