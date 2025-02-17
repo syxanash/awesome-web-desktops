@@ -267,6 +267,11 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
 [WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
+[Wannabe XP](https://xp.xobyte.org) | ![locked](assets/locked.png) private | You can log in with any password |
+[NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
+[waste≠land](https://www.laurusedelbacher.com) | ![locked](assets/locked.png) private |
+[kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
+[Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
 
 ## Archived
 
