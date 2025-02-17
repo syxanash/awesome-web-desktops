@@ -255,15 +255,15 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any<br>username and password |
-[Gersigno's Portfolio](https://gersigno.github.io) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io)
-[Windows 11 UI](https://chrishtu.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/chrishtu/windows11)
-[AvdanOS](https://avdan-os.github.io/Demo/) | [![open](assets/open.png) available](https://github.com/Avdan-OS/Demo)
-[Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io)
-[kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os)
-[RaptorOS](https://raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS)
-[mojsx](https://mojsx.vercel.app) | [![open](assets/open.png) available](https://github.com/mo-jsx/resume-95)
+[Gersigno's Portfolio](https://gersigno.github.io) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io) |
+[Windows 11 UI](https://chrishtu.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/chrishtu/windows11) |
+[AvdanOS](https://avdan-os.github.io/Demo/) | [![open](assets/open.png) available](https://github.com/Avdan-OS/Demo) |
+[Plexos](https://plexos.app) | [![open](assets/open.png) available](https://github.com/Pentacoro/pentacoro.github.io) |
+[kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os) |
+[RaptorOS](https://raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS) |
+[mojsx](https://mojsx.vercel.app) | [![open](assets/open.png) available](https://github.com/mo-jsx/resume-95) |
 [OpenRhapsody](https://triiode.neocities.org) | ![locked](assets/locked.png) private |
-[AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos)
+[AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos) |
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
 [WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
@@ -272,6 +272,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Laurus Edelbacher](https://www.laurusedelbacher.com) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
+[ryOS](https://os.ryo.lu) [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
 
 ## Archived
 
