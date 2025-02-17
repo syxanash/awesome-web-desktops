@@ -26,6 +26,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 | Site name | Source code | User notes |
 |---|---|---|
+[WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) private |
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
