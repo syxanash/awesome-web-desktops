@@ -26,7 +26,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 | Site name | Source code | User notes |
 |---|---|---|
-[WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | ![locked](assets/locked.png) private |
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
@@ -267,6 +266,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos)
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
+[WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 
 ## Archived
 
