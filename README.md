@@ -272,6 +272,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
 [ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
+[Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
 
 ## Archived
 
