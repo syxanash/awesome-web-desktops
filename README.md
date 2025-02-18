@@ -265,6 +265,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos) |
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
+[Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
 [WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 [Wannabe XP](https://xp.xobyte.org) | ![locked](assets/locked.png) private | You can log in with any password |
 [NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
@@ -272,7 +273,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
 [ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
-[Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
 
 ## Archived
 
