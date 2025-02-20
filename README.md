@@ -265,7 +265,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
 [Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
 [WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
-[Wannabe XP](https://xp.xobyte.org) | [![open](assets/open.png) available](hhttps://xp.xobyte.org/download.zip) | You can log in with any password |
+[Wannabe XP](https://xp.xobyte.org) | [![open](assets/open.png) available](https://xp.xobyte.org/download.zip) | You can log in with any password |
 [NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
 [Laurus Edelbacher](https://www.laurusedelbacher.com) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
