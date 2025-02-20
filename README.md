@@ -230,7 +230,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Systems 01](https://systems01.com) | ![locked](assets/locked.png) private |
 [Nic Chan](https://www.nicchan.me) | ![locked](assets/locked.png) private |
 [Windows 95 Portfolio](https://yuteoctober.github.io/wins95Portfolio/) | [![open](assets/open.png) available](https://github.com/Yuteoctober/wins95Portfolio/) |
-[An Ordinary Portfolio Page of Derya](https://deryasdesktop.com) | ![locked](assets/locked.png) private |
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) private |
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 [Sarah's Portfolio](https://s4rah.dev) | ![locked](assets/locked.png) private |
@@ -250,7 +249,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
 [Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
 [OS A24 - Y2K Movie](https://www.y2k.movie) | ![locked](assets/locked.png) private |
-[János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) |
+[János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) | this site occasionally goes offline |
 [public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any<br>username and password |
