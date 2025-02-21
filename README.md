@@ -124,7 +124,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) private |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) private |
 [Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
-[LUMISET](https://lumiset.se) | ![locked](assets/locked.png) private |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) private |
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
 [Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
@@ -155,7 +154,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](assets/open.png) available](https://github.com/chrisbinsunny/chrishub) |
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](assets/locked.png) private |
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](assets/locked.png) private |
-[Mastodon Flock](https://mastodon-flock.vercel.app/desktop) | [![open](assets/open.png) available](https://github.com/WesSouza/mastodon-flock) |
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](assets/open.png) available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 [Win11 Svelte](https://win11-svelte.vercel.app) | [![open](assets/open.png) available](https://github.com/yashash-pugalia/win11-svelte) |
 [chloédigital](https://chloedigital.com) | ![locked](assets/locked.png) private |

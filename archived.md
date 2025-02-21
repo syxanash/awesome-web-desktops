@@ -52,3 +52,4 @@ jackk.im |
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [Classicy](https://github.com/robbiebyrd/classicy) |
+[Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
