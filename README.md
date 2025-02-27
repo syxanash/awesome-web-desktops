@@ -268,6 +268,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
 [ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
+[CloudyDesk](https://cloudydesk.de/desktop-component) | [![open](assets/open.png) available](https://github.com/meugenom/cloudydesk) |
+[Ugly Duckling](https://cyanbanister.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
