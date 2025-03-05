@@ -1,6 +1,6 @@
 # Awesome Web Desktops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="assets/logo.png" align="right" width="150">](https://simone.computer/#/webdesktops)
+[<img src="assets/logo.png" align="right" width="120">](https://simone.computer/#/webdesktops)
 
 The web's biggest curated directory of apps, portfolios and experiments that mimic the appearance and functionality of desktop operating systems, these are commonly known as [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
