@@ -5,7 +5,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 
 | Site name |
 |---|
-[Maxime Elkael - portfolio](https://web.archive.org/web/20220113152250/https://elkael.com/) |
 [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
 [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |

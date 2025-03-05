@@ -74,6 +74,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [erdOS](https://erd-os.iamerd.xyz) | ![locked](assets/locked.png) private |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](assets/locked.png) private |
 [glenda.party](https://glenda.0x46.net) | ![locked](assets/locked.png) private |
+[Maxime Elkael](https://melkael.github.io) | [![open](assets/open.png) available](https://github.com/melkael/melkael.github.io) |
 [VirusvAV](https://os.virusav.com) | ![locked](assets/locked.png) private |
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) private |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) private |
