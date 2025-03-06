@@ -63,12 +63,3 @@ body:
       placeholder: E.g. only works in chrome / user root, password toor
     validations:
       required: false
-
-  - type: textarea
-    id: additional-notes
-    attributes:
-      label: Additional notes
-      description: Add any other relevant context.
-      placeholder: My site is awesome.
-    validations:
-      required: false

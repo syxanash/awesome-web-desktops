@@ -9,8 +9,4 @@
 * New categories, or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
 
-## Adding a new website to the list
-
-[Open a new issue](https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml)
-
-Thank you for contributing!
+![tick](https://win98icons.alexmeub.com/icons/png/trust0-1.png) [I'M READY TO SUBMIT MY PROJECT!](https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml)
