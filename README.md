@@ -115,7 +115,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Xiaohan Zou's Portfolio](https://portfolio.zxh.me) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
 [macOS in Svelte](https://macos-web.app) | [![open](assets/open.png) available](https://github.com/puruvj/macos-web) |
 [Deepin Linux](https://goodmanwen.github.io) | [![open](assets/open.png) available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
-[Win7](https://khang-nd.github.io/win7) | [![open](assets/open.png) available](https://github.com/khang-nd/windows7) |
+[Win 7](https://khang-nd.github.io/win7) | [![open](assets/open.png) available](https://github.com/khang-nd/win7) |
 [Heather Vandervecht](https://heathervv.com) | [![open](assets/open.png) available](https://github.com/heathervv/portfolio-chatbot) |
 [Tony Dinh](https://dinhquangtrung.net/windows7/) | [![open](assets/open.png) available](https://github.com/trungdq88/dinhquangtrung.net) |
 [Fizzygum](http://fizzygum.org/sandboxes/latest-stable/) | [![open](assets/open.png) available](https://github.com/davidedc/Fizzygum) |
@@ -123,19 +123,19 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) private |
 [AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) private |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) private |
-[Don chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/dhs17y2adonchia/win95) |
+[Don Chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/DonChiaQE/win95) |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) private |
-[9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/robbiebyrd/rt911) |
+[9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/Keeping-History/rt911) |
 [Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://www.noam-rubin.com) | ![locked](assets/locked.png) private |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
-[KANYE 2049](https://kanye2049.com) | ![locked](assets/locked.png) private | password: `Graduation` |
+[KANYE 2049](https://kanye2049.com) | ![locked](assets/locked.png) private | Password: `Graduation` |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
-[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br> clear cookies and site data |
+[Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br>clear cookies and site data |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) private |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
@@ -179,7 +179,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Pretty Diff](https://prettydiff.com) | [![open](assets/open.png) available](https://github.com/prettydiff/share-file-systems) |
 [Slashdiv OS](https://slashdiv.neocities.org) | ![locked](assets/locked.png) private |
 [MacOS Big Sur Clone](https://macos-big-sur-clone.vercel.app) | [![open](assets/open.png) available](https://github.com/mirayatech/macos-big-sur-clone) |
-[NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido/) |
+[NENRIKIDO](https://nenrikido.neocities.org) | [![open](assets/open.png) available](https://github.com/js044/nenrikido) |
 [holidayOS \| tonik](https://holidayos-tonik-showcase.webflow.io) | ![locked](assets/locked.png) private |
 [Rimet Desktop](http://geocities.ws/nooz/rimet/) | ![locked](assets/locked.png) private |
 [exaequOS](https://www.exaequos.com/start.php) | [![open](assets/open.png) available](https://github.com/baudaux/exa-kernel) |
@@ -211,7 +211,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Joey de Ruiter](https://joeyderuiter.me) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
 [Grovy Website](https://grovy.space) | ![locked](assets/locked.png) private |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
-[hat.fo](https://ud2-sh-next-aaa25mk3e-hatf0-s-team.vercel.app) | [![open](assets/open.png) available](https://github.com/ellie-idb/ellie.fm-next) |
+[hat.fo](https://ud2-sh-next-aaa25mk3e-hatf0-s-team.vercel.app) | ![locked](assets/locked.png) private |
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
 [Kasius Next](https://bobuxstation.github.io/Kasius-Next/) | [![open](assets/open.png) available](https://github.com/Bobuxstation/Kasius-Next) |
 [Nestor Siré](https://nestorsire.com) | ![locked](assets/locked.png) private |
@@ -239,7 +239,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ripen OS](https://ripenos.web.app/Ripenos/) | [![open](assets/open.png) available](https://github.com/ripenos/ripenos.github.io) |
 [Windows11](https://winbows11.vercel.app) | [![open](assets/open.png) available](https://github.com/Siyu1017/winbows11) |
 [Webdows](https://webdows.belowaverage.org) | [![open](assets/open.png) available](https://github.com/belowaverage-org/webdows) |
-[NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br> priority order in the BIOS<br> to run this web desktop :) |
+[NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br>priority order in the BIOS<br>to run this web desktop :) |
 [MainOS](https://maingron.itch.io/mainos) | [![open](assets/open.png) available](https://github.com/Maingron/MainOS) |
 [Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) |
 [AnuraOS](https://anura.pro) | [![open](assets/open.png) available](https://github.com/MercuryWorkshop/anuraOS) |
