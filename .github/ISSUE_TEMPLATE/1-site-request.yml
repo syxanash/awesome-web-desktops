@@ -28,11 +28,11 @@ body:
   - type: input
     id: project-source
     attributes:
-      label: Site URL
+      label: Source URL
       placeholder: 
       description: Enter the url pointing to the source code of your project.
     validations:
-      required: true
+      required: false
 
   - type: dropdown
     id: os-style
