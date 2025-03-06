@@ -11,29 +11,6 @@
 
 ## Adding a new website to the list
 
-In order to add a new site to the list you can simply add a new row to the main table in `README.md`.
-The **first column** contains name and link to the website, the **second column** instead will specify if the site/project source code is available. There are no restrictions on the license on which the source code is released as long as it's been published somewhere.
-
-A **full row** would look like this:
-
-```
-[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) available](https://REPOSITORY_URL) |
-```
-
-whereas if the source code is **not** available:
-
-```
-[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private |
-```
-
-If you have any **additional information** relevant to booting your web desktop, such as login credentials or specific browser requirements, please add them to the third column 'User notes'. This column should not be used as a description of your project, but rather to have extra info on running the web app.
-
-```
-[WEBSITE_NAME](https://WEBSITE_URL) | ![locked](assets/locked.png) private | login: admin / password
-
-or
-
-[WEBSITE_NAME](https://WEBSITE_URL) | [![open](assets/open.png) available](https://REPOSITORY_URL) | only works in Chrome
-```
+[Open a new issue](https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml)
 
 Thank you for contributing!
