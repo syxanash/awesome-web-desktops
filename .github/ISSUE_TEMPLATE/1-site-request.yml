@@ -1,0 +1,74 @@
+name: "🖇️ Add Site"
+description: "Add a new site to the Web Desktops list."
+title: "[Site Request]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure to [contribution guidelines](https://github.com/syxanash/awesome-web-desktops/blob/main/contributing.md) before submitting the request. If the content of this request is contradicts the guidelines, it will be closed.
+
+  - type: input
+    id: site-name
+    attributes:
+      label: Site name
+      placeholder: Your site name / OS Name
+      description: Enter your readable site name or your web desktop OS name as it will be displayed in the list.
+    validations:
+      required: true
+
+  - type: input
+    id: site-url
+    attributes:
+      label: Site URL
+      placeholder: 
+      description: Enter your site URL.
+    validations:
+      required: true
+
+  - type: input
+    id: project-source
+    attributes:
+      label: Site URL
+      placeholder: 
+      description: Enter the url pointing to the source code of your project.
+    validations:
+      required: true
+
+  - type: textarea
+    id: user-notes
+    attributes:
+      label: User notes
+      description: Add any other relevant information for the user to access your web desktop.
+      placeholder: E.g. only works in chrome / user root, password toor
+    validations:
+      required: false
+
+  - type: dropdown
+    id: os-style
+    attributes:
+      label: OS Style
+      description: Which OS interface did you take as an inspiration for your web desktop?
+      options:
+        - Windows 9x
+        - Windows XP/Vista/7/10
+        - Windows 11
+        - Classic Mac OS
+        - macOS (10+)
+        - GNU/Linux
+        - UNIX/Solaris
+        - Amiga
+        - Atari ST
+        - NeXTSTEP
+        - IBM (OS/2)
+        - Nothing I make my own rules!
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional notes
+      description: Add any other relevant context.
+      placeholder: My site is awesome.
+    validations:
+      required: false
