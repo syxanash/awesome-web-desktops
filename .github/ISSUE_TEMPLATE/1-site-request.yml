@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please make sure to [contribution guidelines](https://github.com/syxanash/awesome-web-desktops/blob/main/contributing.md) before submitting the request. If the content of this request is contradicts the guidelines, it will be closed.
+        Please make sure to [contribution guidelines](https://github.com/syxanash/awesome-web-desktops/blob/main/contributing.md) before submitting the request. If the content of this request contradicts the guidelines, it will be closed.
 
   - type: input
     id: site-name
@@ -34,15 +34,6 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: user-notes
-    attributes:
-      label: User notes
-      description: Add any other relevant information for the user to access your web desktop.
-      placeholder: E.g. only works in chrome / user root, password toor
-    validations:
-      required: false
-
   - type: dropdown
     id: os-style
     attributes:
@@ -63,6 +54,15 @@ body:
         - Nothing I make my own rules!
     validations:
       required: true
+
+  - type: textarea
+    id: user-notes
+    attributes:
+      label: User notes
+      description: Add any other relevant information for the user to access your web desktop.
+      placeholder: E.g. only works in chrome / user root, password toor
+    validations:
+      required: false
 
   - type: textarea
     id: additional-notes
