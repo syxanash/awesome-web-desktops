@@ -267,10 +267,14 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
 [Laurus Edelbacher](https://www.laurusedelbacher.com/#/desktop) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
-[Sacred OS](https://sacred.neocities.org) | ![locked](assets/locked.png) private |
+[Sacred OS](https://sacred.neocities.org) | [![open](assets/open.png) available](https://github.com/M-Valentino/sacredOS) |
 [ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
 [CloudyDesk](https://cloudydesk.de/desktop-component) | [![open](assets/open.png) available](https://github.com/meugenom/cloudydesk) |
 [Ugly Duckling](https://cyanbanister.com) | ![locked](assets/locked.png) private |
+[1-bit rainbow](https://www.1bitrainbow.co.uk) | ![locked](assets/locked.png) private |
+[Gaiabots](https://gaiabots.neocities.org) | ![locked](assets/locked.png) private |
+[Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
+[StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 
 ## Archived
 
