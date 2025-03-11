@@ -50,6 +50,5 @@ jackk.im |
 [WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
-[Classicy](https://github.com/robbiebyrd/classicy) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
 [WorldWideWeb](https://web.archive.org/web/20240307210913/https://worldwideweb.cern.ch/browser/) or [source](https://worldwideweb.cern.ch/code/)|
