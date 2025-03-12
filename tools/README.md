@@ -7,4 +7,4 @@ This repo contains various tools to manage links and monitor content changes in 
 
 ### License
 
-See `README.md`
+See `LICENSE.txt`
