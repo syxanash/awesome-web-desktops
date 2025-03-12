@@ -9,4 +9,4 @@
 
 Please use the **following link** instead of editing the README via pull request, as the README is automatically generated using a script.
 
-![tick](https://win98icons.alexmeub.com/icons/png/trust0-1.png) [I'M READY TO SUBMIT MY PROJECT!](https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml)
+![tick](assets/tick.png) [I'M READY TO SUBMIT MY PROJECT!](https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml)

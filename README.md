@@ -4,9 +4,9 @@
 
 The web's biggest curated directory of apps, portfolios and experiments that mimic the appearance and functionality of desktop operating systems, these are commonly known as [Web Desktops](https://en.wikipedia.org/wiki/Web_desktop).
 
-![info](assets/info.png) The links are [actively monitored](https://github.com/syxanash/awesome-web-desktops/blob/main/tools/links_monitor.rb) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see the [![guide](https://win98icons.alexmeub.com/icons/png/help_book_small-5.png) contribution guide](contributing.md).<br>
+![info](assets/info.png) The links are [actively monitored](https://github.com/syxanash/awesome-web-desktops/blob/main/tools/links_monitor.rb) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see the [![guide](assets/book.png) contribution guide](contributing.md).<br>
 
-![blog](https://win98icons.alexmeub.com/icons/png/write_wordpad-0.png) Read my [blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
+![blog](assets/notebook.png) Read my [blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
 
 
 <details>
