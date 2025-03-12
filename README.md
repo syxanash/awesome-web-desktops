@@ -277,6 +277,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
+[LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
 
 ## Archived
 
