@@ -1,0 +1,49 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    RubyInline (3.14.0)
+      ZenTest (~> 4.3)
+    ZenTest (4.12.1)
+    colorize (1.1.0)
+    domain_name (0.5.20190701)
+      unf (>= 0.0.5, < 1.0.0)
+    fuzzy-string-match (1.0.1)
+      RubyInline (>= 3.8.6)
+    http-accept (1.7.0)
+    http-cookie (1.0.5)
+      domain_name (~> 0.5)
+    mime-types (3.5.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2023.0808)
+    netrc (0.11.0)
+    rest-client (2.1.0)
+      http-accept (>= 1.7.0, < 2.0)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 4.0)
+      netrc (~> 0.8)
+    rexml (3.2.6)
+    rubyzip (2.3.2)
+    selenium-webdriver (4.11.0)
+      rexml (~> 3.2, >= 3.2.5)
+      rubyzip (>= 1.2.2, < 3.0)
+      websocket (~> 1.0)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.8.2)
+    websocket (1.2.9)
+
+PLATFORMS
+  arm64-darwin-22
+  arm64-darwin-23
+
+DEPENDENCIES
+  colorize
+  fuzzy-string-match
+  rest-client
+  selenium-webdriver
+
+RUBY VERSION
+   ruby 3.3.0p0
+
+BUNDLED WITH
+   2.4.19
