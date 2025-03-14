@@ -5,7 +5,7 @@ require 'json'
 require 'rest-client'
 
 def escape_markdown(text)
-  text.gsub(/([\\\|])/, '\\\\\1').gsub("\n", '<br>')
+  text.gsub(/([\\|])/, '\\\\\1').gsub("\n", '<br>')
 end
 
 websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/development/src/resources/remote-desktops.json'))
@@ -20,15 +20,13 @@ websites_object.each do |website|
   escaped_website_name = escape_markdown(website['name'])
   links_table += "[#{escaped_website_name}](#{website['url']}) |"
 
-  if website['source'].empty?
-    links_table += ' ![locked](assets/locked.png) private |'
-  else
-    links_table += " [![open](assets/open.png) available](#{website['source']}) |"
-  end
+  links_table += if website['source'].empty?
+                   ' ![locked](assets/locked.png) private |'
+                 else
+                   " [![open](assets/open.png) available](#{website['source']}) |"
+                 end
 
-  unless website['notes'].empty?
-    links_table += " #{escape_markdown(website['notes'])} |"
-  end
+  links_table += " #{escape_markdown(website['notes'])} |" unless website['notes'].empty?
 
   links_table += "\n"
 end

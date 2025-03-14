@@ -13,12 +13,12 @@ def sanitize_filename(filename)
   # character, and is followed by some character other than a period,
   # if there is no following period that is followed by something
   # other than a period (yeah, confusing, I know)
-  fn = filename.split /(?<=.)\.(?=[^.])(?!.*\.[^.])/m
+  fn = filename.split(/(?<=.)\.(?=[^.])(?!.*\.[^.])/m)
 
   # We now have one or two parts (depending on whether we could find
   # a suitable period). For each of these parts, replace any unwanted
   # sequence of characters with an underscore
-  fn.map! { |s| s.gsub /[^a-z0-9\-]+/i, '_' }
+  fn.map! { |s| s.gsub(/[^a-z0-9-]+/i, '_') }
 
   # Finally, join the parts with a period and return the result
   fn.join '.'
@@ -28,33 +28,33 @@ def create_report(links, ignored)
   date_time = Time.new
   html_report = File.new('report.html', 'w+')
 
-  html_report.write <<HTML_REPORT
-<html>
-  <head>
-    <title>Web Desktops Watcher Report</title>
-  </head>
-  <body>
-    <div>
-      <h1>Report #{date_time.strftime('%Y-%m-%d %H:%M')}</h1>
-      <p>Manually check the following links:</p>
-#{links.map {|link| "<a href='#{link}' target='_blank'>#{link}</a>" }.join("<br>")}
-      <br>
-      <p>Ignored links:</p>
-#{ignored.map {|link| "<a href='#{link}' target='_blank'>#{link}</a>" }.join("<br>")}
-    </div>
-    <br>
-    <button onClick='openAll()'>Open all</button>
-    <script>
-      function openAll() {
-        var links = document.links;
-        for (var i = 0; i < links.length; i++) {
-            window.open(links[i], '_blank')
-        }
-      }
-    </script>
-  </body>
-</html>
-HTML_REPORT
+  html_report.write <<~HTML_REPORT
+    <html>
+      <head>
+        <title>Web Desktops Watcher Report</title>
+      </head>
+      <body>
+        <div>
+          <h1>Report #{date_time.strftime('%Y-%m-%d %H:%M')}</h1>
+          <p>Manually check the following links:</p>
+    #{links.map { |link| "<a href='#{link}' target='_blank'>#{link}</a>" }.join('<br>')}
+          <br>
+          <p>Ignored links:</p>
+    #{ignored.map { |link| "<a href='#{link}' target='_blank'>#{link}</a>" }.join('<br>')}
+        </div>
+        <br>
+        <button onClick='openAll()'>Open all</button>
+        <script>
+          function openAll() {
+            var links = document.links;
+            for (var i = 0; i < links.length; i++) {
+                window.open(links[i], '_blank')
+            }
+          }
+        </script>
+      </body>
+    </html>
+  HTML_REPORT
 
   html_report.close
 end
@@ -84,6 +84,7 @@ websites_object.each_with_index do |website_obj, index|
 
     options = Selenium::WebDriver::Chrome::Options.new
     options.add_argument('--headless')
+    options.add_argument('--ignore-certificate-errors')
 
     # options = Selenium::WebDriver::Firefox::Options.new(args: ['-headless'])
 
@@ -119,10 +120,10 @@ websites_object.each_with_index do |website_obj, index|
       end
     end
     puts 'Done.'
-  rescue StandardError => error
+  rescue StandardError => e
     puts ''
     puts "[!] Can't connect to: #{website_obj['url']}".red
-    puts error.to_s.red
+    puts e.to_s.red
 
     links_to_inspect.push(website_obj['url'])
   end

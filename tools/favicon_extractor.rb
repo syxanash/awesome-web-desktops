@@ -20,12 +20,12 @@ driver = Selenium::WebDriver.for :chrome, options: options
 # Function to check if a URL returns a valid response (not 404)
 def valid_url?(url)
   return false if url.nil? || url.strip.empty?
-  
+
   begin
     response = RestClient.head(url)
-    return response.code == 200
+    response.code == 200
   rescue RestClient::NotFound, RestClient::Exception
-    return false
+    false
   end
 end
 
@@ -108,9 +108,9 @@ not_found_favicons = []
 websites_object.each do |website|
   begin
     parsed_icon = get_favicons(driver, website['url'])
-  rescue StandardError => error
+  rescue StandardError => e
     puts "[!] Can't connect to: #{website['url']}"
-    puts error
+    puts e
     parsed_icon = nil
   end
 
