@@ -1,0 +1,17 @@
+name: Auto Close PR
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  close-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Pull
+        uses: peter-evans/close-pull@v3
+        with:
+          pull-request-number: 1
+          comment: "Hi, thanks for your PR! Please use the following link instead of editing the README via pull request, as the README is automatically generated using a script: https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml"
+          delete-branch: true
