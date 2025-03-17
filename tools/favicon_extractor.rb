@@ -102,7 +102,7 @@ def get_manifest_icon(driver, url)
   nil
 end
 
-# Extract favicons
+# Extract faviconssss
 not_found_favicons = []
 
 websites_object.each do |website|
