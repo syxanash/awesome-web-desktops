@@ -278,6 +278,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
+[U2RE OS](https://os.u2re.space/) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) |
 
 ## Archived
 
