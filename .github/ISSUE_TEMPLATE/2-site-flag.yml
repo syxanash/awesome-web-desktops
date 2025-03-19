@@ -1,0 +1,22 @@
+name: "Flag site"
+description: "Flag a website on the list which is no longer available, changed design or is broken"
+title: "[Flag Site]: "
+assignees: [syxanash]
+body:
+  - type: input
+    id: site-url
+    attributes:
+      label: Site URL
+      placeholder:
+      description: Enter the site URL to flag
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Issues description
+      placeholder: URL returns 404 / website is no longer has a web desktop design / website is broken
+    validations:
+      required: true
