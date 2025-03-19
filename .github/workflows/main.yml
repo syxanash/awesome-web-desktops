@@ -1,0 +1,15 @@
+on: pull_request
+
+jobs:
+  example_comment_pr:
+    runs-on: ubuntu-latest
+    name: Comment on a PR
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v3
+        with:
+          message: |
+            Hi! If you opened this PR to add a new website to the list, please use this link instead: https://github.com/syxanash/awesome-web-desktops/issues/new?&template=1-site-request.yml Thank you for contributing! 🙏
