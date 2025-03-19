@@ -1,6 +1,7 @@
 name: "🖇️ Add Site"
 description: "Add a new site to the Web Desktops list."
 title: "[Site Request]: "
+assignees: [syxanash]
 body:
   - type: markdown
     attributes:
