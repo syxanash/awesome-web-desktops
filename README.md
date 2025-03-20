@@ -279,7 +279,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
-[U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) | Works only in Chromium based browsers |
+[U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 
 ## Archived
