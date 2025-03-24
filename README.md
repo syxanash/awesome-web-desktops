@@ -281,6 +281,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
 [U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
+[Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
+[Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 
 ## Archived
 
