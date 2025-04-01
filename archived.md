@@ -52,4 +52,3 @@ jackk.im |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
 [WorldWideWeb](https://web.archive.org/web/20240307210913/https://worldwideweb.cern.ch/browser/) or [source](https://worldwideweb.cern.ch/code/) |
-[Core-OS](https://web.archive.org/web/20250304105030/https://coreos.io/) or [source](https://github.com/timhow38/Resume-WebApplication) |

@@ -126,6 +126,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Don Chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/DonChiaQE/win95) |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) private |
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/Keeping-History/rt911) |
+[Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Noam Rubin](https://www.noam-rubin.com) | ![locked](assets/locked.png) private |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
