@@ -266,7 +266,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 [Wannabe XP](https://xp.xobyte.org) | [![open](assets/open.png) available](https://xp.xobyte.org/download.zip) | You can log in with any password |
 [NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
-[Laurus Edelbacher](https://www.laurusedelbacher.com/#/desktop) | ![locked](assets/locked.png) private |
+[Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | [![open](assets/open.png) available](https://github.com/M-Valentino/sacredOS) |
 [ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
@@ -283,6 +283,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
+[Linux on the Web](https://linuxontheweb.github.io) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 
 ## Archived
 
