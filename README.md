@@ -157,7 +157,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Jazmin Jones](https://www.jazminjones.com) | ![locked](assets/locked.png) private |
 [Ɀeus' Stadt](https://zeusofthecrows.neocities.org) | [![open](assets/open.png) available](https://github.com/ZeusOfTheCrows/zeusofthecrows.github.io) |
 [Win11 Svelte](https://win11-svelte.vercel.app) | [![open](assets/open.png) available](https://github.com/yashash-pugalia/win11-svelte) |
-[chloédigital](https://chloedigital.com) | ![locked](assets/locked.png) private |
 [The Secret History of Mac Gaming](https://secrethistoryofmacgaming.com) | ![locked](assets/locked.png) private |
 [Ubuntu Tour](https://malisipi.github.io/ubuntu-tour) | [![open](assets/open.png) available](https://github.com/malisipi/ubuntu-tour) |
 [sue roh](https://sueroh.com) | ![locked](assets/locked.png) private |
@@ -284,6 +283,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 [Linux on the Web](https://linuxontheweb.github.io) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
+[Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 
 ## Archived
 
