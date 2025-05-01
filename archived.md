@@ -53,3 +53,4 @@ jackk.im |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
 [WorldWideWeb](https://web.archive.org/web/20240307210913/https://worldwideweb.cern.ch/browser/) or [source](https://worldwideweb.cern.ch/code/) |
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
+[Noam Rubin](https://web.archive.org/web/20250315041558/https://www.noam-rubin.com/) |
