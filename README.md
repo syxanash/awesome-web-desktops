@@ -6,7 +6,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ![info](assets/info.png) The links are [actively monitored](https://github.com/syxanash/awesome-web-desktops/blob/main/tools/links_monitor.rb) but if you notice a dead link or would like to contribute with your own creation you're more than welcome to do so, see the [![guide](assets/book.png) contribution guide](contributing.md).<br>
 
-![blog](assets/notebook.png) Read my [blog post](https://system31.simone.computer/blog/desktops-zip) about this project!
+![blog](assets/notebook.png) Read my [blog post](https://blog.simone.computer/desktops-zip) about this project!
 
 
 <details>
