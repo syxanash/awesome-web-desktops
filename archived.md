@@ -35,7 +35,6 @@ jackk.im |
 [SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
-[Joeyonng's Backyard](https://github.com/Joeyonng/joeyonng-backyard) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
