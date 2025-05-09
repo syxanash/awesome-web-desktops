@@ -282,6 +282,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 [Linux on the Web](https://linuxontheweb.github.io) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
+[H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
+[Timewatcher OS](https://timewatcher.neocities.org) | ![locked](assets/locked.png) private |
+[Fusa OS](https://fusa-os.glitch.me) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
 
 ## Archived
 
