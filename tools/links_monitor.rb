@@ -65,7 +65,9 @@ links_to_inspect = []
 jarow = FuzzyStringMatch::JaroWinkler.create(:native)
 archive_directory = File.expand_path('~/.cache/wd-archive')
 
-websites_object.each_with_index do |website_obj, index|
+active_websites = websites_object.select { |website| website['archive'].empty? }
+
+active_websites.each_with_index do |website_obj, index|
   directory_name = "#{archive_directory}/#{sanitize_filename(website_obj['name'])}"
 
   first_scan = false
@@ -79,7 +81,7 @@ websites_object.each_with_index do |website_obj, index|
   end
 
   begin
-    print "[#{index + 1}/#{websites_object.size}]".yellow
+    print "[#{index + 1}/#{active_websites.size}]".yellow
     print " Scanning #{website_obj['name']}...".blue
 
     options = Selenium::WebDriver::Chrome::Options.new
@@ -132,8 +134,8 @@ end
 Dir.chdir(archive_directory) do
   website_folders = Dir.glob('*')
 
-  if website_folders.size > websites_object.size
-    object_directory_names = websites_object.map { |item| sanitize_filename(item['name']) }
+  if website_folders.size > active_websites.size
+    object_directory_names = active_websites.map { |item| sanitize_filename(item['name']) }
 
     different_folders = website_folders - object_directory_names
 
