@@ -5,53 +5,51 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 
 | Site name |
 |---|
-[Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
-[Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
-[Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
-[Herzeleid (XXV Anniversary Edition – Remastered)](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
-[Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
-[Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
-[Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
-[and gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
-kalilhaddad.com |
-dev.lotw.xyz/desk.os |
+[WorldWideWeb](https://worldwideweb.cern.ch/code/) |
+[Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
+[frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
+[Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
-[SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
-[CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
+[Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
+[Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
+[Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
+[Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
+[Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
+[And Gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
+[Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
+[Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
-[ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) | 
-[AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
-jackk.im |
-[KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
-[linuxWeb](https://github.com/Manthee1/linuxWeb) |
-[Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
-[HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
-[Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
-[Hunter Hodnett XP](https://web.archive.org/web/20221225105658/https://hunterhodnett.dev/#) or [source](https://github.com/hunterchristian/personal-site-v2) |
-[Hugo Doueli \| Portfolio 2022](https://web.archive.org/web/20230103185522/https://hugodoueil.fr/) or [source](https://github.com/Ormidales/portfolio/) |
-[SilveOS.com](https://web.archive.org/web/20230915000000*/https://www.silveos.com) or [source](https://github.com/SilveOS) |
-[RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
-[frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
-[KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
-[Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
-[SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
-[Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
-[FullStacked](https://github.com/fullstackedorg/workspace) |
-[Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
-[DROPS](https://github.com/maxvp/drops) |
-[Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/)
-[Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
-[Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
-[Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
-[WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
-[Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
-[An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
-[Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
-[WorldWideWeb](https://web.archive.org/web/20240307210913/https://worldwideweb.cern.ch/browser/) or [source](https://worldwideweb.cern.ch/code/) |
-[chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
-[Noam Rubin](https://web.archive.org/web/20250315041558/https://www.noam-rubin.com/) |
+[Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
+[CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
+[KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
+[AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
 [HyNET Geocity](https://web.archive.org/web/20250304222626/https://hyena.network/geocity/) |
+[Herzeleid Rammstein](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
+[Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
+[SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
+[WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
+[RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
+[Hunter Hodnett XP](https://github.com/hunterchristian/personal-site-v2) |
+[ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) |
+[Noam Rubin](https://web.archive.org/web/20250315041558/https://www.noam-rubin.com/) |
+[Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
+[Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
+[Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
+[HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
+[Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
+[SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
+[Hugo Doueli \| Portfolio 2022](https://github.com/Ormidales/portfolio/) |
+[Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
+[Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
+[chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
+[KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
+[SilveOS.com](https://github.com/SilveOS) |
+[DROPS](https://github.com/maxvp/drops) |
+[FullStacked](https://github.com/fullstackedorg/workspace) |
+[An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
+[linuxWeb](https://github.com/Manthee1/linuxWeb) |
+[Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [János Kócs \| Portfolio](https://github.com/janoskocs/portfolio) |
