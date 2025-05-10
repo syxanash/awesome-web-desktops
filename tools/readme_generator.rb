@@ -9,8 +9,8 @@ def escape_markdown(text)
 end
 
 websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/development/src/resources/remote-desktops.json'))
-readme_content = RestClient.get('https://raw.githubusercontent.com/syxanash/awesome-web-desktops/refs/heads/main/README.md')
-archived_content = RestClient.get('https://raw.githubusercontent.com/syxanash/awesome-web-desktops/refs/heads/main/archived.md')
+readme_content = File.read('../README.md')
+archived_content = File.read('../archived.md')
 
 archived_header = archived_content.match(/^.*?\|---\|/m)[0]
 
