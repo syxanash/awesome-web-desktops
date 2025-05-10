@@ -8,9 +8,12 @@ def escape_markdown(text)
   text.gsub(/([\\|])/, '\\\\\1').gsub("\n", '<br>')
 end
 
+readme_file_name = '../README.md'
+archived_file_name = '../archived.md'
+
 websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/development/src/resources/remote-desktops.json'))
-readme_content = File.read('../README.md')
-archived_content = File.read('../archived.md')
+readme_content = File.read(readme_file_name)
+archived_content = File.read(archived_file_name)
 
 archived_header = archived_content.match(/^.*?\|---\|/m)[0]
 
@@ -36,7 +39,7 @@ websites_object.select { |website| website['archive'].empty? }.each do |website|
 end
 
 readme_file_content = "#{readme_header}\n#{readme_links_table}\n#{readme_footer}\n"
-File.write('../README.md', readme_file_content)
+File.write(readme_file_name, readme_file_content)
 
 websites_object.reject { |website| website['archive'].empty? }.each do |website|
   escaped_website_name = escape_markdown(website['name'])
@@ -44,4 +47,4 @@ websites_object.reject { |website| website['archive'].empty? }.each do |website|
 end
 
 archived_file_content = "#{archived_header}\n#{archived_links_table}"
-File.write('../archived.md', archived_file_content)
+File.write(archived_file_name, archived_file_content)
