@@ -165,6 +165,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
 [Joy Yiu](https://www.joyyiu.com) | ![locked](assets/locked.png) private |
+[DROPS](https://drops.maxvphillips.com) | [![open](assets/open.png) available](https://github.com/maxvp/drops) |
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) private |
 [Buddy Pond](https://buddypond.com) | [![open](assets/open.png) available](https://github.com/marak/buddypond) |
@@ -285,6 +286,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
 [Timewatcher OS](https://timewatcher.neocities.org) | ![locked](assets/locked.png) private |
 [Fusa OS](https://fusa-os.glitch.me) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
+[Vista Thomas Edition](https://thomasdarkson.com) | ![locked](assets/locked.png) private |
+[MEDICALMALADIES](https://medicalmaladies.neocities.org) | ![locked](assets/locked.png) private |
 
 ## Archived
 
