@@ -290,6 +290,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Vista Thomas Edition](https://thomasdarkson.com) | ![locked](assets/locked.png) private |
 [MEDICALMALADIES](https://medicalmaladies.neocities.org) | ![locked](assets/locked.png) private |
 [BogdanOS](https://os.bgevko.com) | [![open](assets/open.png) available](https://github.com/bgevko/bogdan-os) |
+[Hatim Benhsain](https://hatimbenhsain.github.io) | [![open](assets/open.png) available](https://github.com/hatimbenhsain/hatimbenhsain.github.io) |
 
 ## Archived
 
