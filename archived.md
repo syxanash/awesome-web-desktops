@@ -26,7 +26,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
-[HyNET Geocity](https://web.archive.org/web/20250304222626/https://hyena.network/geocity/) |
 [Herzeleid Rammstein](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
 [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |

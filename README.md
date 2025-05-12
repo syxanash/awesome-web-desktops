@@ -90,6 +90,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
 [My Second PC](https://koas.dev/m2pc/dinamicos/) | [![open](assets/open.png) available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](assets/locked.png) private |
+[HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) private |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](assets/locked.png) private |
 [FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](assets/locked.png) private |
 [H2O - OS](https://aconfuseddragon.neocities.org) | ![locked](assets/locked.png) private |
@@ -288,6 +289,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Fusa OS](https://fusa-os.glitch.me) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
 [Vista Thomas Edition](https://thomasdarkson.com) | ![locked](assets/locked.png) private |
 [MEDICALMALADIES](https://medicalmaladies.neocities.org) | ![locked](assets/locked.png) private |
+[BogdanOS](https://os.bgevko.com) | [![open](assets/open.png) available](https://github.com/bgevko/bogdan-os) |
 
 ## Archived
 
