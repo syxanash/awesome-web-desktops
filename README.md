@@ -111,7 +111,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Winampify](https://winampify.io) | [![open](assets/open.png) available](https://github.com/remigallego/winampify) |
 [Try Andy's Desk](https://desk.glitchy.website) | [![open](assets/open.png) available](https://github.com/KaeruCT/desk.glitchy.website) |
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](assets/locked.png) private |
-[Jack Adam](https://jackadam.cc) | [![open](assets/open.png) available](https://github.com/jckdm/jckdm.github.io) |
 [Xiaohan Zou's Portfolio](https://portfolio.zxh.me) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
 [macOS in Svelte](https://macos-web.app) | [![open](assets/open.png) available](https://github.com/puruvj/macos-web) |
 [Deepin Linux](https://goodmanwen.github.io) | [![open](assets/open.png) available](https://github.com/GoodManWEN/GoodManWEN.github.io) |
@@ -282,7 +281,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
-[Linux on the Web](https://linuxontheweb.github.io) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
+[Linux on the Web](https://linuxontheweb.github.io/desk/) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
 [Timewatcher OS](https://timewatcher.neocities.org) | ![locked](assets/locked.png) private |
