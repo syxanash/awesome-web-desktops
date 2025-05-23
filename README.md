@@ -111,6 +111,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Winampify](https://winampify.io) | [![open](assets/open.png) available](https://github.com/remigallego/winampify) |
 [Try Andy's Desk](https://desk.glitchy.website) | [![open](assets/open.png) available](https://github.com/KaeruCT/desk.glitchy.website) |
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](assets/locked.png) private |
+[Jack Adam](https://jackadam.com) | [![open](assets/open.png) available](https://github.com/jckdm/jckdm.github.io) |
 [Xiaohan Zou's Portfolio](https://portfolio.zxh.me) | [![open](assets/open.png) available](https://github.com/Renovamen/playground-macos) |
 [macOS in Svelte](https://macos-web.app) | [![open](assets/open.png) available](https://github.com/puruvj/macos-web) |
 [Deepin Linux](https://goodmanwen.github.io) | [![open](assets/open.png) available](https://github.com/GoodManWEN/GoodManWEN.github.io) |

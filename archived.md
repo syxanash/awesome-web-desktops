@@ -30,7 +30,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
 [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 [WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
-[Jack Adam](https://github.com/jckdm/jckdm.github.io) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
 [Hunter Hodnett XP](https://github.com/hunterchristian/personal-site-v2) |
 [ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) |
