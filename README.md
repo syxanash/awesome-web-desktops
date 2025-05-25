@@ -292,6 +292,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [BogdanOS](https://os.bgevko.com) | [![open](assets/open.png) available](https://github.com/bgevko/bogdan-os) |
 [Hatim Benhsain](https://hatimbenhsain.github.io) | [![open](assets/open.png) available](https://github.com/hatimbenhsain/hatimbenhsain.github.io) |
 [lok.computer](https://lok.computer) | ![locked](assets/locked.png) private |
+[Mac Themes Garden](https://macthemes.garden) | ![locked](assets/locked.png) private |
+[4ndyOS](https://andy64lol.github.io/4ndyOS/) | [![open](assets/open.png) available](https://github.com/andy64lol/4ndyOS) |
 
 ## Archived
 
