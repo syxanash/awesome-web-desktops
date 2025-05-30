@@ -247,6 +247,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
 [Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
 [OS A24 - Y2K Movie](https://www.y2k.movie) | ![locked](assets/locked.png) private |
+[János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) | this site occasionally goes offline |
 [public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any<br>username and password |

@@ -50,4 +50,3 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
-[János Kócs \| Portfolio](https://github.com/janoskocs/portfolio) |
