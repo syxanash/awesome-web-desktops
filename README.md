@@ -108,7 +108,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 96](https://windows96.net) | ![locked](assets/locked.png) private |
 [The Coding Forge](https://thecodingforge.com.au) | [![open](assets/open.png) available](https://github.com/Yalgie/website) |
 [Vivek Patel Portfolio](https://vivek9patel.github.io) | [![open](assets/open.png) available](https://github.com/vivek9patel/vivek9patel.github.io) |
-[Winampify](https://winampify.io) | [![open](assets/open.png) available](https://github.com/remigallego/winampify) |
+[Winampify](https://winampify-dev-ejtfvgijz.vercel.app) | [![open](assets/open.png) available](https://github.com/remigallego/winampify) |
 [Try Andy's Desk](https://desk.glitchy.website) | [![open](assets/open.png) available](https://github.com/KaeruCT/desk.glitchy.website) |
 [tildeOS](https://tilde.town/~selfsame/) | ![locked](assets/locked.png) private |
 [Jack Adam](https://jackadam.com) | [![open](assets/open.png) available](https://github.com/jckdm/jckdm.github.io) |
