@@ -127,7 +127,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Don Chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/DonChiaQE/win95) |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) private |
 [9/11 Realtime](https://911realtime.org) | [![open](assets/open.png) available](https://github.com/Keeping-History/rt911) |
-[Core-OS](https://coreos.io) | [![open](assets/open.png) available](https://github.com/timhow38/Resume-WebApplication) |
 [Frank Force - Generative Art](https://generative.3d2k.com) | [![open](assets/open.png) available](https://github.com/KilledByAPixel/OS13k) |
 [Insaf Khamzin](https://insafkhamzin.com) | [![open](assets/open.png) available](https://github.com/InsafKhamzin/portfolio) |
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
@@ -197,7 +196,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [racOS](https://rac.fm) | ![locked](assets/locked.png) private |
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) private |
 [Based](https://www.based.gg) | ![locked](assets/locked.png) private |
-[ModernActiveDesktop](https://www.ingan121.com/mad/) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
+[ModernActiveDesktop](https://madesktop.ingan121.com) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
 [l3S GR*S MOT$](https://www.lesgrosmots.com) | ![locked](assets/locked.png) private |
 [constraint systems OS](https://csos.constraint.systems) | [![open](assets/open.png) available](https://github.com/constraint-systems/csOS) |
 [PeOS](https://picturelements.github.io) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
