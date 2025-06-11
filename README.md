@@ -294,6 +294,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [lok.computer](https://lok.computer) | ![locked](assets/locked.png) private |
 [Mac Themes Garden](https://macthemes.garden) | ![locked](assets/locked.png) private |
 [4ndyOS](https://andy64lol.github.io/4ndyOS/) | [![open](assets/open.png) available](https://github.com/andy64lol/4ndyOS) |
+[my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
 
 ## Archived
 
