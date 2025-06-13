@@ -10,7 +10,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
-[AfterStep WM](https://web.archive.org/web/20240512162906/https://www.afterstep.org/) |
 [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |

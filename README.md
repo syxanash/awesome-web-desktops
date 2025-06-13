@@ -39,6 +39,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Eric Bernacchi](https://eeerik.com) | ![locked](assets/locked.png) private |
 [OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
 [Mariano Pascual](https://www.marianopascual.me) | ![locked](assets/locked.png) private |
+[AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) private | Only runs on http |
 [98.js](https://98.js.org) | [![open](assets/open.png) available](https://github.com/1j01/98) |
 [Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](assets/locked.png) private |
 [WindowMaker](https://www.windowmaker.org) | ![locked](assets/locked.png) private |
