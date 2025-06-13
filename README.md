@@ -39,7 +39,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Eric Bernacchi](https://eeerik.com) | ![locked](assets/locked.png) private |
 [OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
 [Mariano Pascual](https://www.marianopascual.me) | ![locked](assets/locked.png) private |
-[AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) private |
 [98.js](https://98.js.org) | [![open](assets/open.png) available](https://github.com/1j01/98) |
 [Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](assets/locked.png) private |
 [WindowMaker](https://www.windowmaker.org) | ![locked](assets/locked.png) private |
@@ -145,7 +144,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [H4CK1NG G00GL3](https://h4ck1ng.google) | ![locked](assets/locked.png) private |
 [Sam Likes Code](https://www.samlikescode.dev) | [![open](assets/open.png) available](https://github.com/Goggwell/newfolio/) |
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) private |
-[Amiga34 Germany](http://www.amiga34.de/WB.html) | ![locked](assets/locked.png) private |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) private |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) private |
 [Pangolin Desktop](https://web.dahliaos.io) | [![open](assets/open.png) available](https://github.com/dahliaOS/pangolin_desktop) |
@@ -276,7 +274,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
-[LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
 [U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
@@ -295,6 +292,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Mac Themes Garden](https://macthemes.garden) | ![locked](assets/locked.png) private |
 [4ndyOS](https://andy64lol.github.io/4ndyOS/) | [![open](assets/open.png) available](https://github.com/andy64lol/4ndyOS) |
 [my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
+[Paul's Web Desktop](https://peaberberian.github.io) | [![open](assets/open.png) available](https://github.com/peaBerberian/peaberberian.github.io) |
 
 ## Archived
 

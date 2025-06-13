@@ -10,6 +10,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
+[AfterStep WM](https://web.archive.org/web/20240512162906/https://www.afterstep.org/) |
 [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
@@ -40,6 +41,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
+[Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Hugo Doueli \| Portfolio 2022](https://github.com/Ormidales/portfolio/) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
@@ -51,3 +53,4 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
+[LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
