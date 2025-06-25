@@ -147,7 +147,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) private |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) private |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) private |
-[Pangolin Desktop](https://web.dahliaos.io) | [![open](assets/open.png) available](https://github.com/dahliaOS/pangolin_desktop) |
 [WebXP](https://konsti.club/webSys/) | ![locked](assets/locked.png) private |
 [HoleNet Cobalt](https://holenet.info) | ![locked](assets/locked.png) private |
 [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](assets/open.png) available](https://github.com/chrisbinsunny/chrishub) |
@@ -294,6 +293,11 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [4ndyOS](https://andy64lol.github.io/4ndyOS/) | [![open](assets/open.png) available](https://github.com/andy64lol/4ndyOS) |
 [my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
 [Paul's Web Desktop](https://peaberberian.github.io) | [![open](assets/open.png) available](https://github.com/peaBerberian/peaberberian.github.io) |
+[ClaireOS](https://www.clairewang.co) | ![locked](assets/locked.png) private |
+[Lola OS](https://www.radiopapi.fm) | ![locked](assets/locked.png) private | Works only in<br>Chromium based browsers |
+[soso radio](https://www.sosoradio.co) | ![locked](assets/locked.png) private |
+[PortfolioXP](https://pauljaguin.com) | [![open](assets/open.png) available](https://github.com/UnMugViolet/portfolio) |
+[LisaGUI](https://alpha.lisagui.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 

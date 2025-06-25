@@ -41,6 +41,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
+[Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
 [Hugo Doueli \| Portfolio 2022](https://github.com/Ormidales/portfolio/) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
