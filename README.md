@@ -79,7 +79,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) private |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) private |
 [Make WordArt](https://makewordart.com) | ![locked](assets/locked.png) private |
-[ytOS](https://ytcracker.com) | ![locked](assets/locked.png) private |
+[ytOS](https://ytcracker.com/v2014/) | ![locked](assets/locked.png) private |
 [Windows XP](https://windows-xp.netlify.app) | ![locked](assets/locked.png) private |
 [56k-modem](https://56k-modem.online) | ![locked](assets/locked.png) private |
 [RACER TRASH](https://racertrash.com) | ![locked](assets/locked.png) private |
@@ -170,7 +170,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [thatDaria](https://thatdaria.com) | ![locked](assets/locked.png) private |
 [Chads Desktop](https://www.chadhill.dev) | [![open](assets/open.png) available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
-[GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
 [Henry Heffernan](https://henryheffernan.com) | [![open](assets/open.png) available](https://github.com/henryjeff/portfolio-website) |
 [Alec Babala](https://www.alecbabala.com) | ![locked](assets/locked.png) private |
 [win32.run](https://win32.run) | [![open](assets/open.png) available](https://github.com/ducbao414/win32.run) |
@@ -275,7 +274,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
-[U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/unite-2-re/OS.u2re.space) | Works only in<br>Chromium based browsers |
+[U2RE OS](https://os.u2re.space) | ![locked](assets/locked.png) private | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
