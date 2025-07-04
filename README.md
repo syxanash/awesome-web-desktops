@@ -170,6 +170,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [thatDaria](https://thatdaria.com) | ![locked](assets/locked.png) private |
 [Chads Desktop](https://www.chadhill.dev) | [![open](assets/open.png) available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
+[GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
 [Henry Heffernan](https://henryheffernan.com) | [![open](assets/open.png) available](https://github.com/henryjeff/portfolio-website) |
 [Alec Babala](https://www.alecbabala.com) | ![locked](assets/locked.png) private |
 [win32.run](https://win32.run) | [![open](assets/open.png) available](https://github.com/ducbao414/win32.run) |
@@ -297,6 +298,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [soso radio](https://www.sosoradio.co) | ![locked](assets/locked.png) private |
 [PortfolioXP](https://pauljaguin.com) | [![open](assets/open.png) available](https://github.com/UnMugViolet/portfolio) |
 [LisaGUI](https://alpha.lisagui.com) | ![locked](assets/locked.png) private |
+[Aperture94](https://alicjabuchowicz.com) | ![locked](assets/locked.png) private |
+[Mac OS 9](https://os9.ca) | [![open](assets/open.png) available](https://github.com/siddhartha77/os9) |
 
 ## Archived
 

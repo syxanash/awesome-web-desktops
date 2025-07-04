@@ -49,7 +49,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [SilveOS.com](https://github.com/SilveOS) |
-[GreyOS](https://github.com/g0d/GreyOS) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
