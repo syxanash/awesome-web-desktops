@@ -275,7 +275,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
-[U2RE OS](https://os.u2re.space) | ![locked](assets/locked.png) private | Works only in<br>Chromium based browsers |
+[U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/scrapjs/ui.system) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
@@ -283,7 +283,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
 [Timewatcher OS](https://timewatcher.neocities.org) | ![locked](assets/locked.png) private |
-[Fusa OS](https://fusa-os.glitch.me) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
+[Fusa OS](https://luca-musa.itch.io/fusa-os) | ![locked](assets/locked.png) private | You can register with any user,<br>password and email; they<br>don't need to be valid |
 [Vista Thomas Edition](https://thomasdarkson.com) | ![locked](assets/locked.png) private |
 [MEDICALMALADIES](https://medicalmaladies.neocities.org) | ![locked](assets/locked.png) private |
 [BogdanOS](https://os.bgevko.com) | [![open](assets/open.png) available](https://github.com/bgevko/bogdan-os) |
