@@ -96,6 +96,20 @@ active_websites.each_with_index do |website_obj, index|
     driver.get website_obj['url']
 
     sleep(8)
+
+    begin
+      # Try to accept/dismiss any alert that appears
+      if driver.switch_to.alert
+        begin
+          driver.switch_to.alert.accept
+        rescue StandardError
+          nil
+        end
+      end
+    rescue Selenium::WebDriver::Error::NoAlertOpenError
+      # No alert, continue as normal
+    end
+
     source = driver.page_source
     driver.quit
 
