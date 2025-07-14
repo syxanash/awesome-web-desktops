@@ -88,7 +88,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](assets/locked.png) private |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](assets/locked.png) private |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
-[My Second PC](https://koas.dev/m2pc/dinamicos/) | [![open](assets/open.png) available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](assets/locked.png) private |
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) private |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](assets/locked.png) private |
@@ -300,6 +299,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [LisaGUI](https://alpha.lisagui.com) | ![locked](assets/locked.png) private |
 [Aperture94](https://alicjabuchowicz.com) | ![locked](assets/locked.png) private |
 [Mac OS 9](https://os9.ca) | [![open](assets/open.png) available](https://github.com/siddhartha77/os9) |
+[Open Web Desktop](https://atproto-os.pages.dev) | [![open](assets/open.png) available](https://github.com/owdproject/client) |
 
 ## Archived
 

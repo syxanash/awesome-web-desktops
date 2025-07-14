@@ -106,7 +106,7 @@ active_websites.each_with_index do |website_obj, index|
           nil
         end
       end
-    rescue Selenium::WebDriver::Error::NoAlertOpenError
+    rescue Selenium::WebDriver::Error::NoSuchAlertError
       # No alert, continue as normal
     end
 
