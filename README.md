@@ -88,6 +88,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](assets/locked.png) private |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](assets/locked.png) private |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
+[My Second PC](https://koas.dev/m2pc/dinamicos/) | [![open](assets/open.png) available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](assets/locked.png) private |
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) private |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](assets/locked.png) private |
