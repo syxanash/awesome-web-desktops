@@ -82,7 +82,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [ytOS](https://ytcracker.com/v2014/) | ![locked](assets/locked.png) private |
 [Windows XP](https://windows-xp.netlify.app) | ![locked](assets/locked.png) private |
 [56k-modem](https://56k-modem.online) | ![locked](assets/locked.png) private |
-[RACER TRASH](https://racertrash.com) | ![locked](assets/locked.png) private |
 [Vuindows](https://marcmascarell.github.io/Vuindows/) | [![open](assets/open.png) available](https://github.com/marcmascarell/Vuindows) |
 [Gustavo Chico](https://gustavochico.com/desktop) | ![locked](assets/locked.png) private |
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](assets/locked.png) private |
@@ -301,6 +300,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Aperture94](https://alicjabuchowicz.com) | ![locked](assets/locked.png) private |
 [Mac OS 9](https://os9.ca) | [![open](assets/open.png) available](https://github.com/siddhartha77/os9) |
 [Open Web Desktop](https://atproto-os.pages.dev) | [![open](assets/open.png) available](https://github.com/owdproject/client) |
+[CoffeeOS](https://coffee-os.netlify.app) | [![open](assets/open.png) available](https://github.com/jsagayap/CoffeeOS) | You can log in with any password |
+[陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
 
 ## Archived
 
