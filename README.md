@@ -302,6 +302,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Open Web Desktop](https://atproto-os.pages.dev) | [![open](assets/open.png) available](https://github.com/owdproject/client) |
 [CoffeeOS](https://coffee-os.netlify.app) | [![open](assets/open.png) available](https://github.com/jsagayap/CoffeeOS) | You can log in with any password |
 [陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
+[MitchIvin XP](https://mitchivin.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
