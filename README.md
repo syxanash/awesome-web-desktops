@@ -195,7 +195,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Based](https://www.based.gg) | ![locked](assets/locked.png) private |
 [ModernActiveDesktop](https://madesktop.ingan121.com) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
 [l3S GR*S MOT$](https://www.lesgrosmots.com) | ![locked](assets/locked.png) private |
-[constraint systems OS](https://csos.constraint.systems) | [![open](assets/open.png) available](https://github.com/constraint-systems/csOS) |
 [PeOS](https://picturelements.github.io) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
 [Tansoftware OS](https://tansoftware.com/os) | ![locked](assets/locked.png) private |
 [Brunc.io](https://brunc.io) | [![open](assets/open.png) available](https://github.com/bamanczak/bruncio) |
@@ -273,6 +272,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
+[LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
 [U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/scrapjs/ui.system) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
@@ -303,6 +303,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [CoffeeOS](https://coffee-os.netlify.app) | [![open](assets/open.png) available](https://github.com/jsagayap/CoffeeOS) | You can log in with any password |
 [陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
 [MitchIvin XP](https://mitchivin.com) | ![locked](assets/locked.png) private |
+[nekOS](https://oodlecat.meowandsparkle.party/nekOS.html) | ![locked](assets/locked.png) private |
 
 ## Archived
 
