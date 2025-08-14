@@ -135,7 +135,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
 [Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br>clear cookies and site data |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
-[FoundationOS](https://os.foundation.app) | ![locked](assets/locked.png) private |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
 [Classicy](https://robbiebyrd.github.io/classicy/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) private |
@@ -230,7 +229,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Vtron](https://vtron.site/win/) | [![open](assets/open.png) available](https://github.com/royalknight56/vtron) |
 [Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
-[Renkbench](http://www.renkbench.de) | [![open](assets/open.png) available](https://github.com/renkman/Renkbench) |
 [KodeKeras](https://kodekeras.my.id) | ![locked](assets/locked.png) private |
 [Ripen OS](https://ripenos.web.app/Ripenos/) | [![open](assets/open.png) available](https://github.com/ripenos/ripenos.github.io) |
 [Windows11](https://winbows11.vercel.app) | [![open](assets/open.png) available](https://github.com/Siyu1017/winbows11) |
@@ -272,7 +270,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
-[LeagueOS](https://leagueos.org) | ![locked](assets/locked.png) private |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
 [U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/scrapjs/ui.system) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
@@ -304,6 +301,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
 [MitchIvin XP](https://mitchivin.com) | ![locked](assets/locked.png) private |
 [nekOS](https://oodlecat.meowandsparkle.party/nekOS.html) | ![locked](assets/locked.png) private |
+[TerbiumonOS](https://terbiumon.top) | [![open](assets/open.png) available](https://github.com/TerbiumOS/web-v2) | You can log in with any<br>username and password |
+[Sohail Sayed](https://www.sohailsayed.com) | [![open](assets/open.png) available](https://github.com/SohailSayed/winxp-personal-website) |
 
 ## Archived
 

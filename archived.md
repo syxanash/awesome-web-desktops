@@ -39,6 +39,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
+[FoundationOS](https://web.archive.org/web/20240501000000*/https://os.foundation.app/) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
@@ -55,3 +56,5 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
+[Renkbench](https://github.com/renkman/Renkbench) |
+[LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
