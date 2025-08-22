@@ -23,7 +23,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
-[RACER TRASH](https://web.archive.org/web/20250126152812/https://racertrash.com/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
