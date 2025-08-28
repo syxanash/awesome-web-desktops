@@ -31,6 +31,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
 [WE=LINK](https://web.archive.org/web/20230205103008/http://we-link.chronusartcenter.org/) |
 [RexOS](https://web.archive.org/web/20230819185459/https://itzrex.neocities.org/) |
+[AtheOS](https://web.archive.org/web/20250124120757/https://al1-ce.neocities.org) |
 [Hunter Hodnett XP](https://github.com/hunterchristian/personal-site-v2) |
 [ANOTHER TEE](https://web.archive.org/web/20220902130019/https://www.anothertee.xyz/) |
 [Core-OS](https://web.archive.org/web/20240616155957/https://coreos.io/) |

@@ -122,7 +122,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Joeyonng's Backyard](https://joeyonng.github.io/joeyonng-backyard/) | [![open](assets/open.png) available](https://github.com/Joeyonng/joeyonng-backyard) |
 [Win11React](https://win11.blueedge.me) | [![open](assets/open.png) available](https://github.com/blueedgetechno/win11React) |
 [Win7 Simu](https://win7simu.visnalize.com) | ![locked](assets/locked.png) private |
-[AtheOS](https://al1-ce.neocities.org) | ![locked](assets/locked.png) private |
 [NeXT](https://www.levenez.com/NeXTSTEP/) | ![locked](assets/locked.png) private |
 [Don Chia](https://www.donchia.tech) | [![open](assets/open.png) available](https://github.com/DonChiaQE/win95) |
 [clickbecause.net](https://clickbecause.net) | ![locked](assets/locked.png) private |
@@ -304,6 +303,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [nekOS](https://oodlecat.meowandsparkle.party/nekOS.html) | ![locked](assets/locked.png) private |
 [TerbiumonOS](https://terbiumon.top) | [![open](assets/open.png) available](https://github.com/TerbiumOS/web-v2) | You can log in with any<br>username and password |
 [Sohail Sayed](https://www.sohailsayed.com) | [![open](assets/open.png) available](https://github.com/SohailSayed/winxp-personal-website) |
+[Rafindows 95](https://rafaheras.dev) | ![locked](assets/locked.png) private |
+[corow.net](https://corow.net) | ![locked](assets/locked.png) private |
 
 ## Archived
 
