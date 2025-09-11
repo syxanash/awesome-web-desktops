@@ -307,6 +307,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sohail Sayed](https://www.sohailsayed.com) | [![open](assets/open.png) available](https://github.com/SohailSayed/winxp-personal-website) |
 [Rafindows 95](https://rafaheras.dev) | ![locked](assets/locked.png) private |
 [corow.net](https://corow.net) | ![locked](assets/locked.png) private |
+[Product OS](https://posthog.com) | ![locked](assets/locked.png) private |
+[Webtop 4](https://webtop-4.vercel.app) | [![open](assets/open.png) available](https://github.com/Quicksilver-Division/Webtop-4) |
+[OS7311](https://os7311.vercel.app) | ![locked](assets/locked.png) private |
 
 ## Archived
 
