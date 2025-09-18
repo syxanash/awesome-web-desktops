@@ -133,7 +133,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Jonathan Zavialov](https://computer.jonzav.me) | [![open](assets/open.png) available](https://github.com/JonZavialov/portfolio4) |
 [KANYE 2049](https://kanye2049.com) | ![locked](assets/locked.png) private | Password: `Graduation` |
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
-[RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) |
+[RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) | Works only in<br>Chromium based browsers |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
 [Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br>clear cookies and site data |
 [1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
@@ -172,7 +172,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
 [GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
 [Henry Heffernan](https://henryheffernan.com) | [![open](assets/open.png) available](https://github.com/henryjeff/portfolio-website) |
-[Alec Babala](https://www.alecbabala.com) | ![locked](assets/locked.png) private |
 [win32.run](https://win32.run) | [![open](assets/open.png) available](https://github.com/ducbao414/win32.run) |
 [Pretty Diff](https://prettydiff.com) | [![open](assets/open.png) available](https://github.com/prettydiff/share-file-systems) |
 [Slashdiv OS](https://slashdiv.neocities.org) | ![locked](assets/locked.png) private |
@@ -269,7 +268,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ugly Duckling](https://cyanbanister.com) | ![locked](assets/locked.png) private |
 [1-bit rainbow](https://www.1bitrainbow.co.uk) | ![locked](assets/locked.png) private |
 [Gaiabots](https://gaiabots.neocities.org) | ![locked](assets/locked.png) private |
-[Minesweeper Online](https://ohminesweeper.online) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
+[Minesweeper Online](https://minesweeper.sinqi.tools) | [![open](assets/open.png) available](https://github.com/zerosoul/ohminesweeper.online) |
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
