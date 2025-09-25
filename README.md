@@ -30,7 +30,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 |---|---|---|
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
-[Ash Kyd](https://ash.ms) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
+[Ash Kyd](https://ashk.au) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
 [Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](assets/locked.png) private |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](assets/locked.png) private |
 [Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
@@ -167,7 +167,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) private |
 [Buddy Pond](https://buddypond.com) | [![open](assets/open.png) available](https://github.com/marak/buddypond) |
-[thatDaria](https://thatdaria.com) | ![locked](assets/locked.png) private |
 [Chads Desktop](https://www.chadhill.dev) | [![open](assets/open.png) available](https://github.com/chad2320/chadhill-dev) |
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
 [GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
@@ -309,6 +308,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Product OS](https://posthog.com) | ![locked](assets/locked.png) private |
 [Webtop 4](https://webtop-4.vercel.app) | [![open](assets/open.png) available](https://github.com/Quicksilver-Division/Webtop-4) |
 [OS7311](https://os7311.vercel.app) | ![locked](assets/locked.png) private |
+[XenOS](https://xen-os.dev) | [![open](assets/open.png) available](https://github.com/scaratech/XenOS) |
+[YanLiu Desktop OS](https://cottenpanda.github.io/yanliuos) | [![open](assets/open.png) available](https://github.com/cottenpanda/yanliuos) | Works only in<br>Chromium based browsers |
 
 ## Archived
 

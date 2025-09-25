@@ -51,6 +51,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [SilveOS.com](https://github.com/SilveOS) |
+[thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [constraint systems OS](https://github.com/constraint-systems/csOS) |
