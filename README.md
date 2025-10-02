@@ -73,7 +73,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Indie Web](https://theindieweb.com) | [![open](assets/open.png) available](https://github.com/tholman/tholman-blog) |
 [hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](assets/locked.png) private |
 [98 KAGE](https://ka.ge) | [![open](assets/open.png) available](https://github.com/pkage/98) |
-[erdOS](https://erd-os.iamerd.xyz) | ![locked](assets/locked.png) private |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](assets/locked.png) private |
 [glenda.party](https://glenda.0x46.net) | ![locked](assets/locked.png) private |
 [Maxime Elkael](https://melkael.github.io) | [![open](assets/open.png) available](https://github.com/melkael/melkael.github.io) |

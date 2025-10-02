@@ -21,6 +21,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
+[erdOS](https://web.archive.org/web/20250613014015/https://erd-os.iamerd.xyz/) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
