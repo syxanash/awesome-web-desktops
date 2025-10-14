@@ -5,7 +5,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 
 | Site name |
 |---|
-[WorldWideWeb](https://worldwideweb.cern.ch/code/) |
 [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Jack Kim](https://www.jackk.im) |
