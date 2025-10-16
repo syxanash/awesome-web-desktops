@@ -312,6 +312,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [YanLiu Desktop OS](https://cottenpanda.github.io/yanliuos) | [![open](assets/open.png) available](https://github.com/cottenpanda/yanliuos) | Works only in<br>Chromium based browsers |
 [RomaOS](https://romadeoliveira3.github.io/portifolio/) | [![open](assets/open.png) available](https://github.com/Romadeoliveira3/portifolio) |
 [Cyber Scales Desktop](https://codlin.me/aquarium/cyber-scales-desktop) | [![open](assets/open.png) available](https://github.com/Codfisher/cod-aquarium/tree/main/content/aquarium/cyber-scales-desktop) | Some parts of the website require WebGPU |
+[河川敷](https://ksnjk.moo.jp) | ![locked](assets/locked.png) private |
 
 ## Archived
 
