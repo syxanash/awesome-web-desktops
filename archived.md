@@ -16,7 +16,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 [And Gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
 [Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
-[mattOS](https://webflow.com/made-in-webflow/website/mattOS-jrqi9o2e) |
 [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |

@@ -50,6 +50,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) private |
 [www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) private |
+[mattOS](https://matthewpmunger-v2.webflow.io) | ![locked](assets/locked.png) private |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
 [Jurassic Systems](https://jurassicsystems.com) | [![open](assets/open.png) available](https://github.com/tojrobinson/jurassicsystems.com) |
@@ -312,6 +313,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RomaOS](https://romadeoliveira3.github.io/portifolio/) | [![open](assets/open.png) available](https://github.com/Romadeoliveira3/portifolio) |
 [Cyber Scales Desktop](https://codlin.me/aquarium/cyber-scales-desktop) | [![open](assets/open.png) available](https://github.com/Codfisher/cod-aquarium/tree/main/content/aquarium/cyber-scales-desktop) | Some parts of the website require WebGPU |
 [河川敷](https://ksnjk.moo.jp) | ![locked](assets/locked.png) private |
+[maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
