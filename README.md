@@ -314,7 +314,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Cyber Scales Desktop](https://codlin.me/aquarium/cyber-scales-desktop) | [![open](assets/open.png) available](https://github.com/Codfisher/cod-aquarium/tree/main/content/aquarium/cyber-scales-desktop) | Some parts of the website require WebGPU |
 [河川敷](https://ksnjk.moo.jp) | ![locked](assets/locked.png) private |
 [maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
-[Poliq.art98](https://poliqu.art) | ![locked](assets/locked.png) private |
+[Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 
 ## Archived
 
