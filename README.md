@@ -316,7 +316,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
 [Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
-[HuopaOS](hhttps://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
+[HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
 
 ## Archived
 
