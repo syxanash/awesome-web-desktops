@@ -21,6 +21,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
 [erdOS](https://web.archive.org/web/20250613014015/https://erd-os.iamerd.xyz/) |
+[Maxime Elkael](https://github.com/melkael/melkael.github.io) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
@@ -54,6 +55,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
+[Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
 [constraint systems OS](https://github.com/constraint-systems/csOS) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |

@@ -76,7 +76,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [98 KAGE](https://ka.ge) | [![open](assets/open.png) available](https://github.com/pkage/98) |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](assets/locked.png) private |
 [glenda.party](https://glenda.0x46.net) | ![locked](assets/locked.png) private |
-[Maxime Elkael](https://melkael.github.io) | [![open](assets/open.png) available](https://github.com/melkael/melkael.github.io) |
 [VirusvAV](https://os.virusav.com) | ![locked](assets/locked.png) private |
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) private |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) private |
@@ -188,7 +187,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Digital New Era](https://newerawebsites.com) | ![locked](assets/locked.png) private |
 [C'est l'IA ou Célia](https://voeux2024.castoretpollux.com) | ![locked](assets/locked.png) private |
 [HeavenComputerOS](https://heaven.computer) | ![locked](assets/locked.png) private |
-[Bianca Mkaila](https://bianca.digital) | ![locked](assets/locked.png) private |
 [racOS](https://rac.fm) | ![locked](assets/locked.png) private |
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) private |
 [Based](https://www.based.gg) | ![locked](assets/locked.png) private |
@@ -271,7 +269,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
-[U2RE OS](https://os.u2re.space) | [![open](assets/open.png) available](https://github.com/scrapjs/ui.system) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
