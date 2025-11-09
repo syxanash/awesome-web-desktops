@@ -314,6 +314,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
 [HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
+[Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user <br>in the login screen first<br>before accessing the desktop |
 
 ## Archived
 
