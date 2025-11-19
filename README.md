@@ -233,7 +233,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Webdows](https://webdows.belowaverage.org) | [![open](assets/open.png) available](https://github.com/belowaverage-org/webdows) |
 [NapicuOS](https://os.napicu.eu) | [![open](assets/open.png) available](https://github.com/Numax-cz/NapicuOS) | you need to configure the boot<br>priority order in the BIOS<br>to run this web desktop :) |
 [MainOS](https://maingron.itch.io/mainos) | [![open](assets/open.png) available](https://github.com/Maingron/MainOS) |
-[Nova OS](https://adthoughtsglobal.github.io/Nova-OS/) | [![open](assets/open.png) available](https://github.com/adthoughtsglobal/Nova-OS) |
+[Nova OS](https://runnova.github.io/NovaOS/) | [![open](assets/open.png) available](https://github.com/runnova/NovaOS) |
 [AnuraOS](https://anura.pro) | [![open](assets/open.png) available](https://github.com/MercuryWorkshop/anuraOS) |
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
 [Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
@@ -315,6 +315,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
 [HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
 [Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user <br>in the login screen first<br>before accessing the desktop |
+[Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
 
 ## Archived
 
