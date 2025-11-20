@@ -57,6 +57,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
 [constraint systems OS](https://github.com/constraint-systems/csOS) |
+[Grovy Website](https://web.archive.org/web/20250118040705/https://grovy.space/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
