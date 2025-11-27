@@ -222,7 +222,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HippoPlayer](https://hippoplayer.se/WB.html) | ![locked](assets/locked.png) private |
 [purarue OS](https://purarue.xyz) | [![open](assets/open.png) available](https://github.com/purarue/glue) |
 [Sarah's Portfolio](https://s4rah.dev) | ![locked](assets/locked.png) private |
-[Ritenv's WebOS](http://riten.io/retro-desktop/) | [![open](assets/open.png) available](https://github.com/ritenv/retro-desktop) |
 [Vtron](https://vtron.site/win/) | [![open](assets/open.png) available](https://github.com/royalknight56/vtron) |
 [Hawwokitty's Portfolio](https://hawwokitty.github.io/my-portfolio/) | [![open](assets/open.png) available](https://github.com/hawwokitty/my-portfolio) |
 [Ricardo98](https://ricardo-gomes.vercel.app) | [![open](assets/open.png) available](https://github.com/sleiph/Portfolio) |
