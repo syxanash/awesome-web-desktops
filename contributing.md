@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-* The website suggested must have a design which look like a typical desktop computer GUI, ideally something like [this](https://en.wikipedia.org/wiki/Graphical_user_interface#Examples).
+* The website suggested must have a design which look like a typical desktop computer GUI, ideally something like [this](https://en.wikipedia.org/wiki/Desktop_environment).
 * Please **do not** add websites that are hidden behind logins (without available credentials), or paywalls. If your website has a demo login please indicate it in the _User notes_.
 * Only submit fully developed websites or apps that are in working condition. Projects that are in an early stage or broken will not be accepted.
 * Forks of existing open source web desktops on the list are welcome only if they introduce **substantial** functional, visual, or conceptual changes beyond the original project.
