@@ -313,7 +313,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
 [HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
-[Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user <br>in the login screen first<br>before accessing the desktop |
+[Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user<br>in the login screen first<br>before accessing the desktop |
 [Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
 [Ubuntu Linux Website](https://www.damianb.dev) | [![open](assets/open.png) available](https://github.com/DamianB-BitFlipper/DamianB-BitFlipper.github.io) |
 [So Many Diamonds](https://fictioningcomfort.space/so-many-diamonds/) | ![locked](assets/locked.png) private |
