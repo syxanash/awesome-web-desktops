@@ -267,6 +267,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [StephOS](https://stephos.netlify.app) | [![open](assets/open.png) available](https://github.com/StephanVolynets/Stephans-OS) |
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
+[CrossWord](https://u2re.space) | [![open](assets/open.png) available](https://github.com/u2re-space/crossword) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
