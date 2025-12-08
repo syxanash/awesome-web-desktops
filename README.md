@@ -317,6 +317,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
 [Ubuntu Linux Website](https://www.damianb.dev) | [![open](assets/open.png) available](https://github.com/DamianB-BitFlipper/DamianB-BitFlipper.github.io) |
 [So Many Diamonds](https://fictioningcomfort.space/so-many-diamonds/) | ![locked](assets/locked.png) private |
+[project vv](https://vvesh.de) | ![locked](assets/locked.png) private |
 
 ## Archived
 
