@@ -64,3 +64,4 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
+[XenOS](https://github.com/NebulaServices/XenOS) |
