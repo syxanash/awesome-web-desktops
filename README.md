@@ -318,6 +318,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ubuntu Linux Website](https://www.damianb.dev) | [![open](assets/open.png) available](https://github.com/DamianB-BitFlipper/DamianB-BitFlipper.github.io) |
 [So Many Diamonds](https://fictioningcomfort.space/so-many-diamonds/) | ![locked](assets/locked.png) private |
 [project vv](https://vvesh.de) | ![locked](assets/locked.png) private |
+[LeoCodes](https://leocodes.vercel.app) | [![open](assets/open.png) available](https://github.com/leonardonapoless/leocodes) |
+[Linux OS Clone](https://linux-next.vercel.app) | [![open](assets/open.png) available](https://github.com/hey-Zayn/ArchLinux-OS) |
 
 ## Archived
 
