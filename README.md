@@ -91,6 +91,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
 [My Second PC](https://koas.dev/m2pc/dinamicos/) | [![open](assets/open.png) available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](assets/locked.png) private |
+[HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) private |
 [Unremarkable Garden](https://unremarkablegarden.com) | ![locked](assets/locked.png) private |
 [FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](assets/locked.png) private |
 [H2O - OS](https://aconfuseddragon.neocities.org) | ![locked](assets/locked.png) private |
