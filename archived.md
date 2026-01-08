@@ -53,6 +53,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [SilveOS.com](https://github.com/SilveOS) |
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
+[Chads Desktop](https://web.archive.org/web/20250622112131/https://www.chadhill.dev/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
