@@ -319,6 +319,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [project vv](https://vvesh.de) | ![locked](assets/locked.png) private |
 [LeoCodes](https://leocodes.vercel.app) | [![open](assets/open.png) available](https://github.com/leonardonapoless/leocodes) |
 [Linux OS Clone](https://linux-next.vercel.app) | [![open](assets/open.png) available](https://github.com/hey-Zayn/ArchLinux-OS) |
+[Axes OS](https://axes.quest) | ![locked](assets/locked.png) private |
 
 ## Archived
 
