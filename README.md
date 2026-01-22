@@ -135,14 +135,12 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) | Works only in<br>Chromium based browsers |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
 [Puter](https://puter.com) | [![open](assets/open.png) available](https://github.com/heyPuter/puter/) | if you get a login screen just<br>clear cookies and site data |
-[1997box](https://1997.pooftie.me) | [![open](assets/open.png) available](https://github.com/middlepot/1997) |
 [Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
 [Classicy](https://robbiebyrd.github.io/classicy/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) private |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) private |
 [Kayo Felipe Silva](https://kaiofelipejs.dev) | [![open](assets/open.png) available](https://github.com/kaiofelipejs/kaiofelipejs.dev) |
 [H4CK1NG G00GL3](https://h4ck1ng.google) | ![locked](assets/locked.png) private |
-[Sam Likes Code](https://www.samlikescode.dev) | [![open](assets/open.png) available](https://github.com/Goggwell/newfolio/) |
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) private |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) private |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) private |
@@ -320,6 +318,11 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [LeoCodes](https://leocodes.vercel.app) | [![open](assets/open.png) available](https://github.com/leonardonapoless/leocodes) |
 [Linux OS Clone](https://linux-next.vercel.app) | [![open](assets/open.png) available](https://github.com/hey-Zayn/ArchLinux-OS) |
 [Axes OS](https://axes.quest) | ![locked](assets/locked.png) private |
+[Chus Margallo Portfolio](https://chusmargallo.space) | ![locked](assets/locked.png) private |
+[Aurora OS](https://mental-os.github.io/Aurora-OS.js/) | [![open](assets/open.png) available](https://github.com/mental-os/Aurora-OS.js) |
+[AqadilOS](https://aqadilos.web.app) | [![open](assets/open.png) available](https://github.com/AQADIL/AqadilOS) |
+[Showcase OS](https://ronbodnar.com) | [![open](assets/open.png) available](https://github.com/ronbodnar/showcase-os) |
+[Aymu OS](https://os.nated.in) | [![open](assets/open.png) available](https://github.com/IndGeek/aymu-OS) |
 
 ## Archived
 

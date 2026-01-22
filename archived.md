@@ -43,6 +43,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [FoundationOS](https://web.archive.org/web/20240501000000*/https://os.foundation.app/) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
+[Sam Likes Code](https://github.com/Goggwell/newfolio/) |
 [Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
 [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
