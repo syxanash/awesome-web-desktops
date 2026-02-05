@@ -59,7 +59,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Rahul.io](https://rahul.io) | [![open](assets/open.png) available](https://github.com/lolstring/window98-html-css-js) |
 [EmuOS](https://emupedia.net/beta/emuos/) | [![open](assets/open.png) available](https://github.com/Emupedia/emupedia.github.io) |
 [AaronOS](https://aaronos.dev/AaronOS/aosBeta.php) | [![open](assets/open.png) available](https://github.com/MineAndCraft12/AaronOS) |
-[CloudDesk](http://altaica.altervista.org) | ![locked](assets/locked.png) private |
 [Windows 98 -- Packard Belle](https://packard-belle.netlify.app) | [![open](assets/open.png) available](https://github.com/padraigfl/packard-belle-desktop) |
 [vue win3.1](https://disjfa.github.io/vue-win-3.1) | [![open](assets/open.png) available](https://github.com/disjfa/vue-win-3.1) |
 [Minesweeper](https://winmine-exe.now.sh) | [![open](assets/open.png) available](https://github.com/1000hz/winmine-exe) |
