@@ -48,6 +48,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
 [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
+[WebXP](https://web.archive.org/web/20250305213657/https://konsti.club/webSys/) |
 [Hugo Doueli \| Portfolio 2022](https://github.com/Ormidales/portfolio/) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
@@ -59,6 +60,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
+[l3S GR*S MOT$](https://web.archive.org/web/20260115054249/https://www.lesgrosmots.com/) |
 [constraint systems OS](https://github.com/constraint-systems/csOS) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
@@ -66,5 +68,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
+[Kas-OS](https://github.com/achtaitaipai/kas-os) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |

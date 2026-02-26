@@ -143,7 +143,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) private |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) private |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) private |
-[WebXP](https://konsti.club/webSys/) | ![locked](assets/locked.png) private |
 [HoleNet Cobalt](https://holenet.info) | ![locked](assets/locked.png) private |
 [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](assets/open.png) available](https://github.com/chrisbinsunny/chrishub) |
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](assets/locked.png) private |
@@ -187,7 +186,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) private |
 [Based](https://www.based.gg) | ![locked](assets/locked.png) private |
 [ModernActiveDesktop](https://madesktop.ingan121.com) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
-[l3S GR*S MOT$](https://www.lesgrosmots.com) | ![locked](assets/locked.png) private |
 [PeOS](https://picturelements.github.io) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
 [Tansoftware OS](https://tansoftware.com/os) | ![locked](assets/locked.png) private |
 [Brunc.io](https://brunc.io) | [![open](assets/open.png) available](https://github.com/bamanczak/bruncio) |
@@ -267,7 +265,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [CrossWord](https://u2re.space) | [![open](assets/open.png) available](https://github.com/u2re-space/crossword) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
-[Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 [Linux on the Web](https://linuxontheweb.github.io/desk/) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
