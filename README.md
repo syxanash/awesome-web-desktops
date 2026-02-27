@@ -319,6 +319,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Showcase OS](https://ronbodnar.com) | [![open](assets/open.png) available](https://github.com/ronbodnar/showcase-os) |
 [Aymu OS](https://os.nated.in) | [![open](assets/open.png) available](https://github.com/IndGeek/aymu-OS) |
 [Debian CDE](https://debian.com.mx) | [![open](assets/open.png) available](https://github.com/victxrlarixs/debian-cde) |
+[RetroTick](https://retrotick.com) | [![open](assets/open.png) available](https://github.com/lqs/retrotick) |
 
 ## Archived
 
