@@ -28,6 +28,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
+[Unremarkable Garden](https://web.archive.org/web/20250315105005/https://unremarkablegarden.com/) |
 [Herzeleid Rammstein](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
 [SICK7 Official Online Boutique](https://web.archive.org/web/20210601000000*/https://sick7.com/) |
@@ -67,6 +68,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Ritenv's WebOS](https://github.com/ritenv/retro-desktop) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
+[CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
 [Kas-OS](https://github.com/achtaitaipai/kas-os) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
