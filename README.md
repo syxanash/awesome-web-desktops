@@ -319,6 +319,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Debian CDE](https://debian.com.mx) | [![open](assets/open.png) available](https://github.com/victxrlarixs/debian-cde) |
 [RetroTick](https://retrotick.com) | [![open](assets/open.png) available](https://github.com/lqs/retrotick) |
 [gucduck](https://www.gucduck.com) | ![locked](assets/locked.png) private |
+[DaveOS](https://daveos.fun) | ![locked](assets/locked.png) private |
+[OS(KO)](https://cmdkolab.github.io/osko/) | [![open](assets/open.png) available](https://github.com/cmdkolab/osko) |
 
 ## Archived
 
