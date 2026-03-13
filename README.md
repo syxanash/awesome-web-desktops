@@ -320,6 +320,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [gucduck](https://www.gucduck.com) | ![locked](assets/locked.png) private |
 [DaveOS](https://daveos.fun) | ![locked](assets/locked.png) private |
 [OS(KO)](https://cmdkolab.github.io/osko/) | [![open](assets/open.png) available](https://github.com/cmdkolab/osko) |
+[ChipOS](http://www.chiptune.fun) | ![locked](assets/locked.png) private |
 
 ## Archived
 
