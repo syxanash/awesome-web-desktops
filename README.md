@@ -42,13 +42,14 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Eric Bernacchi](https://eeerik.com) | ![locked](assets/locked.png) private |
 [OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
 [Mariano Pascual](https://www.marianopascual.me) | ![locked](assets/locked.png) private |
-[AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) private | Only runs on http |
+[AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) private | Only runs on HTTP |
 [98.js](https://98.js.org) | [![open](assets/open.png) available](https://github.com/1j01/98) |
 [Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](assets/locked.png) private |
 [WindowMaker](https://www.windowmaker.org) | ![locked](assets/locked.png) private |
 [Whimsy Space](https://whimsy.space) | [![open](assets/open.png) available](https://github.com/STRd6/zine) |
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) private |
+[www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) private | Only runs on HTTP |
 [mattOS](https://matthewpmunger-v2.webflow.io) | ![locked](assets/locked.png) private |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
