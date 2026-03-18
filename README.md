@@ -322,6 +322,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [DaveOS](https://daveos.fun) | ![locked](assets/locked.png) private |
 [OS(KO)](https://cmdkolab.github.io/osko/) | [![open](assets/open.png) available](https://github.com/cmdkolab/osko) |
 [ChipOS](http://www.chiptune.fun) | ![locked](assets/locked.png) private |
+[filip kostic](https://filipkostic.computer) | ![locked](assets/locked.png) private |
+[Pravin Prajapati](https://pravin-python.github.io/Web-OS-Portfolio/) | [![open](assets/open.png) available](https://github.com/pravin-python/Web-OS-Portfolio) |
+[Windows 98 Web Edition](https://azayrahmad.github.io/win98-web/) | [![open](assets/open.png) available](https://github.com/azayrahmad/win98-web) |
 
 ## Archived
 
