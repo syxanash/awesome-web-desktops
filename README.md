@@ -325,6 +325,11 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [filip kostic](https://filipkostic.computer) | ![locked](assets/locked.png) private |
 [Pravin Prajapati](https://pravin-python.github.io/Web-OS-Portfolio/) | [![open](assets/open.png) available](https://github.com/pravin-python/Web-OS-Portfolio) |
 [Windows 98 Web Edition](https://azayrahmad.github.io/win98-web/) | [![open](assets/open.png) available](https://github.com/azayrahmad/win98-web) |
+[Skillz's Computer](https://aduncan.dev) | [![open](assets/open.png) available](https://github.com/aduncandev/web-xp) |
+[Portfolio - OS Style](https://linkus-star.github.io) | [![open](assets/open.png) available](https://github.com/Linkus-star/linkus-star.github.io) |
+[Adam Lambert '98](https://www.adamclambert.com) | ![locked](assets/locked.png) private |
+[Daylman](https://www.daylman.com) | ![locked](assets/locked.png) private |
+[Windows XP React Edition](https://react-xp.jamiepates.com) | [![open](assets/open.png) available](https://github.com/Cyanoxide/react-xp) |
 
 ## Archived
 
