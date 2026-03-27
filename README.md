@@ -331,6 +331,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Daylman](https://www.daylman.com) | ![locked](assets/locked.png) private |
 [Windows XP React Edition](https://react-xp.jamiepates.com) | [![open](assets/open.png) available](https://github.com/Cyanoxide/react-xp) |
 [finDOS 98](https://findos98.com/app) | ![locked](assets/locked.png) private |
+[Joey Legrand - Legacy](https://legrandnuage.ca) | ![locked](assets/locked.png) private |
 
 ## Archived
 
