@@ -333,6 +333,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [finDOS 98](https://findos98.com/app) | ![locked](assets/locked.png) private |
 [Joey Legrand - Legacy](https://legrandnuage.ca) | ![locked](assets/locked.png) private |
 [Marsputer](https://marsputer.com) | ![locked](assets/locked.png) private |
+[IrfanSubasiXP](https://irfansubasi.com) | ![locked](assets/locked.png) private |
+[KarpOS](https://karpos.zkarpinski.com) | ![locked](assets/locked.png) private |
+[MOLROO](https://www.molroo.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
