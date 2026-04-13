@@ -336,6 +336,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [IrfanSubasiXP](https://irfansubasi.com) | ![locked](assets/locked.png) private |
 [KarpOS](https://karpos.zkarpinski.com) | ![locked](assets/locked.png) private |
 [MOLROO](https://www.molroo.com) | ![locked](assets/locked.png) private |
+[VoxTech](https://voxtek.hazbinhotel.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
