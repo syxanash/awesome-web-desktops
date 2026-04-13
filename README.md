@@ -23,6 +23,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 - [Websites](#websites)
 - [Archived](#archived)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Websites
 
