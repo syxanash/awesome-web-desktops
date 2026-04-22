@@ -68,6 +68,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Ritenv's WebOS](https://github.com/ritenv/retro-desktop) |
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
+[OS A24 - Y2K Movie](https://web.archive.org/web/20250315033227/https://www.y2k.movie/) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
 [Kas-OS](https://github.com/achtaitaipai/kas-os) |
