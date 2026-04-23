@@ -336,6 +336,10 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KarpOS](https://karpos.zkarpinski.com) | ![locked](assets/locked.png) private |
 [MOLROO](https://www.molroo.com) | ![locked](assets/locked.png) private |
 [VoxTech](https://voxtek.hazbinhotel.com) | ![locked](assets/locked.png) private |
+[UX UI Portfolio](https://guillaumedusseuxgicquel.com/portfolio/loading) | ![locked](assets/locked.png) private |
+[yuri.biz](https://yuri.biz) | ![locked](assets/locked.png) private |
+[KnowledgeWorker](https://knowledgeworker.alexmeub.com) | ![locked](assets/locked.png) private |
+[Wes Dieleman](https://www.wesdieleman.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
