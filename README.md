@@ -340,6 +340,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [yuri.biz](https://yuri.biz) | ![locked](assets/locked.png) private |
 [KnowledgeWorker](https://knowledgeworker.alexmeub.com) | ![locked](assets/locked.png) private |
 [Wes Dieleman](https://www.wesdieleman.com) | ![locked](assets/locked.png) private |
+[toth@ighor.com — CDE Desktop](https://toth.ighor.com/cde/) | [![open](assets/open.png) available](https://github.com/igtoth/cde-motif-desktop) |
 
 ## Archived
 
