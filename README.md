@@ -142,6 +142,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [The Amiga Workbench Simulation](https://taws.ch) | ![locked](assets/locked.png) private |
 [Richard Eisenmenger](https://amiga.richard-eisenmenger.com/WB.html) | ![locked](assets/locked.png) private |
 [Money Simulator](https://simulator.money/play) | ![locked](assets/locked.png) private |
+[WebXP](https://konsti.club/webSys/) | ![locked](assets/locked.png) private |
 [HoleNet Cobalt](https://holenet.info) | ![locked](assets/locked.png) private |
 [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub) | [![open](assets/open.png) available](https://github.com/chrisbinsunny/chrishub) |
 [Ignasi Monreal](https://www.ignasimonreal.com) | ![locked](assets/locked.png) private |
@@ -340,6 +341,10 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KnowledgeWorker](https://knowledgeworker.alexmeub.com) | ![locked](assets/locked.png) private |
 [Wes Dieleman](https://www.wesdieleman.com) | ![locked](assets/locked.png) private |
 [IXOS UnixStation OS](https://toth.ighor.com/cde/) | [![open](assets/open.png) available](https://github.com/igtoth/cde-motif-desktop) |
+[NovOS](https://tcode-motion.github.io/NovOS/) | [![open](assets/open.png) available](https://github.com/Tcode-Motion/NovOS) |
+[dotComputer](https://tabitha.computer) | ![locked](assets/locked.png) private |
+[KapoorOS](https://ankushhkapoor.vercel.app) | [![open](assets/open.png) available](https://github.com/ankushhKapoor/portfolio) |
+[ᑕ¥βєяรקค¢є](https://desktop.cyberspace.online) | ![locked](assets/locked.png) private |
 
 ## Archived
 

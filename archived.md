@@ -49,7 +49,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Amiga34 Germany](https://web.archive.org/web/20240222221219/http://www.amiga34.de/WB.html) |
 [Pangolin Desktop](https://github.com/dahliaOS/pangolin_desktop) |
 [SantaOS](https://web.archive.org/web/20230124112842/http://jeremymakes.com/SantaOS/) |
-[WebXP](https://web.archive.org/web/20250305213657/https://konsti.club/webSys/) |
 [Hugo Doueli \| Portfolio 2022](https://github.com/Ormidales/portfolio/) |
 [Mastodon Flock](https://github.com/WesSouza/mastodon-flock) |
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
