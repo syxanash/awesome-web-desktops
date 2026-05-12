@@ -345,6 +345,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [dotComputer](https://tabitha.computer) | ![locked](assets/locked.png) private |
 [KapoorOS](https://ankushhkapoor.vercel.app) | [![open](assets/open.png) available](https://github.com/ankushhKapoor/portfolio) |
 [ᑕ¥βєяรקค¢є](https://desktop.cyberspace.online) | ![locked](assets/locked.png) private |
+[parish.cv](https://parish.cv) | ![locked](assets/locked.png) private | VS Code-inspired developer portfolio
 
 ## Archived
 
