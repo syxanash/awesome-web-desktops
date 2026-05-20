@@ -346,6 +346,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Kowser Ahmed](https://kowser.online) | ![locked](assets/locked.png) private |
 [Wikipedia File Explorer](https://explorer.samismith.com) | ![locked](assets/locked.png) private |
 [EverestOs](https://everest-os.github.io) | [![open](assets/open.png) available](https://github.com/Everest-Os/everest-os.github.io) |
+[Daniel Brendel's Portfolio](https://www.danielbrendel.com) | [![open](assets/open.png) available](https://github.com/danielbrendel/dnyPortfolioHomepage) |
 
 ## Archived
 
