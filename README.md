@@ -241,7 +241,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [kashi-os](https://kashi-os.pages.dev) | [![open](assets/open.png) available](https://github.com/ericaugusto-git/kashi-os) |
 [RaptorOS](https://os.raptorino.com) | [![open](assets/open.png) available](https://github.com/Raptor1818/RaptorOS) |
 [mojsx](https://mojsx.vercel.app) | [![open](assets/open.png) available](https://github.com/mo-jsx/resume-95) |
-[OpenRhapsody](https://triiode.neocities.org) | ![locked](assets/locked.png) private |
 [AmogOS](https://amogos.vercel.app) | [![open](assets/open.png) available](https://github.com/daamin909/amogos) |
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
@@ -329,7 +328,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Adam Lambert '98](https://www.adamclambert.com) | ![locked](assets/locked.png) private |
 [Daylman](https://www.daylman.com) | ![locked](assets/locked.png) private |
 [Windows XP React Edition](https://react-xp.jamiepates.com) | [![open](assets/open.png) available](https://github.com/Cyanoxide/react-xp) |
-[finDOS 98](https://findos98.com/app) | ![locked](assets/locked.png) private |
 [Joey Legrand - Legacy](https://legrandnuage.ca) | ![locked](assets/locked.png) private |
 [Marsputer](https://marsputer.com) | ![locked](assets/locked.png) private |
 [IrfanSubasiXP](https://irfansubasi.com) | ![locked](assets/locked.png) private |
@@ -345,6 +343,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [dotComputer](https://tabitha.computer) | ![locked](assets/locked.png) private |
 [KapoorOS](https://ankushhkapoor.vercel.app) | [![open](assets/open.png) available](https://github.com/ankushhKapoor/portfolio) |
 [ᑕ¥βєяรקค¢є](https://desktop.cyberspace.online) | ![locked](assets/locked.png) private |
+[Kowser Ahmed](https://kowser.online) | ![locked](assets/locked.png) private |
+[Wikipedia File Explorer](https://explorer.samismith.com) | ![locked](assets/locked.png) private |
+[EverestOs](https://everest-os.github.io) | [![open](assets/open.png) available](https://github.com/Everest-Os/everest-os.github.io) |
 
 ## Archived
 
