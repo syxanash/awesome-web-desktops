@@ -75,4 +75,5 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
+[RomaOS](https://github.com/Romariojveloso-fiteclabs/portifolio) |
 [finDOS 98](https://findos98.com/app) |
