@@ -245,7 +245,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Travers Tech](https://www.travers.tech) | ![locked](assets/locked.png) private |
 [CEREZA.ZONE](https://cereza.zone) | ![locked](assets/locked.png) private |
 [Semyon's Page](https://aerosness.github.io) | [![open](assets/open.png) available](https://github.com/aerosness/aerosness.github.io) |
-[WebDesk](https://webdesk.vercel.app) | [![open](assets/open.png) available](https://github.com/randomuser691337/webdesk-stable) |
 [Wannabe XP](https://xp.xobyte.org) | [![open](assets/open.png) available](https://xp.xobyte.org/download.zip) | You can log in with any password |
 [NEEDY STREAMER OVERLOAD](https://lilithdev.neocities.org/shrine/vg/nso) | ![locked](assets/locked.png) private |
 [Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) private |
@@ -294,6 +293,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Webtop 4](https://webtop-4.vercel.app) | [![open](assets/open.png) available](https://github.com/Quicksilver-Division/Webtop-4) |
 [OS7311](https://os7311.vercel.app) | ![locked](assets/locked.png) private |
 [YanLiu Desktop OS](https://cottenpanda.github.io/yanliuos) | [![open](assets/open.png) available](https://github.com/cottenpanda/yanliuos) | Works only in<br>Chromium based browsers |
+[RomaOS](https://romadeoliveira3.github.io/portifolio/) | [![open](assets/open.png) available](https://github.com/Romadeoliveira3/portifolio) |
 [Cyber Scales Desktop](https://codlin.me/aquarium/cyber-scales-desktop) | [![open](assets/open.png) available](https://github.com/Codfisher/cod-aquarium/tree/main/content/aquarium/cyber-scales-desktop) | Some parts of the website require WebGPU |
 [河川敷](https://ksnjk.moo.jp) | ![locked](assets/locked.png) private |
 [maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
@@ -347,6 +347,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [EverestOs](https://everest-os.github.io) | [![open](assets/open.png) available](https://github.com/Everest-Os/everest-os.github.io) |
 [Daniel Brendel's Portfolio](https://www.danielbrendel.com) | [![open](assets/open.png) available](https://github.com/danielbrendel/dnyPortfolioHomepage) |
 [Murasaki's Playground](https://zixing8284.github.io/murasaki/) | [![open](assets/open.png) available](https://github.com/zixing8284/murasaki) |
+[DAX Portal](https://dax-portal.vercel.app) | [![open](assets/open.png) available](https://github.com/201Harsh/DAX-Portal) |
+[Aria](https://sumanthkm.com/aria/) | [![open](assets/open.png) available](https://github.com/skmdroid/aria) |
+[Yuki OS](https://yukios.netlify.app) | [![open](assets/open.png) available](https://github.com/Reeyuki/YukiOS) |
 
 ## Archived
 

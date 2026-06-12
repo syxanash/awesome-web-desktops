@@ -69,11 +69,11 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Renkbench](https://github.com/renkman/Renkbench) |
 [OS A24 - Y2K Movie](https://web.archive.org/web/20250315033227/https://www.y2k.movie/) |
 [OpenRhapsody](https://web.archive.org/web/20260429215311/https://triiode.neocities.org/) |
+[WebDesk](https://github.com/randomuser691337/webdesk-stable) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
 [Kas-OS](https://github.com/achtaitaipai/kas-os) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
-[RomaOS](https://github.com/Romariojveloso-fiteclabs/portifolio) |
 [finDOS 98](https://findos98.com/app) |
