@@ -1,9 +1,11 @@
-on: pull_request
+on: pull_request_target
 
 jobs:
   example_comment_pr:
     runs-on: ubuntu-latest
     name: Comment on a PR
+    permissions:
+      pull-requests: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
