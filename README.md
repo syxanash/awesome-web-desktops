@@ -350,6 +350,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [DAX Portal](https://dax-portal.vercel.app) | [![open](assets/open.png) available](https://github.com/201Harsh/DAX-Portal) |
 [Aria](https://sumanthkm.com/aria/) | [![open](assets/open.png) available](https://github.com/skmdroid/aria) |
 [Yuki OS](https://yukios.netlify.app) | [![open](assets/open.png) available](https://github.com/Reeyuki/YukiOS) |
+[IP Linux](https://ip-os-linux.vercel.app) | [![open](assets/open.png) available](https://github.com/ikerperez12/IP-OS-LINUX) | A polished React, Vite and TypeScript browser desktop environment with resizable windows, widgets, snap assist, virtual workspaces and local browser storage. |
 
 ## Archived
 
