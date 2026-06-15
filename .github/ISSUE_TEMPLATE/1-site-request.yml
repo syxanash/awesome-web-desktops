@@ -57,9 +57,9 @@ body:
       required: true
 
   - type: textarea
-    id: user-notes
+    id: access-notes
     attributes:
-      label: User notes
+      label: Access notes
       description: Add any other relevant information for the user to access your web desktop.
       placeholder: E.g. only works in chrome / user root, password toor
     validations:

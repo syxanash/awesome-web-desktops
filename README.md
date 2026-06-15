@@ -26,7 +26,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
 ## Websites
 
-| Site name | Source code | User notes |
+| Site name | Source code | Access notes |
 |---|---|---|
 [WorldWideWeb](https://worldwideweb.cern.ch/browser) | [![open](assets/open.png) available](https://worldwideweb.cern.ch/code/) |
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
