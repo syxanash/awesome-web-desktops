@@ -344,7 +344,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Kowser Ahmed](https://kowser.online) | ![locked](assets/locked.png) private |
 [Wikipedia File Explorer](https://explorer.samismith.com) | ![locked](assets/locked.png) private |
 [EverestOs](https://everest-os.github.io) | [![open](assets/open.png) available](https://github.com/Everest-Os/everest-os.github.io) |
-[Daniel Brendel's Portfolio](https://www.danielbrendel.com) | [![open](assets/open.png) available](https://github.com/danielbrendel/dnyPortfolioHomepage) |
+[Daniel Brendel's Portfolio](https://www.danielbrendel.com) | [![open](assets/open.png) available](https://github.com/danielbrendel/dnyPortfolioApp) |
 [Murasaki's Playground](https://zixing8284.github.io/murasaki/) | [![open](assets/open.png) available](https://github.com/zixing8284/murasaki) |
 [DAX Portal](https://dax-portal.vercel.app) | [![open](assets/open.png) available](https://github.com/201Harsh/DAX-Portal) |
 [Aria](https://sumanthkm.com/aria/) | [![open](assets/open.png) available](https://github.com/skmdroid/aria) |
