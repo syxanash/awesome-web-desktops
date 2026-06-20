@@ -14,7 +14,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 
   ![warning](assets/warning.png) Seizure warning: some of these websites may contain flashy animations. Viewer discretion is advised.
   
-  ![careful there](assets/careful.png) Some of these websites may include elements related to **cryptocurrencies**. I **do not endorse** any cryptocurrency products or services, and inclusion of such content does not reflect my personal views. These websites have been added solely for the aesthetic purpose of being web desktops. Users are encouraged to conduct their own research before engaging with any cryptocurrency-related content or services found within this list.
+  ![careful there](assets/careful.png) Some websites in this directory may contain **political**, ideological, or **cryptocurrency**-related content. I do **not** endorse any views, causes, organizations, products, or services associated with the featured websites or their creators. Projects are included solely based on their relevance to the theme of Web Desktops. Users are encouraged to exercise their own judgment before engaging with any external content or services.
 
   ![error](https://win98icons.alexmeub.com/icons/png/conn_network_no_phone.png) If your project is in this repo and you would like to be **delisted**, feel free to [reach out](https://simone.computer/#/contact) to me, and I'll remove all references from the main list and the archived page.
 </details>
