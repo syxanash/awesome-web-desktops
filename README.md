@@ -354,7 +354,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [IP Linux](https://ip-os-linux.vercel.app) | [![open](assets/open.png) available](https://github.com/ikerperez12/IP-OS-LINUX) |
 [Lost OS](https://lostosbeta.neocities.org) | ![locked](assets/locked.png) private |
 [Hyggshi OS](https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html) | [![open](assets/open.png) available](https://github.com/HyggshiOSDeveloper/hyggshi-os-website) |
-[cover yourself in oil](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
+[Trollsoft OIL XP](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
