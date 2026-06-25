@@ -54,14 +54,12 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
-[SilveOS.com](https://github.com/SilveOS) |
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
 [Chads Desktop](https://web.archive.org/web/20250622112131/https://www.chadhill.dev/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
 [l3S GR*S MOT$](https://web.archive.org/web/20260115054249/https://www.lesgrosmots.com/) |
-[constraint systems OS](https://github.com/constraint-systems/csOS) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Ritenv's WebOS](https://github.com/ritenv/retro-desktop) |

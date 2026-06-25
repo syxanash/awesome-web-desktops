@@ -154,6 +154,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [sue roh](https://sueroh.com) | ![locked](assets/locked.png) private |
 [Windows 11 Web](https://rajaniraiyn.github.io/windows11/) | [![open](assets/open.png) available](https://github.com/Rajaniraiyn/windows11) |
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](assets/open.png) available](https://github.com/sosophia10/Time-Capsule) |
+[SilveOS.com](https://www.silveos.com) | [![open](assets/open.png) available](https://github.com/SilveOS) |
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](assets/locked.png) private |
 [Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
@@ -186,6 +187,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [HIFI Labs OS](https://hifilabs.co) | ![locked](assets/locked.png) private |
 [Based](https://www.based.gg) | ![locked](assets/locked.png) private |
 [ModernActiveDesktop](https://madesktop.ingan121.com) | [![open](assets/open.png) available](https://github.com/Ingan121/ModernActiveDesktop) |
+[constraint systems OS](https://csos.constraint.systems) | [![open](assets/open.png) available](https://github.com/constraint-systems/csOS) |
 [PeOS](https://picturelements.github.io) | [![open](assets/open.png) available](https://github.com/PicturElements/picturelements.github.io) |
 [Tansoftware OS](https://tansoftware.com/os) | ![locked](assets/locked.png) private |
 [Brunc.io](https://brunc.io) | [![open](assets/open.png) available](https://github.com/bamanczak/bruncio) |
@@ -350,6 +352,9 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Aria](https://sumanthkm.com/aria/) | [![open](assets/open.png) available](https://github.com/skmdroid/aria) |
 [Yuki OS](https://yukios.netlify.app) | [![open](assets/open.png) available](https://github.com/Reeyuki/YukiOS) |
 [IP Linux](https://ip-os-linux.vercel.app) | [![open](assets/open.png) available](https://github.com/ikerperez12/IP-OS-LINUX) |
+[Lost OS](https://lostosbeta.neocities.org) | ![locked](assets/locked.png) private |
+[Hyggshi OS](https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html) | [![open](assets/open.png) available](https://github.com/HyggshiOSDeveloper/hyggshi-os-website) |
+[cover yourself in oil](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
 
 ## Archived
 
