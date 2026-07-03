@@ -158,7 +158,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](assets/locked.png) private |
 [Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
-[Joy Yiu](https://www.joyyiu.com) | ![locked](assets/locked.png) private |
 [DROPS](https://drops.maxvphillips.com) | [![open](assets/open.png) available](https://github.com/maxvp/drops) |
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) private |
