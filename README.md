@@ -84,7 +84,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [56k-modem](https://56k-modem.online) | ![locked](assets/locked.png) private |
 [RACER TRASH](https://racertrash.com) | ![locked](assets/locked.png) private |
 [Vuindows](https://marcmascarell.github.io/Vuindows/) | [![open](assets/open.png) available](https://github.com/marcmascarell/Vuindows) |
-[Gustavo Chico](https://gustavochico.com/desktop) | ![locked](assets/locked.png) private |
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](assets/locked.png) private |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](assets/locked.png) private |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
@@ -286,7 +285,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [陈刑OS](https://chenxing-dev.github.io) | [![open](assets/open.png) available](https://github.com/chenxing-dev/chenxing-dev.github.io) |
 [MitchIvin XP](https://mitchivin.com) | ![locked](assets/locked.png) private |
 [nekOS](https://oodlecat.meowandsparkle.party/nekOS.html) | ![locked](assets/locked.png) private |
-[TerbiumonOS](https://terbiumon.top) | [![open](assets/open.png) available](https://github.com/TerbiumOS/web-v2) | You can log in with any<br>username and password |
 [Sohail Sayed](https://www.sohailsayed.com) | [![open](assets/open.png) available](https://github.com/SohailSayed/winxp-personal-website) |
 [Rafindows 95](https://rafaheras.dev) | ![locked](assets/locked.png) private |
 [corow.net](https://corow.net) | ![locked](assets/locked.png) private |
@@ -304,7 +302,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user<br>in the login screen first<br>before accessing the desktop |
 [Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
 [Ubuntu Linux Website](https://www.damianb.dev) | [![open](assets/open.png) available](https://github.com/DamianB-BitFlipper/DamianB-BitFlipper.github.io) |
-[So Many Diamonds](https://fictioningcomfort.space/so-many-diamonds/) | ![locked](assets/locked.png) private |
 [project vv](https://projectvv.de) | ![locked](assets/locked.png) private |
 [LeoCodes](https://leocodes.vercel.app) | [![open](assets/open.png) available](https://github.com/leonardonapoless/leocodes) |
 [Linux OS Clone](https://linux-next.vercel.app) | [![open](assets/open.png) available](https://github.com/hey-Zayn/ArchLinux-OS) |

@@ -26,6 +26,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
+[Gustavo Chico](https://web.archive.org/web/20221213182021/https://gustavochico.com/desktop) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
 [Unremarkable Garden](https://web.archive.org/web/20250315105005/https://unremarkablegarden.com/) |
@@ -74,5 +75,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Kas-OS](https://github.com/achtaitaipai/kas-os) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
+[TerbiumonOS](https://github.com/TerbiumOS/web-v2) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
+[So Many Diamonds](https://web.archive.org/web/20220401074943/https://fictioningcomfort.space/so-many-diamonds/) |
 [finDOS 98](https://findos98.com/app) |
