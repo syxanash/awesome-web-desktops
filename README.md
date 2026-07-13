@@ -261,6 +261,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [CrossWord](https://u2re.space) | [![open](assets/open.png) available](https://github.com/u2re-space/crossword) | Works only in<br>Chromium based browsers |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
 [Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
+[Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 [Linux on the Web](https://linuxontheweb.github.io/desk/) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
 [H.H.Roses](https://hhroses.neocities.org) | ![locked](assets/locked.png) private |
@@ -352,6 +353,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Lost OS](https://lostosbeta.neocities.org) | ![locked](assets/locked.png) private |
 [Hyggshi OS](https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html) | [![open](assets/open.png) available](https://github.com/HyggshiOSDeveloper/hyggshi-os-website) |
 [Trollsoft OIL XP](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
+[ZezinOS](https://zezinos.site) | [![open](assets/open.png) available](https://github.com/jm-works/ZezinOS) | You can log in with any password |
+[akarmainOS](https://akarmain.ru) | ![locked](assets/locked.png) private |
 
 ## Archived
 

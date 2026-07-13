@@ -72,7 +72,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [WebDesk](https://github.com/randomuser691337/webdesk-stable) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
-[Kas-OS](https://github.com/achtaitaipai/kas-os) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [TerbiumonOS](https://github.com/TerbiumOS/web-v2) |
