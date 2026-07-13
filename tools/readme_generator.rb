@@ -23,8 +23,13 @@ readme_footer = readme_content.match(/## Archived\n*.*?$/m)[0]
 readme_links_table = ''
 archived_links_table = ''
 
+main_list_updated = false
+archived_list_updated = false
+
 websites_object.select { |website| website['archive'].empty? }.each do |website|
   escaped_website_name = escape_markdown(website['name'])
+  main_list_updated ||= !readme_content.include?(escaped_website_name)
+
   readme_links_table += "[#{escaped_website_name}](#{website['url']}) |"
 
   readme_links_table += if website['source'].empty?
@@ -43,8 +48,19 @@ File.write(readme_file_name, readme_file_content)
 
 websites_object.reject { |website| website['archive'].empty? }.each do |website|
   escaped_website_name = escape_markdown(website['name'])
+
+  archived_list_updated ||= !archived_content.include?(escaped_website_name)
+
   archived_links_table += "[#{escaped_website_name}](#{website['archive']}) |\n"
 end
 
 archived_file_content = "#{archived_header}\n#{archived_links_table}"
 File.write(archived_file_name, archived_file_content)
+
+if main_list_updated
+  puts 'List has been updated!'
+else
+  puts 'Nothing to update on the main list...'
+end
+
+puts 'Some entries were archived!' if archived_list_updated
