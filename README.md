@@ -355,6 +355,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Trollsoft OIL XP](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
 [ZezinOS](https://zezinos.site) | [![open](assets/open.png) available](https://github.com/jm-works/ZezinOS) | You can log in with any password |
 [akarmainOS](https://akarmain.ru) | ![locked](assets/locked.png) private |
+[Navi OS](https://gilleece.github.io/Navi-Os/) | [![open](assets/open.png) available](https://github.com/Gilleece/Navi-Os) |
 
 ## Archived
 
