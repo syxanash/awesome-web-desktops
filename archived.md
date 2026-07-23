@@ -42,6 +42,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Noam Rubin](https://web.archive.org/web/20250315041558/https://www.noam-rubin.com/) |
 [Cobra!'s Website](https://web.archive.org/web/20230418124801/https://cobradile.neocities.org/index.en) |
 [Alina Sava](https://web.archive.org/web/20230326163643/https://sava.io/) |
+[Puter](https://github.com/heyPuter/puter/) |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
 [FoundationOS](https://web.archive.org/web/20240501000000*/https://os.foundation.app/) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
@@ -72,6 +73,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [WebDesk](https://github.com/randomuser691337/webdesk-stable) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
+[CrossWord](https://github.com/u2re-space/crossword) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [TerbiumonOS](https://github.com/TerbiumOS/web-v2) |

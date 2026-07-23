@@ -11,7 +11,7 @@ end
 readme_file_name = '../README.md'
 archived_file_name = '../archived.md'
 
-websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/development/src/resources/remote-desktops.json'))
+websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/refs/heads/development/src/resources/remote-desktops.json'))
 readme_content = File.read(readme_file_name)
 archived_content = File.read(archived_file_name)
 
