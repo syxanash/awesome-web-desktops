@@ -355,6 +355,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [akarmainOS](https://akarmain.ru) | ![locked](assets/locked.png) private |
 [Navi OS](https://gilleece.github.io/Navi-Os/) | [![open](assets/open.png) available](https://github.com/Gilleece/Navi-Os) |
 [Dustin Mierau](https://dustin.works) | ![locked](assets/locked.png) private |
+[TempleOS-Web](https://templeosweb.netlify.app) | [![open](assets/open.png) available](https://github.com/ParkerrDev/TempleOS-Web) |
 
 ## Archived
 
