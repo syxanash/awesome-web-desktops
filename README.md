@@ -357,6 +357,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Dustin Mierau](https://dustin.works) | ![locked](assets/locked.png) private |
 [Temple OS Web](https://templeosweb.netlify.app) | [![open](assets/open.png) available](https://github.com/ParkerrDev/TempleOS-Web) |
 [jaryqOS](https://jaryq.neocities.org) | ![locked](assets/locked.png) private |
+[Demovibes Mixtapes](https://www.demovibes.org) | ![locked](assets/locked.png) private |
+[macOS Web](https://starknightt.github.io/macos-web/) | [![open](assets/open.png) available](https://github.com/StarKnightt/macos-web) |
 
 ## Archived
 
