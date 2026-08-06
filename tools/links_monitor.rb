@@ -66,6 +66,20 @@ jarow = FuzzyStringMatch::JaroWinkler.create(:native)
 archive_directory = File.expand_path('~/.cache/wd-archive')
 
 active_websites = websites_object.select { |website| website['archive'].empty? }
+ignored_websites = websites_object.reject { |website| website['archive'].empty? }
+cleaned_ignore_list = false
+
+puts '[?] Checking ignored list...'
+
+ignored_websites.each do |website|
+  next unless ignored_links.include?(website['url'])
+
+  puts "[!] Removing #{website['url']} from ignored list.".cyan
+  ignored_links.delete(website['url'])
+  cleaned_ignore_list = true
+end
+
+File.write('ignore_list.json', ignored_links.to_json) if cleaned_ignore_list
 
 active_websites.each_with_index do |website_obj, index|
   directory_name = "#{archive_directory}/#{sanitize_filename(website_obj['name'])}"
