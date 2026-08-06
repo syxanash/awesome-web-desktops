@@ -69,6 +69,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
 [OS A24 - Y2K Movie](https://web.archive.org/web/20250315033227/https://www.y2k.movie/) |
+[public access memories](https://web.archive.org/web/*/https://publicaccessmemories.com/) |
 [OpenRhapsody](https://web.archive.org/web/20260429215311/https://triiode.neocities.org/) |
 [WebDesk](https://github.com/randomuser691337/webdesk-stable) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
