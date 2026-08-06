@@ -360,7 +360,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [macOS Web](https://starknightt.github.io/macos-web/) | [![open](assets/open.png) available](https://github.com/StarKnightt/macos-web) |
 [ElyraOS](https://elyraos.com) | [![open](assets/open.png) available](https://github.com/x-frst/elyraos) |
 [RESHAV_OS](https://personal-os-pi-neon.vercel.app) | [![open](assets/open.png) available](https://github.com/koley-dev-08/personal-os) |
-[FDE Desktop Environment](https://frannunpal.github.io) | [![open](assets/open.png) available](https://github.com/frannunpal/frannunpal.github.io) |
+[FDE Desktop](https://frannunpal.github.io) | [![open](assets/open.png) available](https://github.com/frannunpal/frannunpal.github.io) |
 
 ## Archived
 
