@@ -364,6 +364,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RESHAV_OS](https://personal-os-pi-neon.vercel.app) | [![open](assets/open.png) available](https://github.com/koley-dev-08/personal-os) |
 [FDE Desktop](https://frannunpal.github.io) | [![open](assets/open.png) available](https://github.com/frannunpal/frannunpal.github.io) |
 [RobbyOS](https://robbyyeager.com) | ![locked](assets/locked.png) private |
+[AI System 6](https://system6.aaronlau.me) | [![open](assets/open.png) available](https://github.com/surfine/AI-System-6) |
+[scottOS](https://scott.is) | ![locked](assets/locked.png) private |
 
 ## Archived
 
