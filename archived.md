@@ -57,7 +57,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
-[Hypertalking](https://web.archive.org/web/20260625181440/https://hypertalking.com/) |
 [Joy Yiu](https://web.archive.org/web/20230204054510/https://www.joyyiu.com) |
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |

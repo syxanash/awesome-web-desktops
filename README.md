@@ -153,6 +153,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](assets/open.png) available](https://github.com/sosophia10/Time-Capsule) |
 [SilveOS.com](https://www.silveos.com) | [![open](assets/open.png) available](https://github.com/SilveOS) |
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](assets/locked.png) private |
+[Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
 [DROPS](https://drops.maxvphillips.com) | [![open](assets/open.png) available](https://github.com/maxvp/drops) |
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
