@@ -9,6 +9,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
 [Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
+[Mariano Pascual](https://web.archive.org/web/20250424124441/https://www.marianopascual.me/) |
 [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
@@ -56,12 +57,14 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Sergio Diaz Schiaffino](https://web.archive.org/web/20240425135157/https://www.sergiodiazschiaffino.com/) |
 [chloédigital](https://web.archive.org/web/20230412051508/https://chloedigital.com/) |
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
+[Hypertalking](https://web.archive.org/web/20260625181440/https://hypertalking.com/) |
 [Joy Yiu](https://web.archive.org/web/20230204054510/https://www.joyyiu.com) |
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
 [l3S GR*S MOT$](https://web.archive.org/web/20260115054249/https://www.lesgrosmots.com/) |
+[Grovy Website](https://web.archive.org/web/20240726003251/https://grovy.space/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Vtron](https://github.com/royalknight56/vtron) |

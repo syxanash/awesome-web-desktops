@@ -41,7 +41,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Geek Prank](https://geekprank.com) | ![locked](assets/locked.png) private |
 [Eric Bernacchi](https://eeerik.com) | ![locked](assets/locked.png) private |
 [OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
-[Mariano Pascual](https://www.marianopascual.me) | ![locked](assets/locked.png) private |
 [AfterStep WM](http://www.afterstep.org) | ![locked](assets/locked.png) private | Only runs on HTTP |
 [98.js](https://98.js.org) | [![open](assets/open.png) available](https://github.com/1j01/98) |
 [Broken Reality](https://brokenrealitygame.tumblr.com) | ![locked](assets/locked.png) private |
@@ -154,7 +153,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Sophia's Time Capsule](https://sosophia10.github.io/Time-Capsule/index/desktop.html) | [![open](assets/open.png) available](https://github.com/sosophia10/Time-Capsule) |
 [SilveOS.com](https://www.silveos.com) | [![open](assets/open.png) available](https://github.com/SilveOS) |
 [Quentin OS/2](https://www.quentin.xyz) | ![locked](assets/locked.png) private |
-[Hypertalking](https://www.hypertalking.com) | ![locked](assets/locked.png) private |
 [DOODAD](https://doodad.dev) | ![locked](assets/locked.png) private |
 [DROPS](https://drops.maxvphillips.com) | [![open](assets/open.png) available](https://github.com/maxvp/drops) |
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
@@ -196,7 +194,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [louisthings.OS](https://portfolio.louisthings.com) | ![locked](assets/locked.png) private |
 [Windo 8_1](https://cseriestechhero.github.io/kiosk-setup/services/redir/basepage8_1/session) | [![open](assets/open.png) available](https://github.com/CSeriestechhero/kiosk-setup/tree/main/services/redir/) |
 [Joey de Ruiter](https://joeyderuiter.me) | [![open](assets/open.png) available](https://github.com/0xJ0EY/Portfolio-next) |
-[Grovy Website](https://grovy.space) | ![locked](assets/locked.png) private |
 [ProzillaOS](https://os.prozilla.dev) | [![open](assets/open.png) available](https://github.com/prozilla-os/ProzillaOS) |
 [hat.fo](https://ud2-sh-next-aaa25mk3e-hatf0-s-team.vercel.app) | ![locked](assets/locked.png) private |
 [JSDesk](https://mmuii.github.io/jsdesk/) | [![open](assets/open.png) available](https://github.com/MMuii/jsdesk) |
