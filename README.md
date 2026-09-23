@@ -364,6 +364,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RobbyOS](https://robbyyeager.com) | ![locked](assets/locked.png) private |
 [AI System 6](https://system6.aaronlau.me) | [![open](assets/open.png) available](https://github.com/surfine/AI-System-6) |
 [scottOS](https://scott.is) | ![locked](assets/locked.png) private |
+[Bookmark OS](https://chengmarc.com) | [![open](assets/open.png) available](https://github.com/chengmarc/chengmarc.github.io) |
 
 ## Archived
 
