@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-ruby '3.3.0'
+ruby '4.0.7'
 
 gem 'colorize'
-gem 'fuzzy-string-match'
+gem 'jaro_winkler'
 gem 'rest-client'
 gem 'selenium-webdriver'

@@ -2,7 +2,7 @@ require 'selenium-webdriver'
 require 'json'
 require 'rest-client'
 require 'colorize'
-require 'fuzzystringmatch'
+require 'jaro_winkler'
 require 'fileutils'
 
 SIMILARITY_THRESHOLD = 70
@@ -62,7 +62,6 @@ end
 websites_object = JSON.parse(RestClient.get('https://raw.githubusercontent.com/syxanash/syxanash.github.io/development/src/resources/remote-desktops.json'))
 ignored_links = JSON.parse(File.read('ignore_list.json'))
 links_to_inspect = []
-jarow = FuzzyStringMatch::JaroWinkler.create(:native)
 archive_directory = File.expand_path('~/.cache/wd-archive')
 
 active_websites = websites_object.select { |website| website['archive'].empty? }
@@ -141,7 +140,7 @@ active_websites.each_with_index do |website_obj, index|
       first_file = File.read("#{directory_name}/recent.html")
       second_file = File.read("#{directory_name}/previous.html")
 
-      if jarow.getDistance(first_file, second_file).to_f * 100 < SIMILARITY_THRESHOLD
+      if JaroWinkler.similarity(first_file, second_file) * 100 < SIMILARITY_THRESHOLD
         puts ''
         puts '[?] Found differences in:'.yellow
         puts website_obj['url']
