@@ -16,6 +16,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
 [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 [And Gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
+[www.chiptune.com](https://web.archive.org/web/20190901114711/http://www.chiptune.com/) |
 [Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
 [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 [CloudDesk](https://web.archive.org/web/20240721035014/https://www.altaica.altervista.org/) |
@@ -59,6 +60,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [KeYGeN](https://web.archive.org/web/20230204054510/https://keyge.nz/) |
 [Joy Yiu](https://web.archive.org/web/20230204054510/https://www.joyyiu.com) |
 [thatDaria](https://web.archive.org/web/20220308153642/https://thatdaria.com/) |
+[Chads Desktop](https://web.archive.org/web/20250224181647/https://www.chadhill.dev/) |
 [Alec Babala](https://web.archive.org/web/20240302040254/https://alecbabala.com/) |
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
@@ -76,6 +78,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
 [LeagueOS](https://web.archive.org/web/20250325192338/https://leagueos.org/) |
 [CrossWord](https://github.com/u2re-space/crossword) |
+[Areen's Portfolio](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |

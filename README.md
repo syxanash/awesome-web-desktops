@@ -48,7 +48,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Whimsy Space](https://whimsy.space) | [![open](assets/open.png) available](https://github.com/STRd6/zine) |
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) private |
-[www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) private | Only runs on HTTP |
 [mattOS](https://matthewpmunger-v2.webflow.io) | ![locked](assets/locked.png) private |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
@@ -158,7 +157,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [DeskPortal](https://demo.deskportal.com) | ![locked](assets/locked.png) private |
 [lover.os](https://lostlove.neocities.org) | ![locked](assets/locked.png) private |
 [Buddy Pond](https://buddypond.com) | [![open](assets/open.png) available](https://github.com/marak/buddypond) |
-[Chads Desktop](https://www.chadhill.dev) | ![locked](assets/locked.png) private |
 [Game Database](https://refuge.tokyo) | ![locked](assets/locked.png) private |
 [GreyOS](https://greyos.gr) | [![open](assets/open.png) available](https://github.com/g0d/GreyOS) | login: `demo@greyos.gr` / `password` |
 [Henry Heffernan](https://henryheffernan.com) | [![open](assets/open.png) available](https://github.com/henryjeff/portfolio-website) |
@@ -255,7 +253,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [eyeOS](https://os.eyemono.moe) | [![open](assets/open.png) available](https://github.com/eyemono-moe/eye-os) |
 [Sam's Desktop](https://sams-desktop.framer.website/home) | ![locked](assets/locked.png) private |
 [Web-Workbench](https://lammpee.de) | [![open](assets/open.png) available](https://github.com/ThornWalli/web-workbench) |
-[Areen's Portfolio](https://www.areen.xyz) | [![open](assets/open.png) available](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Kas-OS](https://achtaitaipai.com) | [![open](assets/open.png) available](https://github.com/achtaitaipai/kas-os) |
 [Linux on the Web](https://linuxontheweb.github.io/desk/) | [![open](assets/open.png) available](https://github.com/linuxontheweb/linuxontheweb.github.io) |
 [Kenny Hui's Desktop](https://desktop.kennyhui.dev) | [![open](assets/open.png) available](https://github.com/khui0/kennyhui-desktop) |
@@ -364,6 +361,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [scottOS](https://scott.is) | ![locked](assets/locked.png) private |
 [Bookmark OS](https://chengmarc.com) | [![open](assets/open.png) available](https://github.com/chengmarc/chengmarc.github.io) |
 [Solitaire Alone Together](https://solitairealonetogether.com) | ![locked](assets/locked.png) private |
+[Fuheshka](https://fuheshka.is-a.dev) | [![open](assets/open.png) available](https://github.com/Fuheshka/portfolio) |
 
 ## Archived
 
