@@ -65,7 +65,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [FullStacked](https://github.com/fullstackedorg/workspace) |
 [Bianca Mkaila](https://web.archive.org/web/20240901135406/http://bianca.digital/) |
 [l3S GR*S MOT$](https://web.archive.org/web/20260115054249/https://www.lesgrosmots.com/) |
-[Grovy Website](https://web.archive.org/web/20240726003251/https://grovy.space/) |
 [An Ordinary Portfolio Page of Derya](https://web.archive.org/web/20250118040705/http://deryasdesktop.com/) |
 [linuxWeb](https://github.com/Manthee1/linuxWeb) |
 [Vtron](https://github.com/royalknight56/vtron) |
