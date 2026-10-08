@@ -79,8 +79,11 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [CrossWord](https://github.com/u2re-space/crossword) |
 [Areen's Portfolio](https://github.com/areenoverclouds/xp-portfolio-public) |
 [Timewatcher OS](https://web.archive.org/web/20250213101115/https://timewatcher.neocities.org/) |
+[4ndyOS](https://web.archive.org/web/20250729033100/https://andy64lol.github.io/4ndyOS/) |
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
+[河川敷](https://web.archive.org/web/20260324235710/https://ksnjk.moo.jp/) |
+[Ubuntu Linux Website](https://web.archive.org/web/20260109071125/https://www.damianb.dev/) |
 [So Many Diamonds](https://web.archive.org/web/20220401074943/https://fictioningcomfort.space/so-many-diamonds/) |
 [OS(KO)](https://web.archive.org/web/20260907155358/https://cmdkolab.github.io/osko/) |
 [finDOS 98](https://findos98.com/app) |

@@ -265,7 +265,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hatim Benhsain](https://hatimbenhsain.github.io) | [![open](assets/open.png) available](https://github.com/hatimbenhsain/hatimbenhsain.github.io) |
 [lok.computer](https://lok.computer) | ![locked](assets/locked.png) private |
 [Mac Themes Garden](https://macthemes.garden) | ![locked](assets/locked.png) private |
-[4ndyOS](https://andy64lol.github.io/4ndyOS/) | [![open](assets/open.png) available](https://github.com/andy64lol/4ndyOS) |
 [my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
 [Paul's Web Desktop](https://peaberberian.github.io) | [![open](assets/open.png) available](https://github.com/peaBerberian/peaberberian.github.io) |
 [ClaireOS](https://www.clairewang.co) | ![locked](assets/locked.png) private |
@@ -289,14 +288,12 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [YanLiu Desktop OS](https://cottenpanda.github.io/yanliuos) | [![open](assets/open.png) available](https://github.com/cottenpanda/yanliuos) | Works only in<br>Chromium based browsers |
 [RomaOS](https://romariojonas.com) | [![open](assets/open.png) available](https://github.com/Romadeoliveira3/portifolio) |
 [Cyber Scales Desktop](https://codlin.me/aquarium/cyber-scales-desktop) | [![open](assets/open.png) available](https://github.com/Codfisher/cod-aquarium/tree/main/content/aquarium/cyber-scales-desktop) | Some parts of the website require WebGPU |
-[河川敷](https://ksnjk.moo.jp) | ![locked](assets/locked.png) private |
 [maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
 [Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
 [HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
 [Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user<br>in the login screen first<br>before accessing the desktop |
 [Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
-[Ubuntu Linux Website](https://www.damianb.dev) | [![open](assets/open.png) available](https://github.com/DamianB-BitFlipper/DamianB-BitFlipper.github.io) |
 [project vv](https://projectvv.de) | ![locked](assets/locked.png) private |
 [LeoCodes](https://leocodes.vercel.app) | [![open](assets/open.png) available](https://github.com/leonardonapoless/leocodes) |
 [Linux OS Clone](https://linux-next.vercel.app) | [![open](assets/open.png) available](https://github.com/hey-Zayn/ArchLinux-OS) |
