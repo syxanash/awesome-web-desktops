@@ -363,6 +363,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Wiesław's Mac OS 9](https://wieslawsoltes.github.io/MacOS9/) | [![open](assets/open.png) available](https://github.com/wieslawsoltes/MacOS9) |
 [Wiesław's Windows Vista](https://wieslawsoltes.github.io/WinVista/) | [![open](assets/open.png) available](https://github.com/wieslawsoltes/WinVista) |
 [Wiesław's Windows 3.1](https://wieslawsoltes.github.io/Win31/) | [![open](assets/open.png) available](https://github.com/wieslawsoltes/Win31) |
+[PhreshOS](https://demo.phreshos.com) | [![open](assets/open.png) available](https://github.com/PhreshOS/system) | You can enter random<br>user and password |
+[Murasaki's Windows 98 Desktop](https://zixing8284.github.io/murasaki/) | [![open](assets/open.png) available](https://github.com/zixing8284/murasaki) |
 
 ## Archived
 
