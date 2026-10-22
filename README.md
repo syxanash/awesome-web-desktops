@@ -32,7 +32,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
 [Ash Kyd](https://ashk.au) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
-[Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](assets/locked.png) private |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](assets/locked.png) private |
 [Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
 [The Restart Page](http://www.therestartpage.com) | ![locked](assets/locked.png) private |
@@ -267,7 +266,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Mac Themes Garden](https://macthemes.garden) | ![locked](assets/locked.png) private |
 [my old computer](https://www.windows98.website) | [![open](assets/open.png) available](https://github.com/xero/windows98.website) |
 [Paul's Web Desktop](https://peaberberian.github.io) | [![open](assets/open.png) available](https://github.com/peaBerberian/peaberberian.github.io) |
-[ClaireOS](https://www.clairewang.co) | ![locked](assets/locked.png) private |
 [soso radio](https://www.sosoradio.co) | ![locked](assets/locked.png) private |
 [PortfolioXP](https://pauljaguin.com) | [![open](assets/open.png) available](https://github.com/UnMugViolet/portfolio) |
 [LisaGUI](https://alpha.lisagui.com) | ![locked](assets/locked.png) private |
@@ -365,6 +363,8 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Wiesław's Windows 3.1](https://wieslawsoltes.github.io/Win31/) | [![open](assets/open.png) available](https://github.com/wieslawsoltes/Win31) |
 [PhreshOS](https://demo.phreshos.com) | [![open](assets/open.png) available](https://github.com/PhreshOS/system) | You can enter random<br>user and password |
 [iTom](https://tommybiglow.com) | ![locked](assets/locked.png) private |
+[A Macintosh in 1997](https://dialup.rip) | ![locked](assets/locked.png) private |
+[COMETLINK 96](https://56k.rip) | ![locked](assets/locked.png) private |
 
 ## Archived
 
