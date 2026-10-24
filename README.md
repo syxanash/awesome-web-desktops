@@ -365,6 +365,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [iTom](https://tommybiglow.com) | ![locked](assets/locked.png) private |
 [A Macintosh in 1997](https://dialup.rip) | ![locked](assets/locked.png) private |
 [COMETLINK 96](https://56k.rip) | ![locked](assets/locked.png) private |
+[KWSX Radio](https://radio.kwsx.online) | ![locked](assets/locked.png) private |
 
 ## Archived
 
