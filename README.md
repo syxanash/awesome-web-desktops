@@ -68,7 +68,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [NyjaOS](https://signal3.neocities.org) | ![locked](assets/locked.png) private |
 [Windows 95 Replica](https://derplayer.neocities.org/repo/win/) | ![locked](assets/locked.png) private |
 [The Indie Web](https://theindieweb.com) | [![open](assets/open.png) available](https://github.com/tholman/tholman-blog) |
-[hannah blair \| developer & designer](https://hannahblair.co.uk) | ![locked](assets/locked.png) private |
 [98 KAGE](https://ka.ge) | [![open](assets/open.png) available](https://github.com/pkage/98) |
 [Windows 1.0](https://win1.krnl386.com) | ![locked](assets/locked.png) private |
 [glenda.party](https://glenda.0x46.net) | ![locked](assets/locked.png) private |
@@ -76,14 +75,12 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Repeater](https://repeater.space) | ![locked](assets/locked.png) private |
 [WuerfelDev](https://wuerfeldev.de) | ![locked](assets/locked.png) private |
 [Make WordArt](https://makewordart.com) | ![locked](assets/locked.png) private |
-[ytOS](https://ytcracker.com/v2014/) | ![locked](assets/locked.png) private |
 [56k-modem](https://56k-modem.online) | ![locked](assets/locked.png) private |
 [RACER TRASH](https://racertrash.com) | ![locked](assets/locked.png) private |
 [Vuindows](https://marcmascarell.github.io/Vuindows/) | [![open](assets/open.png) available](https://github.com/marcmascarell/Vuindows) |
 [digital-r41n](https://digital-r41n.neocities.org) | ![locked](assets/locked.png) private |
 [Online Hacker Simulator](https://pranx.com/hacker/) | ![locked](assets/locked.png) private |
 [Tetrageddon Games](http://tetrageddon.com) | ![locked](assets/locked.png) private |
-[My Second PC](https://koas.dev/m2pc/dinamicos/) | [![open](assets/open.png) available](https://github.com/koas/my-second-pc) |
 [ToxicCode.com](http://toxiccode.com) | ![locked](assets/locked.png) private |
 [HyNET Geocity](https://hyena.network/geocity/) | ![locked](assets/locked.png) private |
 [FLEXEDUPSHAWTY.COM](https://flexedupshawty.com) | ![locked](assets/locked.png) private |

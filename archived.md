@@ -24,14 +24,17 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
 [Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
+[hannah blair \| developer & designer](https://web.archive.org/web/20261007015646/https://hannahblair.co.uk/) |
 [erdOS](https://web.archive.org/web/20250613014015/https://erd-os.iamerd.xyz/) |
 [Maxime Elkael](https://github.com/melkael/melkael.github.io) |
 [some kind of blog](https://web.archive.org/web/20230119160309/https://blog.aimen.me) |
 [Glass Animals OPEN SOURCE](https://web.archive.org/web/20240206052521/https://opensource.glassanimals.com/) |
+[ytOS](https://web.archive.org/web/20251004163003/https://ytcracker.com/v2014/) |
 [CutOut Fest](https://web.archive.org/web/20210608201545/https://cutoutfest.com/) |
 [Gustavo Chico](https://web.archive.org/web/20221213182021/https://gustavochico.com/desktop) |
 [KryptOS](https://web.archive.org/web/20221213182021/https://kry.pt/) |
 [AWGE - Forum](https://web.archive.org/web/20220123064312/https://forums.awgeshit.com/) |
+[My Second PC](https://web.archive.org/web/20261007015725/https://koas.dev/m2pc/dinamicos/) |
 [Unremarkable Garden](https://web.archive.org/web/20250315105005/https://unremarkablegarden.com/) |
 [Herzeleid Rammstein](https://web.archive.org/web/20201014005524/https://www.rammstein.de/de/) |
 [Novov - Software I use](https://web.archive.org/web/20230521025332/https://novov.me/liked/software) |
