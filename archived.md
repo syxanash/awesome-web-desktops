@@ -19,6 +19,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [And Gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
 [www.chiptune.com](https://web.archive.org/web/20190901114711/http://www.chiptune.com/) |
 [Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
+[The Macpaint Gallery](https://web.archive.org/web/20250528020613/https://www.macpaint.org/) |
 [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 [CloudDesk](https://web.archive.org/web/20240721035014/https://www.altaica.altervista.org/) |
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |

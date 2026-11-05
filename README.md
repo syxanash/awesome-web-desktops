@@ -51,7 +51,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
 [Jurassic Systems](https://jurassicsystems.com) | [![open](assets/open.png) available](https://github.com/tojrobinson/jurassicsystems.com) |
-[The Macpaint Gallery](https://www.macpaint.org) | ![locked](assets/locked.png) private |
 [N10.AS RADIO](https://n10.as) | ![locked](assets/locked.png) private |
 [Rahul.io](https://rahul.io) | [![open](assets/open.png) available](https://github.com/lolstring/window98-html-css-js) |
 [EmuOS](https://emupedia.net/beta/emuos/) | [![open](assets/open.png) available](https://github.com/Emupedia/emupedia.github.io) |
