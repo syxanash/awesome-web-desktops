@@ -362,6 +362,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [A Macintosh in 1997](https://dialup.rip) | ![locked](assets/locked.png) private |
 [COMETLINK 96](https://56k.rip) | ![locked](assets/locked.png) private |
 [KWSX Radio](https://radio.kwsx.online) | ![locked](assets/locked.png) private |
+[VAMPII.OS](https://vampuwu.github.io/vampii-os/) | [![open](assets/open.png) available](https://github.com/Vampuwu/vampii-os) |
 
 ## Archived
 
