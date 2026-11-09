@@ -25,6 +25,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 - [Archived](#archived)
 
 ## Websites
+- [Needle by Yorben](https://yorben.me/#needle) - Crafting native desktop & web experiences beside the macOS Dock.
 
 | Site name | Source code | Access notes |
 |---|---|---|
