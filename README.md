@@ -240,7 +240,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | [![open](assets/open.png) available](https://github.com/M-Valentino/sacredOS) |
-[ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
+[ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/ryos) |
 [Ugly Duckling](https://cyanbanister.com) | ![locked](assets/locked.png) private |
 [1-bit rainbow](https://www.1bitrainbow.co.uk) | ![locked](assets/locked.png) private |
 [Gaiabots](https://gaiabots.neocities.org) | ![locked](assets/locked.png) private |
@@ -349,7 +349,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [RESHAV_OS](https://personal-os-pi-neon.vercel.app) | [![open](assets/open.png) available](https://github.com/koley-dev-08/personal-os) |
 [FDE Desktop](https://frannunpal.github.io) | [![open](assets/open.png) available](https://github.com/frannunpal/frannunpal.github.io) |
 [RobbyOS](https://robbyyeager.com) | ![locked](assets/locked.png) private |
-[AI System 6](https://system6.aaronlau.me) | [![open](assets/open.png) available](https://github.com/surfine/AI-System-6) |
+[AI System 6](https://system6.aaronlau.me) | [![open](assets/open.png) available](https://github.com/surfine/AI-System-6) | A local-first writing desk where AI never becomes your voice: the route from raw questions to a finished piece runs entirely in your browser, under a 1988 budget. |
 [scottOS](https://scott.is) | ![locked](assets/locked.png) private |
 [Bookmark OS](https://chengmarc.com) | [![open](assets/open.png) available](https://github.com/chengmarc/chengmarc.github.io) |
 [Solitaire Alone Together](https://solitairealonetogether.com) | ![locked](assets/locked.png) private |
