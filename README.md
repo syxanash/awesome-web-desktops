@@ -240,7 +240,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Laurus Edelbacher](https://www.laurusedelbacher.com/new_page.html) | ![locked](assets/locked.png) private |
 [kuroiOS](https://kuroi.neocities.org) | ![locked](assets/locked.png) private |
 [Sacred OS](https://sacred.neocities.org) | [![open](assets/open.png) available](https://github.com/M-Valentino/sacredOS) |
-[ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/soundboard) |
+[ryOS](https://os.ryo.lu) | [![open](assets/open.png) available](https://github.com/ryokun6/ryos) |
 [Ugly Duckling](https://cyanbanister.com) | ![locked](assets/locked.png) private |
 [1-bit rainbow](https://www.1bitrainbow.co.uk) | ![locked](assets/locked.png) private |
 [Gaiabots](https://gaiabots.neocities.org) | ![locked](assets/locked.png) private |
