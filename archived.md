@@ -93,3 +93,4 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [So Many Diamonds](https://web.archive.org/web/20220401074943/https://fictioningcomfort.space/so-many-diamonds/) |
 [OS(KO)](https://web.archive.org/web/20260907155358/https://cmdkolab.github.io/osko/) |
 [finDOS 98](https://findos98.com/app) |
+[akarmainOS](https://github.com/akarmain/site-desktop) |

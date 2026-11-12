@@ -338,7 +338,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Hyggshi OS](https://hyggshiosdeveloper.github.io/hyggshi-os-website/OSmain.html) | [![open](assets/open.png) available](https://github.com/HyggshiOSDeveloper/hyggshi-os-website) |
 [Trollsoft OIL XP](https://coveryourselfinoil.com) | ![locked](assets/locked.png) private |
 [ZezinOS](https://zezinos.site) | [![open](assets/open.png) available](https://github.com/jm-works/ZezinOS) | You can log in with any password |
-[akarmainOS](https://akarmain.ru) | ![locked](assets/locked.png) private |
 [Navi OS](https://gilleece.github.io/Navi-Os/) | [![open](assets/open.png) available](https://github.com/Gilleece/Navi-Os) |
 [Dustin Mierau](https://dustin.works) | ![locked](assets/locked.png) private |
 [Temple OS Web](https://templeosweb.netlify.app) | [![open](assets/open.png) available](https://github.com/ParkerrDev/TempleOS-Web) |
@@ -363,6 +362,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [COMETLINK 96](https://56k.rip) | ![locked](assets/locked.png) private |
 [KWSX Radio](https://radio.kwsx.online) | ![locked](assets/locked.png) private |
 [VAMPII.OS](https://vampuwu.github.io/vampii-os/) | [![open](assets/open.png) available](https://github.com/Vampuwu/vampii-os) |
+[SpaceOS](https://kadraa.space) | [![open](assets/open.png) available](https://github.com/Vampuwu/vampii-os) |
 
 ## Archived
 
