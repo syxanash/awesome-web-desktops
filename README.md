@@ -45,6 +45,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Whimsy Space](https://whimsy.space) | [![open](assets/open.png) available](https://github.com/STRd6/zine) |
 [WinXP](https://winxp.now.sh) | [![open](assets/open.png) available](https://github.com/ShizukuIchi/winXP/) |
 [zach.dev // Software & Adventure](https://zach.dev) | ![locked](assets/locked.png) private |
+[www.chiptune.com](http://www.chiptune.com) | ![locked](assets/locked.png) private | Only runs on HTTP |
 [mattOS](https://matthewpmunger-v2.webflow.io) | ![locked](assets/locked.png) private |
 [waller.is](https://waller.is) | ![locked](assets/locked.png) private |
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com) | ![locked](assets/locked.png) private |
@@ -60,6 +61,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [maple's website!](https://maple.pet) | ![locked](assets/locked.png) private |
 [baz's PC](https://niceware.neocities.org) | ![locked](assets/locked.png) private |
 [Victor Ribeiro](https://victorribeiro.com) | [![open](assets/open.png) available](https://github.com/victorqribeiro/fos) |
+[Nirrius Creative Studio](https://sister.software) | ![locked](assets/locked.png) private |
 [Hillary Churchill - Copywriter](http://hillarychurchill.com) | ![locked](assets/locked.png) private |
 [Bill's World Wide Boutique](https://billsworld.neocities.org) | ![locked](assets/locked.png) private |
 [NyjaOS](https://signal3.neocities.org) | ![locked](assets/locked.png) private |
@@ -219,6 +221,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [macOS in CSS](https://macos-css.vercel.app) | [![open](assets/open.png) available](https://github.com/RedEdge967/MacOS-CSS) |
 [Kisimoff OS](https://kisimoff.com) | [![open](assets/open.png) available](https://github.com/kisimoff/portfolio) |
 [János Kócs \| Portfolio](https://janoskocs.com) | [![open](assets/open.png) available](https://github.com/janoskocs/portfolio) | this site occasionally goes offline |
+[public access memories](https://www.publicaccessmemories.com) | ![locked](assets/locked.png) private |
 [Wes95](https://wes.dev) | [![open](assets/open.png) available](https://github.com/WesSouza/wes.dev) |
 [Windows11-3.0](https://windowsxi.vercel.app) | [![open](assets/open.png) available](https://github.com/MishanPoudel/Windows11-3.0) | You can log in with any<br>username and password |
 [Gersigno's Portfolio](https://www.gersigno.dev) | [![open](assets/open.png) available](https://github.com/Gersigno/gersigno.github.io) |

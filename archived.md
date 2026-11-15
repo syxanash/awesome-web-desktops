@@ -19,14 +19,12 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Paradise OS](https://web.archive.org/web/20180211061618/http://palm.computer/) |
 [Web Desktop](https://web.archive.org/web/20190120054952/https://webdesktop.net/) |
 [And Gallery](https://web.archive.org/web/20200917000023/https://andgallery.art/) |
-[www.chiptune.com](https://web.archive.org/web/20190901114711/http://www.chiptune.com/) |
 [Virtual Desktop](https://web.archive.org/web/20240226144711/http://virtualdesktop.org/) |
 [The Macpaint Gallery](https://web.archive.org/web/20250528020613/https://www.macpaint.org/) |
 [Burgersoft® Corporation](https://web.archive.org/web/20200804174451/https://www.burgersoft.co) |
 [CloudDesk](https://web.archive.org/web/20240721035014/https://www.altaica.altervista.org/) |
 [Welcome to Agora Road](https://web.archive.org/web/20201203062845/https://forum.agoraroad.com/index.php) |
 [TrueSchool Ascii](https://web.archive.org/web/20220101190540/http://trueschool.se/) |
-[Nirrius Creative Studio](https://web.archive.org/web/20210118193913/https://nirri.us/) |
 [hannah blair \| developer & designer](https://web.archive.org/web/20261007015646/https://hannahblair.co.uk/) |
 [erdOS](https://web.archive.org/web/20250613014015/https://erd-os.iamerd.xyz/) |
 [Maxime Elkael](https://github.com/melkael/melkael.github.io) |
@@ -79,7 +77,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Koë's Desktop](https://web.archive.org/web/20240417120032/https://koefka.com/) |
 [Renkbench](https://github.com/renkman/Renkbench) |
 [OS A24 - Y2K Movie](https://web.archive.org/web/20250315033227/https://www.y2k.movie/) |
-[public access memories](https://web.archive.org/web/*/https://publicaccessmemories.com/) |
 [OpenRhapsody](https://web.archive.org/web/20260429215311/https://triiode.neocities.org/) |
 [WebDesk](https://github.com/randomuser691337/webdesk-stable) |
 [CloudyDesk](https://github.com/meugenom/cloudydesk) |
