@@ -34,7 +34,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Ash Kyd](https://ashk.au) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](assets/locked.png) private |
 [Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
-[The Restart Page](http://www.therestartpage.com) | ![locked](assets/locked.png) private |
 [Webamp](https://webamp.org) | [![open](assets/open.png) available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](assets/open.png) available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
 [Geek Prank](https://geekprank.com) | ![locked](assets/locked.png) private |
@@ -122,7 +121,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) | Works only in<br>Chromium based browsers |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
-[Orb](https://desktop.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
 [Classicy](https://robbiebyrd.github.io/classicy/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) private |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) private |
