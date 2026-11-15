@@ -11,6 +11,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 [Mariano Pascual](https://web.archive.org/web/20250424124441/https://www.marianopascual.me/) |
+[AfterStep WM](https://web.archive.org/web/20250220182847/http://www.afterstep.org/) |
 [Denzel Curry x Kenny Beats](https://web.archive.org/web/20220225011033/https://denzelcurry.com/) |
 [Tim R. Morgan](https://web.archive.org/web/20200507020646/https://timmorgan.org/) |
 [Eat Sleep Work](https://web.archive.org/web/20210404122006/https://www.eatsleepwork.com/) |
