@@ -9,7 +9,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
 [The Restart Page](https://web.archive.org/web/20230130084218/http://www.therestartpage.com/) |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |
-[Jack Kim](https://www.jackk.im) |
 [BritneyOS'99](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/) |
 [Mariano Pascual](https://web.archive.org/web/20250424124441/https://www.marianopascual.me/) |
 [AfterStep WM](https://web.archive.org/web/20250220182847/http://www.afterstep.org/) |
