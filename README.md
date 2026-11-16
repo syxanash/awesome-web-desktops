@@ -36,7 +36,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
 [Webamp](https://webamp.org) | [![open](assets/open.png) available](https://github.com/captbaritone/webamp) |
 [It is as if you were doing work](https://pippinbarr.github.io/itisasifyouweredoingwork) | [![open](assets/open.png) available](https://github.com/pippinbarr/itisasifyouweredoingwork) |
-[Jack Kim](https://www.jack.kim) | ![locked](assets/locked.png) private |
+[KIM/OS](https://www.jack.kim) | ![locked](assets/locked.png) private |
 [Geek Prank](https://geekprank.com) | ![locked](assets/locked.png) private |
 [Eric Bernacchi](https://eeerik.com) | ![locked](assets/locked.png) private |
 [OS.js](https://demo.os-js.org) | [![open](assets/open.png) available](https://github.com/os-js/OS.js) |
