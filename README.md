@@ -124,6 +124,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Windows 11 in Preact](https://win11.vercel.app) | [![open](assets/open.png) available](https://github.com/piyushsuthar/windows-11-web) |
 [RebornXP](https://xp.quenq.com) | [![open](assets/open.png) available](https://github.com/shoaib-jamal/rebornxp) | Works only in<br>Chromium based browsers |
 [WWWerd](https://theoldnet.com/desktop/) | [![open](assets/open.png) available](https://github.com/TheOldNet/web-windows) |
+[Orb](https://orb.leisink.net) | [![open](assets/open.png) available](https://gitlab.com/hsleisink/orb) |
 [Classicy](https://robbiebyrd.github.io/classicy/) | [![open](assets/open.png) available](https://github.com/robbiebyrd/classicy) |
 [Harrison's Home](https://harrisonm.com) | ![locked](assets/locked.png) private |
 [Janne Koivisto](https://janneilkka.com) | ![locked](assets/locked.png) private |
@@ -286,7 +287,6 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [maddycha](https://maddycha.com) | ![locked](assets/locked.png) private |
 [Poliqu.art 98](https://poliqu.art) | ![locked](assets/locked.png) private |
 [PatOS](https://www.patcanella.com/classic/) | ![locked](assets/locked.png) private | Works best in<br>Chromium based browsers |
-[HuopaOS](https://allucat1000.github.io/HuopaOS/) | [![open](assets/open.png) available](https://github.com/allucat1000/HuopaOS) |
 [Windows 99](https://win99.dev) | ![locked](assets/locked.png) private | You must create a new user<br>in the login screen first<br>before accessing the desktop |
 [Lucy's Computer](https://lucypham.github.io/desktop-archive/) | ![locked](assets/locked.png) private |
 [project vv](https://projectvv.de) | ![locked](assets/locked.png) private |

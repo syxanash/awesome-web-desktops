@@ -51,7 +51,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Puter](https://github.com/heyPuter/puter/) |
 [Things](https://web.archive.org/web/20230519004753/https://things.inc/) |
 [FoundationOS](https://web.archive.org/web/20240501000000*/https://os.foundation.app/) |
-[Orb](https://gitlab.com/hsleisink/orb) |
 [HeadOffice](https://web.archive.org/web/20230219223306/http://headofffice.com/) |
 [Browso](https://web.archive.org/web/20230701000000*/https://www.browso.app) |
 [Sam Likes Code](https://github.com/Goggwell/newfolio/) |
@@ -88,6 +87,7 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 [Lola OS](https://web.archive.org/web/20251113143208/https://www.radiopapi.fm/) |
 [XenOS](https://github.com/NebulaServices/XenOS) |
 [河川敷](https://web.archive.org/web/20260324235710/https://ksnjk.moo.jp/) |
+[HuopaOS](https://web.archive.org/web/20251221171721/https://allucat1000.github.io/HuopaOS/) |
 [Ubuntu Linux Website](https://web.archive.org/web/20260109071125/https://www.damianb.dev/) |
 [So Many Diamonds](https://web.archive.org/web/20220401074943/https://fictioningcomfort.space/so-many-diamonds/) |
 [OS(KO)](https://web.archive.org/web/20260907155358/https://cmdkolab.github.io/osko/) |
