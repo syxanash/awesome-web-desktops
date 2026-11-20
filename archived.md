@@ -5,7 +5,6 @@ A snapshot of the Web Desktop version should still be available on Internet Arch
 
 | Site name |
 |---|
-[Cyberspace & Time](https://web.archive.org/web/20260706002740/https://cyberspaceandtime.com/I1fYQnGOUug.video+related) |
 [Artur Bień](https://web.archive.org/web/20220401074943/https://www.expensive.toys/) |
 [The Restart Page](https://web.archive.org/web/20230130084218/http://www.therestartpage.com/) |
 [frankenSim](https://web.archive.org/web/20231105043617/http://frankensim.animade.tv/) |

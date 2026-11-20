@@ -32,6 +32,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [Nightwave Plaza](https://plaza.one) | [![open](assets/open.png) available](https://github.com/nightwaveplaza) |
 [Poolsuite](https://poolsuite.net) | ![locked](assets/locked.png) private |
 [Ash Kyd](https://ashk.au) | [![open](assets/open.png) available](https://github.com/AshKyd/ui95) |
+[Cyberspace & Time](http://cyberspaceandtime.com/Gaano9Y6KAU.video+related) | ![locked](assets/locked.png) private |
 [WWWTXT](https://wwwtxt.org/about) | ![locked](assets/locked.png) private |
 [Windows 93](https://www.windows93.net) | [![open](assets/open.png) available](https://github.com/windows93dotnet/sys42) |
 [Webamp](https://webamp.org) | [![open](assets/open.png) available](https://github.com/captbaritone/webamp) |
