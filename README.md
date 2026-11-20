@@ -364,6 +364,7 @@ The web's biggest curated directory of apps, portfolios and experiments that mim
 [KWSX Radio](https://radio.kwsx.online) | ![locked](assets/locked.png) private |
 [VAMPII.OS](https://vampuwu.github.io/vampii-os/) | [![open](assets/open.png) available](https://github.com/Vampuwu/vampii-os) |
 [SpaceOS](https://kadraa.space) | ![locked](assets/locked.png) private |
+[LunarOS](https://lunarhaze.co) | ![locked](assets/locked.png) private | 21+ age check<br>on first visit |
 
 ## Archived
 
